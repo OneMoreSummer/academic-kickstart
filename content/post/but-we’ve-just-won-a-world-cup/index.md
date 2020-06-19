@@ -36,7 +36,7 @@ Research has shown significant RAE up to and including U17 cricket but has gener
 
 \* It should be noted that this analysis only looks at RAE. The effects of Maturation (Biological Age) can have up to 10x the effect RAE can have on selection bias for Late Maturers (4). RAE can provide up to 1 year difference but the timing of the adolescent growth spurt can be up to 5 years apart. This analysis had no access to Biological Age data.
 
-## ODI Selections 2000-2020
+#### ODI Selections 2000-2020
 
 How do you compare the output of players who provide a range of performance metrics? How do you compare the value of batsmen against bowlers, keepers and fielders? It’s difficult. Here we have used how many matches a player is selected for to provide a good indicator of their value over a career.
 
@@ -72,7 +72,9 @@ Figure 2.
 
 Figure 3.
 
-But we’ve just won a thrilling World Cup!
+
+
+#### But we’ve just won a thrilling World Cup!
 
 Yes, it may seem counterintuitive to question systemic bias after World Cup success.
 
@@ -82,9 +84,13 @@ But RAE is one factor that will always be part of the bigger picture. This longi
 
 Q1/Q2 represent 9 of the last 12 picks for the ODI team of which none are Q4.
 
+
+
 Next article:
 
 Q3/Q4 Late Maturers. ‘Extinction of the unluckiest’?
+
+
 
 REFERENCES
 
