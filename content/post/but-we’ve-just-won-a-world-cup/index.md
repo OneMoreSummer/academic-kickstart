@@ -52,17 +52,11 @@ Figure 1.
 
 (\*\*Adjusted for players raised outside of the UK)
 
-Q1/Q2 players have a higher combined total number of matches played than Q3/Q4 (Figure 2) Q1/Q2 total matches are 10% higher than Q3/Q4.
+**Q1/Q2 players have a higher combined total number of matches played than Q3/Q4.** (Figure 2) Q1/Q2 total matches are 10% higher than Q3/Q4.
 
-Q1/Q2 players are 50% more likely to be selected than Q3/Q4 players. 60:40 split. (Figure 3).
+**Q1/Q2 players are 50% more likely to be selected than Q3/Q4 players.** 60:40 split. (Figure 3).
 
-On average a Q3/Q4 player will have a career of 48 matches whereas a Q1/Q2 player will only play 36. A Q3/Q4 player will have a longer career (+30%) than Q1/Q2. This selection disparity is another example of RAE and one that applies to international cricket.
-
-Figure 1.
-
-(*For players to debut from 2000 onwards)
-
-(\*\*Adjusted for players raised outside of the UK)
+**On average a Q3/Q4 player will have a career of 48 matches whereas a Q1/Q2 player will only play 36.** A Q3/Q4 player will have a longer career (+30%) than Q1/Q2. This selection disparity is another example of RAE and one that applies to international cricket.
 
 ![](https://lh4.googleusercontent.com/6HWUqhknaHEJ9H_Sf0xT5s2u1edfbAVFUf_wB9EhZDSfwfQZDGv-3r0wUGMtISamPJj-2I0O2LvjYtHPXCafa18LD8oynDrOG75gzVTN3sKVCuuJrNIXDgs8Ta1ArpS2g6aPBqpI)
 
@@ -71,8 +65,6 @@ Figure 2.
 ![](https://lh3.googleusercontent.com/gfXcM4OIm9fOFIMgyexW9zEOgx3RxVJq7jtLybFsIX46QzvGgGa-T7pwsSrM7ZJwWuSHqXKlU17XLp85lhD-Wl18bMcQKBIROMW1mfwOjpXV-HwvXymUyc5-_obpj43bV7Wpxm8d)
 
 Figure 3.
-
-
 
 #### But we’ve just won a thrilling World Cup!
 
@@ -84,16 +76,14 @@ But RAE is one factor that will always be part of the bigger picture. This longi
 
 Q1/Q2 represent 9 of the last 12 picks for the ODI team of which none are Q4.
 
-
-
 Next article:
 
 Q3/Q4 Late Maturers. ‘Extinction of the unluckiest’?
 
-
-
 REFERENCES
 
-1. Jones (2019)
-2. Barney (2015)
-3. Aussie??? (2019)
+Jones (2019)
+
+Barney (2015)
+
+Aussie??? (2019)
