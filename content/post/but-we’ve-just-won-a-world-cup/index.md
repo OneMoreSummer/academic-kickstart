@@ -70,10 +70,6 @@ Q1/Q2 represent 9 of the last 12 picks for the ODI team of which none are Q4.
 
 
 
-Next article:
-
-Q3/Q4 Late Maturers. ‘Extinction of the unluckiest’?
-
 REFERENCES
 
 1. Jones (2019) <https://www.researchgate.net/publication/317666419_New_evidence_of_relative_age_effects_in_super-elite_sportsmen_a_case_for_the_survival_and_evolution_of_the_fittest>
