@@ -54,13 +54,9 @@ How do you compare the output of players who provide a range of performance metr
 
 **On average a Q3/Q4 player will have a career of 48 matches whereas a Q1/Q2 player will only play 36.** A Q3/Q4 player will have a longer career (+30%) than Q1/Q2. This selection disparity is another example of RAE and one that applies to international cricket.
 
-![](https://lh4.googleusercontent.com/6HWUqhknaHEJ9H_Sf0xT5s2u1edfbAVFUf_wB9EhZDSfwfQZDGv-3r0wUGMtISamPJj-2I0O2LvjYtHPXCafa18LD8oynDrOG75gzVTN3sKVCuuJrNIXDgs8Ta1ArpS2g6aPBqpI)
+![More matches are player overall by Q1/Q2 than Q3/Q4. Most are played by Q2 & Q3.](matches-played-by-qtr-odi-200-2020.png "Matches played in ODI cricket by Birth Quarter")
 
-Figure 2.
-
-![](https://lh3.googleusercontent.com/gfXcM4OIm9fOFIMgyexW9zEOgx3RxVJq7jtLybFsIX46QzvGgGa-T7pwsSrM7ZJwWuSHqXKlU17XLp85lhD-Wl18bMcQKBIROMW1mfwOjpXV-HwvXymUyc5-_obpj43bV7Wpxm8d)
-
-Figure 3.
+![More Q1/Q2 players are selected for England ODIs than Q3/Q4](players-odi-200-2020.png "Players selected for England ODIs from 2000-2020")
 
 #### But we’ve just won a thrilling World Cup!
 
@@ -71,6 +67,8 @@ Also RAE is not the only issue. Team sport is extremely complex and multifactori
 But RAE is one factor that will always be part of the bigger picture. This longitudinal analysis suggests that continuing to select more Q1/Q2 than Q3/Q4 seems a poor return on investment and the loss of a potential international advantage.
 
 Q1/Q2 represent 9 of the last 12 picks for the ODI team of which none are Q4.
+
+
 
 Next article:
 
