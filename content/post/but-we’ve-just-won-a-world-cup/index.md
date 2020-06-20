@@ -44,13 +44,9 @@ How do you compare the output of players who provide a range of performance metr
 
 **Q1/Q2 players play fewer matches over their careers than Q3/Q4.** (Figure1).
 
-![](https://lh5.googleusercontent.com/w1V1Zlj6mJ7HvSw3K3mUQ_AeFrcvQlODWkdlP9Kb_hgzPcZ286RnX1A69xvwP3JWDKSnvmW_tlExdReSAiZnzBGcuM8Q_JiHZ8XFizU9ey00uy_4xB492xm0v76Mp8oWA3SIOF42)
+![Shows how Q3/Q4 play more matches over a career than Q1/Q2 players in ODI cricket for England](mpp-odi-200-2020.png "Matches Per Player ODIs 2000-2020")
 
-Figure 1.
 
-(*For players to debut from 2000 onwards)
-
-(\*\*Adjusted for players raised outside of the UK)
 
 **Q1/Q2 players have a higher combined total number of matches played than Q3/Q4.** (Figure 2) Q1/Q2 total matches are 10% higher than Q3/Q4.
 
@@ -83,9 +79,6 @@ Q3/Q4 Late Maturers. ‘Extinction of the unluckiest’?
 REFERENCES
 
 1. Jones (2019) <https://www.researchgate.net/publication/317666419_New_evidence_of_relative_age_effects_in_super-elite_sportsmen_a_case_for_the_survival_and_evolution_of_the_fittest>
-
 2. Barney (2015)  <https://research.bangor.ac.uk/portal/files/20579939/null>
-
 3. O'Connor (2019) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6526896/>
-
 4. Whiteley (2017) <https://www.jsams.org/article/S1440-2440(17)30047-6/fulltext>
