@@ -4,7 +4,7 @@ superuser: true
 authors:
   - admin
 title: Rob Reed
-role: Cricket Coach
+role: ""
 bio: "Interested in Relative Age & Maturation Effects in Player Id & Development
   🏏 #OneMoreSummer"
 interests:
