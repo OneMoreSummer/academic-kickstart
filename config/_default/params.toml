@@ -135,7 +135,7 @@ twitter = "NoThirdMan"
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "2,Jan 2006"
+date_format = "2, Jan 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
@@ -167,7 +167,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 highlight_superuser = false
 
 # Link authors to their profile page? (true/false)
-link_authors = true
+link_authors = false
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
