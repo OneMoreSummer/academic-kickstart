@@ -64,7 +64,7 @@ Yes, it may seem counterintuitive to question systemic bias after World Cup succ
 
 Also RAE is not the only issue. Team sport is extremely complex and multifactorial.
 
-But RAE is one factor that will always be part of the bigger picture. This longitudinal analysis suggests that continuing to select more Q1/Q2 than Q3/Q4 seems a poor return on investment and the loss of a potential international advantage.
+But RAE is one factor that will always be part of the bigger picture. This longitudinal analysis suggests that **continuing to select more Q1/Q2 than Q3/Q4 seems a poor return on investment and the loss of a potential international advantage.**
 
 Q1/Q2 represent 9 of the last 12 picks for the ODI team of which none are Q4.
 
