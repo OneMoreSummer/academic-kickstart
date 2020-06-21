@@ -8,11 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
-
-
-**Yes. Research has shown <Relative Age Effect> (RAE) in English and Australian cricket player pathways.**
+**Yes. Research has shown Relative Age Effect (RAE) in English and Australian cricket player pathways.**
 
 In 2015 Ed Barney from Bangor University, in working with the ECB, looked at RAE in English cricket as part of his PhD. He found RAE in most of the entire pathway.
 
@@ -24,11 +20,7 @@ In 2015 Ed Barney from Bangor University, in working with the ECB, looked at RAE
 * U17 were not included due to the small sample size involved.
 * More significant RAE was found in Fast Bowlers relative to Batsman and Spinners.
 
-
-
 In 2019 Ben Jones also from Bangor University continued the ECB’s longitudinal study by looking at RAE in ‘super-elite’ sportsmen in cricket and rugby as part of his PhD. There was evidence of RAE across all disciplines for super-elite cricketers from across the world in the last 20 years. Fast Bowlers had some RAE but not to a statistically significant level.
-
-
 
 O’Connor(2019) in Australia found RAE in U15, U17 and U19 age groups for men. U15 and U18 for women. It was not found at State (Senior) level. RAE was most prevalent in Fast Bowlers and Right Handed Batsmen.
 
@@ -44,8 +36,6 @@ It’s INEFFICIENT. Q1/Q2/Early Maturers have much lower ‘graduation’ rates.
 
 [\#OneMoreSummer](https://twitter.com/hashtag/OneMoreSummer?src=hashtag_click)
 
-
-
 **What can we do about it?**
 
 MEASURE. Height/Weight Qtrly. Use % of Predicted Adult Height to know Biological Age.
@@ -59,8 +49,6 @@ USE numbered shirts in birth date order at trials (4).
 NOTES
 
 \* It should be noted that this analysis only looks at RAE. The effects of Maturation (Biological Age) can have up to 10x the effect RAE can have on selection bias for Late Maturers (5). RAE can provide up to 1 year difference but the timing of the adolescent growth spurt can be up to 5 years apart. This analysis had no access to Biological Age data.
-
-
 
 REFERENCES
 
