@@ -24,11 +24,15 @@ Figure 2 below shows that for the last four World Cups the bias towards Q1/Q2 pl
 
 Research has shown that RAE exists in UK and Australian player pathways (1,2,3). This research also suggests that RAE decreases from U17 onwards (-> U19 -> Seniors). This analysis suggests otherwise for U19 World Cup squads and that there is a trend to select more and more Q1/Q2 players relative to Q3/Q4.
 
-
-
 NOTES
 
 This analysis only looks at World Cup squads and not the entire U19 player pool. Selection for a marquee event will be different as ‘winning’ is more emphasised.
 
 \
 REFERENCES
+
+
+
+1. Jones (2019) <https://www.researchgate.net/publication/317666419_New_evidence_of_relative_age_effects_in_super-elite_sportsmen_a_case_for_the_survival_and_evolution_of_the_fittest>
+2. Barney (2015)  <https://research.bangor.ac.uk/portal/files/20579939/null>
+3. O'Connor (2019) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6526896/>
