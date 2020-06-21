@@ -10,7 +10,7 @@ image:
 ---
 **Yes. Research has shown Relative Age Effect (RAE) in the English and Australian cricket player pathways.**
 
-In 2015 Ed Barney from Bangor University, in working with the ECB, looked at RAE in English cricket as part of his PhD. He found RAE in most of the player pathway.
+In 2015 Ed Barney (2) from Bangor University, in working with the ECB, looked at RAE in English cricket as part of his PhD. He found RAE in most of the player pathway.
 
 * U12, U14, U15 EDP (England Development Programme), U16 EDP TT (Talent Testing) and U17 EDP for all disciplines within cricket.
 * He didn’t find RAE at the U19 level.
@@ -20,9 +20,9 @@ In 2015 Ed Barney from Bangor University, in working with the ECB, looked at RAE
 * U17 were not included due to the small sample size involved.
 * More significant RAE was found in Fast Bowlers relative to Batsman and Spinners.
 
-In 2019 Ben Jones also from Bangor University continued the ECB’s longitudinal study by looking at RAE in ‘super-elite’ sportsmen in cricket and rugby as part of his PhD. There was evidence of RAE across all disciplines for super-elite cricketers from across the world in the last 20 years. Fast Bowlers had some RAE but not to a statistically significant level.
+In 2019 Ben Jones (1) also from Bangor University continued the ECB’s longitudinal study by looking at RAE in ‘super-elite’ sportsmen in cricket and rugby as part of his PhD. There was evidence of RAE across all disciplines for super-elite cricketers from across the world in the last 20 years. Fast Bowlers had some RAE but not to a statistically significant level.
 
-O’Connor(2019) in Australia found RAE in U15, U17 and U19 age groups for men. U15 and U18 for women. It was not found at State (Senior) level. RAE was most prevalent in Fast Bowlers and Right Handed Batsmen.
+O’Connor (2019) (3) in Australia found RAE in U15, U17 and U19 age groups for men. U15 and U18 for women. It was not found at State (Senior) level. RAE was most prevalent in Fast Bowlers and Right Handed Batsmen.
 
 **Why should we be bothered about Relative Age & Maturation Effects?**
 
