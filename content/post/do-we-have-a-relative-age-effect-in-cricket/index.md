@@ -10,8 +10,6 @@ image:
 ---
 **Yes. Research has shown Relative Age Effect (RAE) in the English and Australian cricket player pathways.**
 
-![](cricketstadium.jpg)
-
 In 2015 Ed Barney (2) from Bangor University, in working with the ECB, looked at RAE in English cricket as part of his PhD. He found RAE in most of the player pathway.
 
 * U12, U14, U15 EDP (England Development Programme), U16 EDP TT (Talent Testing) and U17 EDP for all disciplines within cricket.
