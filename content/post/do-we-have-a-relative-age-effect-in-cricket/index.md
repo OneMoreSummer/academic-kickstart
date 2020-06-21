@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**Yes. Research has shown Relative Age Effect (RAE) in English and Australian cricket player pathways.**
+**Yes. Research has shown Relative Age Effect (RAE) in the English and Australian cricket player pathways.**
 
 In 2015 Ed Barney from Bangor University, in working with the ECB, looked at RAE in English cricket as part of his PhD. He found RAE in most of the entire pathway.
 
