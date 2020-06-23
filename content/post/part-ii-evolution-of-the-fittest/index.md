@@ -54,7 +54,7 @@ It could be argued that Fast Bowlers require the highest levels of physicality w
 
 NOTES
 
-There are 103 players who have made their debut from 2000 onwards. This also includes players recently selected who are at the start of their careers. 9 of the last 12 players are from Q/1Q2. This will have a ‘drag effect’ on the average career matches for Q1/Q2s.
+There are 103 players who have made their debut from 2000 onwards. This also includes players recently selected who are at the start of their careers. 9 of the last 12 players are from Q1/Q2. This will have a ‘drag effect’ on the average career matches for Q1/Q2s.
 
 REFERENCES
 
