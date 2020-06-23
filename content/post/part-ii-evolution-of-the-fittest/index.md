@@ -36,9 +36,11 @@ For batsmen the RAE found in Part I is less clear. There is overselection for Q1
 
 Drawing any conclusions from the Spinners group is problematic. Bowlers are often all-rounders and are selected based on what they offer with the bat. One group (Q4) only has two players, Moeen Ali and Ian Blackwell, who both are accomplished batsmen. They have played 136 matches between them. There does appear again to be some overselection of Q1 players however.
 
-Figure 5
+![](spinnersselectedbyqtrodi2000-2020.png)
 
-Figure 6
+
+
+![](matchesperspinnerbyqtrodi2000-2020.png)
 
 **Conclusions**
 
