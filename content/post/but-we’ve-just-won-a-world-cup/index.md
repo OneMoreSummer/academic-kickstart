@@ -46,8 +46,6 @@ How do you compare the output of players who provide a range of performance metr
 
 ![Shows how Q3/Q4 play more matches over a career than Q1/Q2 players in ODI cricket for England](mpp-odi-200-2020.png "Matches Per Player ODIs 2000-2020")
 
-
-
 **Q1/Q2 players have a higher combined total number of matches played than Q3/Q4.** (Figure 2) Q1/Q2 total matches are 10% higher than Q3/Q4.
 
 **Q1/Q2 players are 50% more likely to be selected than Q3/Q4 players.** 60:40 split. (Figure 3).
@@ -68,7 +66,7 @@ But RAE is one factor that will always be part of the bigger picture. This longi
 
 Q1/Q2 represent 9 of the last 12 picks for the ODI team of which none are Q4.
 
-
+[Part II](https://onemoresummer.co.uk/post/part-ii-evolution-of-the-fittest/)
 
 REFERENCES
 
