@@ -24,4 +24,44 @@ In this article we look at how these figures are influenced by discipline. Namel
 
 ![More Q1 and Q2 especially Fast Bowlers selected for ODIs 2000-2020 than Q3/Q4.](fastbowlersbyqtrodi2000-2020.png "Number of Fast Bowlers selected for ODIs 2000-2020 By Birth Quarter")
 
+
+
+**ODI Batsmen born between September and October are the most selected Birth Quarter (34%) yet play FEWER matches (45) than those born between November and May (68).**
+
+Figure 3
+
+Figure 4
+
+For batsmen the RAE found in Part I is less clear. There is overselection for Q1 and some under selection for Q2 but negligible performance differences between Q/1Q2 and Q3/Q4 when combined.
+
+
+
+Drawing any conclusions from the Spinners group is problematic. Bowlers are often all-rounders and are selected based on what they offer with the bat. One group (Q4) only has two players, Moeen Ali and Ian Blackwell, who both are accomplished batsmen. They have played 136 matches between them. There does appear again to be some overselection of Q1 players however.
+
+Figure 5
+
+Figure 6
+
+
+
+**Conclusions**
+
+Fast Bowlers contribute to the disparity found in Part I more than Batsman and Spinners.
+
+There is some evidence of ‘RAE Reversal’ in sports or disciplines within sports that are more reliant on physicality. RAE Reversal is where the Q3 and/or Q4s are found to be significantly selected more. This can be found at senior levels once the immediate physical advantages of earlier development for Q1s and/or Q2s has disappeared. Jones (2019) (1) within his PhD study. In Chapter 2 ‘New evidence of relative age effects in ‘super-elite’ sportsmen: a case for the survival and evolution of the fittest’ discusses how a Q4 bias is found in Rugby Union forwards whereas a Q1 bias is found in the backs. ‘This is demonstrated by the Q4 RAE observed for super-elite rugby union forwards, indicative of the ‘evolution of the fittest’ concept; the overcoming of significant challenges (associated with the disparity in physical size during development) likely fosters resilience, and a mindset for achievement at the highest level.’ 
+
+It could be argued that Fast Bowlers require the highest levels of physicality within cricket and hence why we find, in terms of performance at least, a RAE Reversal within the data.
+
+
+
+NOTES
+
+There are 103 players who have made their debut from 2000 onwards. This also includes players recently selected who are at the start of their careers. 9 of the last 12 players are from Q/1Q2. This will have a ‘drag effect’ on the average career matches for Q1/Q2s.
+
+
+
+REFERENCES
+
+
+
 ![Most Matches Played By Q3/Q4 Fast Bowlers in ODIs 2000-2020](fastbowlersmatchesbyqtrodi2000-2020.png "Matches Per Fast Bowler in ODIs 2000-2020")
