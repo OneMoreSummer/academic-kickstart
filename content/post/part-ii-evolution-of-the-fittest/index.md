@@ -1,7 +1,7 @@
 ---
 title: "Part II: Evolution of the Fittest?"
 subtitle: Fast Bowlers are the main reason for the Relative Age Effect found in
-  Part I (England ODI Matches Per Player By Birth Quarter).
+  Part I (England ODI Matches Per Player By Birth Quarter 2000-2020).
 date: 2020-06-23T19:51:40.722Z
 draft: false
 featured: false
