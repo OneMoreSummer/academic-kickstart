@@ -28,9 +28,9 @@ In this article we look at how these figures are influenced by discipline. Namel
 
 **ODI Batsmen born between September and October are the most selected Birth Quarter (34%) yet play FEWER matches (45) than those born between November and May (68).**
 
-Figure 3
+![](batsmenbyqtrodi2000-2020.png)
 
-Figure 4
+![](matchesperbatsmenbyqtrodi2000-2020.png)
 
 For batsmen the RAE found in Part I is less clear. There is overselection for Q1 and some under selection for Q2 but negligible performance differences between Q/1Q2 and Q3/Q4 when combined.
 
