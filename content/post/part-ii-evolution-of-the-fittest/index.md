@@ -16,7 +16,9 @@ image:
 
 In [Part I](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/) we looked at how England One Day International (ODI) players born between September and February play fewer matches over a career (36) than those born between March and August (48), but are selected more often (60:40).
 
-In this article we look at how these figures are influenced by discipline. Namely by allocating the 103 players who have played ODI cricket since 2000 into three groups, Batsmen, Spinners and Fast Bowlers. Players were allocated a single role from what is perceived to be their current main role. So for example Ben Stokes is mainly a batsman and Moeen Ali is mainly a spinner.
+In this article we look at how these figures are influenced by discipline. Namely by allocating the 103 players who have played ODI cricket since 2000 into three groups, Batsmen, Spinners and Fast Bowlers. Players were allocated a single role from what is perceived to be their current main role. 
+
+
 
 **What do we find?**
 
@@ -38,8 +40,6 @@ Drawing any conclusions from the Spinners group is problematic. Bowlers are ofte
 
 ![](spinnersselectedbyqtrodi2000-2020.png)
 
-
-
 ![](matchesperspinnerbyqtrodi2000-2020.png)
 
 **Conclusions**
@@ -51,8 +51,6 @@ There is some evidence of ‘RAE Reversal’ in sports or disciplines within spo
 It could be argued that Fast Bowlers require the highest levels of physicality within cricket and hence why we find, in terms of performance at least, a RAE Reversal within this data.
 
 [Part I](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/)
-
-
 
 NOTES
 
