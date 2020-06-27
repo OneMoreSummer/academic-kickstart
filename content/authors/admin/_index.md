@@ -20,18 +20,18 @@ user_groups:
   - Researchers
   - Visitors
 ---
-This purpose of this blog is to promote changes in policy and practice to ensure ALL players have an EQUAL opportunity by reducing the influence of Relative Age Effect and Maturation on selection and development in the player pathway.
+**This purpose of this blog is to promote changes in policy and practice to ensure ALL players have an EQUAL opportunity by reducing the influence of Relative Age Effect and Maturation on selection and development in the player pathway.**
 
 **\
 What do we know?**
 
-RAE exists in cricket.
+[RAE exists in cricket.](https://onemoresummer.co.uk/post/do-we-have-a-relative-age-effect-in-cricket/)
 
 RAE exists in pathway cricket in Eng up to U17 in and Aus, up to U17, for men and women.
 
-RAE exists in Eng U19 World Cup squads.
+[RAE exists in Eng U19 World Cup squads.](onemoresummer.co.uk/post/rae-increasing-in-england-u19-world-cup-squads/)
 
-RAE exists in Eng ODI selection.
+[RAE exists in Eng ODI selection.](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/)
 
 RAE can be up to a 364 day difference in Chronological Age.
 
