@@ -67,7 +67,7 @@ USE Biological Age & Chron Age in assessing Fitness & Perf Data.
 
 **Why One More Summer?**
 
-Kids grow up to 3x faster in the Summer than the Winter. Those born in the first half of the academic/sporting year will always have had 'One More Summer' to grow when starting a new cricket season.
+Kids grow, up to, 3x faster in the Summer than the Winter. Those born in the first half of the academic/sporting year will always have had 'One More Summer' to grow when starting a new cricket season.
 
 
 
