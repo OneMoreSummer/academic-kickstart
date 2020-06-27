@@ -44,7 +44,7 @@ Maturation/Biological Age can be measured (accurately) using the Khamis-Roche me
 
 **Why should we care about this?**
 
-Recognise it’s UNFAIR. All sports should have Equality of Opportunity.
+We should recognise it’s UNFAIR. All sports should have Equality of Opportunity.
 
 It’s COUNTER-PRODUCTIVE. Elite players are derived from a reduced player pool.
 
