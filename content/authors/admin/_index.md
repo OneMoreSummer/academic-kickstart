@@ -30,7 +30,9 @@ RAE exists in pathway cricket in England up to U17 and Australia, up to U17, for
 
 [RAE exists in Eng U19 World Cup squads.](onemoresummer.co.uk/post/rae-increasing-in-england-u19-world-cup-squads/)
 
-[RAE exists in Eng ODI selection.](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/)
+[RAE is reversed during County Careers to balance out bias at the start.](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/)
+
+[](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/)[RAE exists in Eng ODI selection.](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/)
 
 RAE can be up to a 1 year difference in Chronological Age.
 
