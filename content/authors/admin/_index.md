@@ -5,7 +5,7 @@ authors:
   - admin
 title: Rob Reed
 role: ""
-bio: "Interested in Relative Age & Maturation Effects in Player Id & Development
+bio: "Interested in Relative Age Effects & Maturation in Player Id & Development
   🏏 #OneMoreSummer"
 interests:
   - ""
