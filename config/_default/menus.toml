@@ -10,7 +10,7 @@
 
 [[main]]
   name = "About"
-  url = "authors/rob-reed/"
+  url = "author/rob-reed/"
   weight = 10
 
 #[[main]]
