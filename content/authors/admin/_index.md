@@ -20,7 +20,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-This purpose of this blog is to raise awareness of how Relative Age Effect and Maturation influences selection and development on the player pathway. Perhaps this will lead to changes in policy and practice to ensure ALL players have an EQUAL opportunity.
+This purpose of this blog is to promote changes in policy and practice to ensure ALL players have an EQUAL opportunity by reducing the influence of Relative Age Effect and Maturation on selection and development in the player pathway.
 
 **\
 What do we know?**
