@@ -40,9 +40,7 @@ Maturation effects can be up to 10x those of RAE.
 
 Maturation/Biological Age can be measured (accurately) using the Khamis-Roche method.
 
-5 Ages can affect player selection/development - Chronological, Biological, Relative, Training & Developmental/Cognitive/Behavioral. See Joe Eisenmann for a great explanation:
-
-<https://ironmanperformance.org/new-blogs/2020/6/17/lessons-in-growth-amp-maturation-of-young-athletes-the-5-ages-how-old-are-you>
+5 Ages can affect player selection/development - Chronological, Biological, Relative, Training & Developmental/Cognitive/Behavioral. [Joe Eisenmann explains this well.](<https://ironmanperformance.org/new-blogs/2020/6/17/lessons-in-growth-amp-maturation-of-young-athletes-the-5-ages-how-old-are-you>)
 
 **Why should we care about this?**
 
