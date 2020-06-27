@@ -41,3 +41,5 @@ It would appear that Counties, in conjunction with the Young Lions (U19s) progra
 As a result Q3/Q4 players go on to make up a higher proportion of players during their peak years.
 
 Q1/Q2 players however seem to have some longevity with an uptick in 30+ year old players.
+
+The affects of RAE are generally thought to dissipate before U19s and Senior cricket. This analysis seems to question this idea and that the knock on affects of CAG, EPP, Academy & Young Lions over representation of Q1/Q2 lasts for quite a number of years.
