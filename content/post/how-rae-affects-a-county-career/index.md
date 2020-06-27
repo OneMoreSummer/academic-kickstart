@@ -14,11 +14,9 @@ image:
 
 (* from County Squads as listed on their websites in June 2020).
 
-
-
 There is no significant Q1/Q2 bias in County Squads (Figure 1)
 
-![Even split across County Squads of Q1/Q2 and Q3/Q4](countysquadsbyqtr2020.png "County Squads By Qtr 2020")
+![Even split across County Squads of Q1/Q2 and Q3/Q4](countysquadsbyqtr2020-1-.png "County Squads By Qtr 2020")
 
 66% of all County players under the age of 20 (28) have played for the Young Lions (England U19s). Significant Q1/Q2 bias (RAE) was found in the last four U19 World Cup squads. Therefore it is not surprising to find a 64:36 split between Q1/Q2 and Q3/Q4 in this age group (Figure 2).
 
@@ -32,13 +30,9 @@ For the 25-30 year olds (129) there is RAE Reversal, ie. a bias for Q3/Q4 player
 
 ![](25-30countysquadsbyqtr2020.png)
 
-
-
 Over 30 year olds (119) show some Q1/Q2 bias 52:48. This is not impacted by the Overseas players within this group (Figure 5).
 
 ![](30-countysquadsbyqtr2020-1-.png)
-
-
 
 **Conclusions**
 
