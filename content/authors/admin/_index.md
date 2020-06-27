@@ -32,7 +32,7 @@ RAE exists in pathway cricket in England up to U17 and Australia, up to U17, for
 
 [RAE exists in Eng ODI selection.](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/)
 
-RAE can be up to a 364 day difference in Chronological Age.
+RAE can be up to a 1 year difference in Chronological Age.
 
 Maturation can be up to a 5 year difference in Biological Age.
 
