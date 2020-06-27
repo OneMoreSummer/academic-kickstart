@@ -55,7 +55,7 @@ It’s INEFFICIENT.
 
 **What can we do about it?**
 
-MONITOR 5Yr Rolling Averages for Age Groups to target a 25% dist for RAE.
+MONITOR 5 Yr Rolling Averages for Age Groups to target a 25% dist for RAE.
 
 MEASURE. Height/Weight Qtrly. Use % of Predicted Adult Height (Khamis-Roche method) to know Biological Age.
 
