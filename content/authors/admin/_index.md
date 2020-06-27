@@ -59,7 +59,7 @@ MONITOR 5 Yr Rolling Averages for Age Groups to target a 25% dist for RAE.
 
 MEASURE. Height/Weight Qtrly. Use % of Predicted Adult Height (Khamis-Roche method) to know Biological Age.
 
-USE Biological Age & Chron Age in assessing Fitness & Perf Data.
+USE Biological Age & Chronological Age in assessing Fitness & Performance Data.
 
 **Why One More Summer?**
 
