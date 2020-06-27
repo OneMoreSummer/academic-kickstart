@@ -77,4 +77,6 @@ I’m just a parent (and coach) who has experienced the player pathway and notic
 
 **Ignore or act?**
 
-While this can be seen as an ‘interesting’ issue and readily understood, little meaningful action or positive change seems to be happening. It has been stuck at the ‘awareness’ level for a number of years. This blog is a small attempt to counter this. There are many, many biases and systemic issues in cricket. RAE & Maturation is just one of them.
+While this can be seen as an ‘interesting’ issue and readily understood, little meaningful action or positive change seems to be happening. It has been stuck at the ‘awareness’ level for a number of years.
+
+There are many, many biases and systemic issues in cricket. This blog is a small attempt to counter this one.
