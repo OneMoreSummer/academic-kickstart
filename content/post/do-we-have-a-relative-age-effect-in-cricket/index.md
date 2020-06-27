@@ -24,6 +24,12 @@ In 2019 Ben Jones (1) also from Bangor University continued the ECB’s longitud
 
 O’Connor (2019) (3) in Australia found RAE in U15, U17 and U19 age groups for men. U15 and U18 for women. It was not found at State (Senior) level. RAE was most prevalent in Fast Bowlers and Right Handed Batsmen.
 
+[RAE Increasing in England U19 World Cup Squads](https://onemoresummer.co.uk/post/rae-increasing-in-england-u19-world-cup-squads/)
+
+[RAE in England ODI Selection (2000-2020)](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/)
+
+
+
 **Why should we be bothered about Relative Age & Maturation Effects?**
 
 Because:
