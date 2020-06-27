@@ -26,7 +26,7 @@ user_groups:
 
 [RAE exists in cricket.](https://onemoresummer.co.uk/post/do-we-have-a-relative-age-effect-in-cricket/)
 
-RAE exists in pathway cricket in Eng up to U17 in and Aus, up to U17, for men and women.
+RAE exists in pathway cricket in England up to U17 and Australia, up to U17, for men and women.
 
 [RAE exists in Eng U19 World Cup squads.](onemoresummer.co.uk/post/rae-increasing-in-england-u19-world-cup-squads/)
 
@@ -63,13 +63,9 @@ MEASURE. Height/Weight Qtrly. Use % of Predicted Adult Height (Khamis-Roche meth
 
 USE Biological Age & Chron Age in assessing Fitness & Perf Data.
 
-
-
 **Why One More Summer?**
 
 Kids grow, up to, 3x faster in the Summer than the Winter. Those born in the first half of the academic/sporting year will always have had 'One More Summer' to grow when starting a new cricket season.
-
-
 
 **Who am I?**
 
