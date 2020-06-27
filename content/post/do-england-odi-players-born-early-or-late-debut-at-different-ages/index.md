@@ -14,9 +14,9 @@ image:
 
 The Average Age of an England ODI cricketer on debut is **24.6**.
 
-Ave Age By Birth Quarter: Q1 25.7, Q2 24.2, Q3 24.1, Q4 24.6
+Ave Age By Birth Quarter: Q1 **25.7**, Q2 **24.2**, Q3 **24.1**, Q4 **24.6**
 
-Standard Deviation of Age By Birth Quarter: Q1 4.19, Q2 2.49, Q3 2.72, Q4 3.25
+Standard Deviation of Age By Birth Quarter: Q1 **4.19**, Q2 **2.49**, Q3 **2.72**, Q4 **3.25**
 
 Youngest Player: Eoin Morgan 19.9
 
