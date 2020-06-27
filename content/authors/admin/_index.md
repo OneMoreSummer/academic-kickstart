@@ -22,8 +22,6 @@ user_groups:
 ---
 **This purpose of this blog is to promote changes in policy and practice to ensure ALL players have an EQUAL opportunity by reducing the influence of Relative Age Effect and Maturation on selection and development in the player pathway.**
 
-
-
 **What do we know?**
 
 [RAE exists in cricket.](https://onemoresummer.co.uk/post/do-we-have-a-relative-age-effect-in-cricket/)
@@ -46,8 +44,6 @@ Maturation/Biological Age can be measured (accurately) using the Khamis-Roche me
 
 <https://ironmanperformance.org/new-blogs/2020/6/17/lessons-in-growth-amp-maturation-of-young-athletes-the-5-ages-how-old-are-you>
 
-
-
 **Why should we care about this?**
 
 Recognise it’s UNFAIR. All sports should have Equality of Opportunity.
@@ -59,8 +55,6 @@ It’s INEFFICIENT.
 * Q1/Q2/Early Maturers have much lower ‘graduation’ rates
 * Q1/Q2 Eng ODI Players have 33% shorter careers.
 
-
-
 **What can we do about it?**
 
 MONITOR 5Yr Rolling Averages for Age Groups to target a 25% dist for RAE.
@@ -68,6 +62,12 @@ MONITOR 5Yr Rolling Averages for Age Groups to target a 25% dist for RAE.
 MEASURE. Height/Weight Qtrly. Use % of Predicted Adult Height (Khamis-Roche method) to know Biological Age.
 
 USE Biological Age & Chron Age in assessing Fitness & Perf Data.
+
+
+
+**Why One More Summer?**
+
+Kids grow up to 3x faster in the Summer than the Winter. Those born in the first half of the academic/sporting year will always have had 'One More Summer' to grow when starting a new cricket season.
 
 
 
