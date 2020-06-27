@@ -20,7 +20,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-**This purpose of this blog is to promote changes in policy and practice to ensure ALL players have an EQUAL opportunity by reducing the influence of Relative Age Effect and Maturation on selection and development in the player pathway.**
+**This purpose of this blog is to promote changes in policy and practice to ensure ALL players have an EQUAL opportunity by reducing the influence of Relative Age Effect and Maturation on selection and development in the cricket player pathway.**
 
 **What do we know?**
 
