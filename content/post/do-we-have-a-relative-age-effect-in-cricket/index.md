@@ -28,8 +28,6 @@ O’Connor (2019) (3) in Australia found RAE in U15, U17 and U19 age groups for 
 
 [RAE in England ODI Selection (2000-2020)](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/)
 
-
-
 **Why should we be bothered about Relative Age & Maturation Effects?**
 
 Because:
@@ -59,7 +57,7 @@ NOTES
 REFERENCES
 
 1. Jones (2019) <https://www.researchgate.net/publication/317666419_New_evidence_of_relative_age_effects_in_super-elite_sportsmen_a_case_for_the_survival_and_evolution_of_the_fittest>
-2. Barney (2015) <https://research.bangor.ac.uk/portal/files/20579939/null>
+2. Barney (2015) <https://research.bangor.ac.uk/portal/en/theses/preliminary-stages-in-the-validation-of-a-talent-identification-model-in-cricket(a1e7f8cd-2966-4f33-bcad-a65fede16997).html>[](https://research.bangor.ac.uk/portal/files/20579939/null)
 3. O’Connor (2019) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6526896/>
 4. Mann (2016) <https://www.tandfonline.com/doi/full/10.1080/02640414.2016.1189588>
 5. Whiteley (2017) <https://www.jsams.org/article/S1440-2440(17)30047-6/fulltext>
