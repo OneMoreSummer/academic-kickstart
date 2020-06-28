@@ -71,6 +71,6 @@ Q1/Q2 represent 9 of the last 12 picks for the ODI team of which none are Q4.
 REFERENCES
 
 1. Jones (2019) <https://www.researchgate.net/publication/317666419_New_evidence_of_relative_age_effects_in_super-elite_sportsmen_a_case_for_the_survival_and_evolution_of_the_fittest>
-2. Barney (2015)  <https://research.bangor.ac.uk/portal/files/20579939/null>
+2. Barney (2015)  <https://research.bangor.ac.uk/portal/en/theses/preliminary-stages-in-the-validation-of-a-talent-identification-model-in-cricket(a1e7f8cd-2966-4f33-bcad-a65fede16997).html>[](https://research.bangor.ac.uk/portal/files/20579939/null)
 3. O'Connor (2019) <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6526896/>
 4. Whiteley (2017) <https://www.jsams.org/article/S1440-2440(17)30047-6/fulltext>
