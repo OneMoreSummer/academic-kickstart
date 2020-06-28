@@ -44,8 +44,6 @@ Q1/Q2 players however seem to have some longevity with an uptick in 30+ year old
 
 The affects of RAE are generally thought to dissipate before U19s (1) and Senior cricket. This analysis seems to question this idea and that the knock on affects of CAG, EPP, Academy & Young Lions over representation of Q1/Q2 lasts for quite a number of years.
 
-
-
 REFERENCES
 
-1. Barney (2015)  <https://research.bangor.ac.uk/portal/files/20579939/null>
+1. Barney (2015)  <https://research.bangor.ac.uk/portal/en/theses/preliminary-stages-in-the-validation-of-a-talent-identification-model-in-cricket(a1e7f8cd-2966-4f33-bcad-a65fede16997).html>[](https://research.bangor.ac.uk/portal/files/20579939/null)
