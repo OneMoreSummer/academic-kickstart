@@ -30,7 +30,7 @@ For the 25-30 year olds (129) there is RAE Reversal, ie. a bias for Q3/Q4 player
 
 ![](25-30countysquadsbyqtr2020.png)
 
-Over 30 year olds (119) show some Q1/Q2 bias 52:48. This is not impacted by the Overseas players within this group (Figure 5).
+Over 30 year olds (119) show some Q1/Q2 bias 52:48. This is not impacted by the Overseas players within this group (Figure 5). Those who play on past 35 have a higher Q1/Q2 bias 55:45.
 
 ![](30-countysquadsbyqtr2020-1-.png)
 
