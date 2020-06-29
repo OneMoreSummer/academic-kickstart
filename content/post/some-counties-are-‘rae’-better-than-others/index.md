@@ -13,3 +13,5 @@ Recent articles have shown significant Relative Age Effect in [England U19s](htt
 Within these statistics there is quite a lot of variation between counties. RAE in whole squads ranges from Warwickshire at just 29% Q1/Q2 right through to Yorkshire at a whopping 76%.
 
 For U25 players too it varies from Northants at just 14% through to Kent (100%) where all 5 U25 players were born between September and February. Figure 1 shows where all counties currently stand (June 2020).
+
+![](county-rae.png)
