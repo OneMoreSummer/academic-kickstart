@@ -16,8 +16,8 @@ It’s COUNTER-PRODUCTIVE. Elite players are derived from a reduced player pool.
 
 It’s INEFFICIENT.
 
-* Q1/Q2/Early Maturers have much lower rates of becoming established Professionals
-* Q1/Q2 Eng ODI Players have 33% shorter careers.
+* Q1/Q2/Early Maturers have [much lower rates of becoming established Professionals](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/)
+* Q1/Q2 Eng ODI Players [have 33% shorter careers](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/).
 
 **\
 What can we do about it?**
