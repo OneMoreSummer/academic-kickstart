@@ -30,4 +30,4 @@ USE Biological Age & Chronological Age in assessing Fitness & Performance Data.
 
 USE Age ordered bibs at trials to help coaches make better informed decisions.
 
-What else wouyld you suggest? Let me know [@nothirdman](twitter.com/nothirdman).
+What else wouyld you suggest? Let me know [@nothirdman](http://twitter.com/nothirdman).
