@@ -14,4 +14,4 @@ Within these statistics there is quite a lot of variation between counties. RAE 
 
 For U25 players too it varies from Northants at just 14% through to Kent (100%) where all 5 U25 players were born between September and February. Figure 1 shows where all counties currently stand (June 2020).
 
-![](county-rae.png)
+![The range of Q1/Q2 Percentages between Counties](county-rae.png "Q1/Q2 %s for Whole Squads and for U25s for All Counties")
