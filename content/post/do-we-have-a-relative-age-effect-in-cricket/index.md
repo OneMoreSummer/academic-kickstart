@@ -28,6 +28,8 @@ O’Connor (2019) (3) in Australia found RAE in U15, U17 and U19 age groups for 
 
 [RAE in England ODI Selection (2000-2020)](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/)
 
+[RAE in County U20s & RAE Reversal by age 25](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/)
+
 **Why should we be bothered about Relative Age & Maturation Effects?**
 
 Because:
