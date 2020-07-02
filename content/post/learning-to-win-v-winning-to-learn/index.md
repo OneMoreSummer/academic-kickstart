@@ -22,6 +22,6 @@ ACTION PLAN
 4. ECB needs a policy to ensure ALL First Class Counties (FCCs) & National Counties (NCs) do this.
 5. All trials to use Date Order Bibs.
 
-![](morning-brew-14rdh9a1gy8-unsplash.jpg)
+![](learning-to-win.png)
 
 The ECB must lead on this. By selecting more equitably, more ‘smaller’ Q3/Q4 players will play. This could very well make an age group team less competitive IN THE SHORT TERM. If Counties play opposition who continue with a ‘Winning to Learn’ mentality instead of ‘Learning to Win’ then we will encounter resistance.
