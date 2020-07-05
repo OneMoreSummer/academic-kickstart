@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**Since 2001 Q3/Q4 England Women ODI players have played TWICE as many matches as Q1/Q2 player**
+**Since 2001 Q3/Q4 England Women ODI players have played TWICE as many matches as Q1/Q2 players**
 
 Maturation in women happens earlier and has less of an effect on physicality than in men. In women maturation causes a change in body composition with fat mass increasing relative to muscle whereas in men it causes an increase in muscle mass. Therefore it is often found that girls that are late maturers and/or are born later in the sporting year are overly selected because they are/appear to be more athletic.
 
@@ -19,8 +19,6 @@ Isa Guha made her ODI debut in 2001. Interestingly, before 2001 Q1/Q2 England Wo
 Before Isa Q1/Q2 players dominated both in terms of numbers of players (57:43) but more so matches played (78:22) (Figure 1). Post 2001 selection has changed radically. Q3/Q4 players now dominate, slightly in terms of numbers of players (46:54) but more so matches played (34:66) (Figure 2).
 
 ![](matchesbyqtrenglandwomenodipre2001.png)
-
-
 
 ![](copy-of-matchesbyqtrenglandwomenodipost2001.png)
 
