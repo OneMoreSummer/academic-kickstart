@@ -1,5 +1,5 @@
 ---
-title: Relative Age Effect in Women’s Cricket (Engalnd ODI selection)
+title: Relative Age Effect in Women’s Cricket (England ODI selection)
 date: 2020-07-05T20:53:15.606Z
 draft: false
 featured: false
