@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**Since 2001 Q3/Q4 England Women ODI players have played TWICE as many matches as Q1/Q2 players**
+**Since 2001 Q3/Q4 England Women ODI players have played TWICE as many matches as Q1/Q2 players.**
 
 In Women's cricket RAE appears to be reversed. Q3/Q4 players are selected more than Q1/Q2. Why is this?
 
