@@ -26,7 +26,7 @@ Before Isa Q1/Q2 players dominated both in terms of numbers of players (57:43) b
 
 **Why?**
 
-English Women’s cricket has become more professional. The administration of Womens’ cricket merged with Men’s cricket in 1998 and womens cricket has benefited from more resources (but not enough).
+English Women’s cricket has become more professional. The administration of Womens’ cricket merged with Men’s cricket in 1998 and womens cricket has benefited from more resources (but not enough incidentally).
 
 Selectors are looking for more athletic fielders reflecting the growth in T20 cricket.
 
@@ -34,6 +34,6 @@ The growth of women and girls participation means there is a larger pool of play
 
 **How to fix?**
 
-Players with potential are being missed from Q1/Q2 and Q3/Q4 are being over selected. It would be interesting to see what RAE there is in the pathway that produces players for England, ie. England Academy and the new Regional centres. Why are Q1/Q2 being deselected/rejected?
+Players with potential are being missed from Q1/Q2 as Q3/Q4 are being over selected. It would be interesting to see what RAE there is in the pathway ie. England Academy and the new Regional centres. Why are Q1/Q2 being deselected/rejected?
 
 [How we can fix RAE andMaturation issues in English Cricket](https://onemoresummer.co.uk/post/how-we-can-fix-rae-and-maturation-issues-in-english-cricket/).
