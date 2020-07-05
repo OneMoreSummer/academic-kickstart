@@ -18,7 +18,7 @@ Maturation in women happens earlier and has less of an effect on physicality tha
 
 Isa Guha made her ODI debut in 2001. Interestingly, before 2001 Q1/Q2 England Women ODI players played 3.5x MORE matches than Q3/Q4 players. From then on though things were very different.
 
-Before Isa Q1/Q2 players dominated both in terms of numbers of players (57:43) but more so matches played (78:22) (Figure 1). Post 2001 selection has changed radically. Q3/Q4 players now dominate, slightly in terms of numbers of players (46:54) but more so matches played (34:66) (Figure 2).
+Before Isa Q1/Q2 players dominated both in terms of numbers of players (57:43) but more so matches played (78:22) (Figure 1). Post 2001 selection has changed radically. Q3/Q4 players now dominate, slightly in terms of numbers of players (46:54) but more so by matches played (34:66) (Figure 2).
 
 ![](matchesbyqtrenglandwomenodipre2001.png)
 
