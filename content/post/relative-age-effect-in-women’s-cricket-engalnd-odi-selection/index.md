@@ -32,8 +32,12 @@ Selectors are looking for more athletic fielders reflecting the growth in T20 cr
 
 The growth of women and girls participation means there is a larger pool of players to pick from.
 
-**How to fix?**
+**What can we do about it?**
 
-Players with potential are being missed from Q1/Q2 as Q3/Q4 are being over selected. It would be interesting to see what RAE there is in the pathway ie. England Academy and the new Regional centres. Why are Q1/Q2 being deselected/rejected?
+MONITOR 5 Yr Rolling Averages for Age Groups to target a 25% Quarterly distribution for RAE.
 
-[How we can fix RAE and Maturation issues in English Cricket](https://onemoresummer.co.uk/post/how-we-can-fix-rae-and-maturation-issues-in-english-cricket/).
+MEASURE. Height/Weight Qtrly. Use % of Predicted Adult Height (Khamis-Roche method) to know Biological Age.
+
+USE Biological Age & Chronological Age in assessing Fitness & Performance Data.
+
+USE Age ordered bibs at trials to help coaches make better informed decisions.
