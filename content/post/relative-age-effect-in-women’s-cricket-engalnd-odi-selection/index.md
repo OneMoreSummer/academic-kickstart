@@ -10,6 +10,8 @@ image:
 ---
 **Since 2001 Q3/Q4 England Women ODI players have played TWICE as many matches as Q1/Q2 players**
 
+In Women's cricket RAE appears to be reversed. Q3/Q4 players are selected more than Q1/Q2. Why is this?
+
 Maturation in women happens earlier and has less of an effect on physicality than in men. In women maturation causes a change in body composition with fat mass increasing relative to muscle whereas in men it causes an increase in muscle mass. Therefore it is often found that girls that are late maturers and/or are born later in the sporting year are overly selected because they are/appear to be more athletic.
 
 **Before and after Isa Guha**
