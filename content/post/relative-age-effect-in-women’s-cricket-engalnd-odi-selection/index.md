@@ -26,7 +26,7 @@ Before Isa Q1/Q2 players dominated both in terms of numbers of players (57:43) b
 
 **Why?**
 
-English Women’s cricket in England has become more professional. The administration of Womens’ cricket merged with Men’s cricket in 1998 and womens cricket has benefited from more resources (but not enough).
+English Women’s cricket has become more professional. The administration of Womens’ cricket merged with Men’s cricket in 1998 and womens cricket has benefited from more resources (but not enough).
 
 Selectors are looking for more athletic fielders reflecting the growth in T20 cricket.
 
