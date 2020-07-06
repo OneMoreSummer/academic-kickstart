@@ -22,6 +22,16 @@ user_groups:
 ---
 **This purpose of this blog is to promote changes in policy and practice to ensure ALL players have an EQUAL opportunity by reducing the influence of Relative Age Effect and Maturation on selection and development in the cricket player pathway.**
 
+
+
+**What’s different about this blog?**
+
+* It is specific to **cricket**
+* Tend to use the number of **matches played** rather than number of players selected to find a true picture
+* Tend to look at **Q1 and Q2** (Sept-Feb) in comparison with **Q3 and Q4** (Mar-Aug) rather than just Q1 v Q4 only.
+
+
+
 **What do we know?**
 
 [RAE exists in cricket.](https://onemoresummer.co.uk/post/do-we-have-a-relative-age-effect-in-cricket/)
