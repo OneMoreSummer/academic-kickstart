@@ -20,9 +20,9 @@ Isa Guha made her ODI debut in 2001. Interestingly, before 2001 Q1/Q2 England Wo
 
 Before Isa Q1/Q2 players dominated both in terms of numbers of players (57:43) but more so matches played (78:22) (Figure 1). Post 2001 selection has changed radically. Q3/Q4 players now dominate, slightly in terms of numbers of players (46:54) but more so by matches played (34:66) (Figure 2).
 
-![](matchesbyqtrenglandwomenodipre2001.png)
+![](matchesbyqtrenglandwomenodipre2001-1-.png)
 
-![](copy-of-matchesbyqtrenglandwomenodipost2001.png)
+![](copy-of-matchesbyqtrenglandwomenodipost2001-1-.png)
 
 **Why?**
 
