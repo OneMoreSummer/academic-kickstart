@@ -30,4 +30,6 @@ USE Biological Age & Chronological Age in assessing Fitness & Performance Data.
 
 USE Age ordered bibs at trials to help coaches make better informed decisions.
 
+USE Biobanded match play in addition to age group matches. This offers different and often more appropriate challenges for early or late maturing players.
+
 What else would you suggest? Let me know [@nothirdman](http://twitter.com/nothirdman).
