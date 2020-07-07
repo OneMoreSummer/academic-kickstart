@@ -22,15 +22,11 @@ user_groups:
 ---
 **This purpose of this blog is to promote changes in policy and practice to ensure ALL players have an EQUAL opportunity by reducing the influence of Relative Age Effect and Maturation on selection and development in the cricket player pathway.**
 
-
-
 **What’s different about this blog?**
 
 * It is specific to **cricket**
 * Tend to use the number of **matches played** rather than number of players selected to find a true picture
 * Tend to look at **Q1 and Q2** (Sept-Feb) in comparison with **Q3 and Q4** (Mar-Aug) rather than just Q1 v Q4 only.
-
-
 
 **What do we know?**
 
@@ -72,6 +68,8 @@ MONITOR 5 Yr Rolling Averages for Age Groups to target a 25% Quarterly distribut
 MEASURE. Height/Weight Qtrly. Use % of Predicted Adult Height (Khamis-Roche method) to know Biological Age.
 
 USE Biological Age & Chronological Age in assessing Fitness & Performance Data.
+
+USE Biobanded match play in addition to age group matches. This offers different and often more appropriate challenges for early or late maturing players.
 
 **Why One More Summer?**
 
