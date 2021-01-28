@@ -20,7 +20,7 @@ ACTION PLAN
 2. Counties and the ECB must publish these figures annually.
 3. Clubs who nominate players for District/County trials need to be aware of RAE and record this information at the start of the pathway. They should also aim for BQ equality in team selection and opportunities.
 4. ECB needs a policy to ensure ALL First Class Counties (FCCs) & National Counties (NCs) do this.
-5. All trials to use Date Order Bibs.
+5. All trials to use Birth Date Order Bibs.
 
 ![Learning to Win v Winning to Learn](learning-to-win.png)
 
