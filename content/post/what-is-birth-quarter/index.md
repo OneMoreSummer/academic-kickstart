@@ -32,4 +32,6 @@ West Indies
 
 ...
 
-\* This is part of a library of [\[What Is]](https://onemoresummer.co.uk/post/the-what-is-series/) descriptions on this site.
+
+
+* This is part of a library of [What Is](https://onemoresummer.co.uk/post/the-what-is-series/) descriptions on this site.
