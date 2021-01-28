@@ -11,3 +11,5 @@ image:
 [Birth Quarter](https://onemoresummer.co.uk/post/what-is-birth-quarter/)
 
 [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/)
+
+[Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/)
