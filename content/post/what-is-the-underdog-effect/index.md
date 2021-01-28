@@ -12,4 +12,4 @@ A number of research articles have shown that those players born in [Birth Quart
 
 For example, [Q3/Q4 players have longer England ODI careers](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/) (+30%) than Q1/Q2 players, yet more Q1/Q2  players are selected. 
 
-Tim Wigmore and Mark Williams in thier book 'The Best - How Elite Athletes Are Made' give the example of more later born players play 50+ Tests for England than early born.
+Tim Wigmore and Mark Williams in their book 'The Best - How Elite Athletes Are Made' give the example of more later born players play 50+ Tests for England than early born.
