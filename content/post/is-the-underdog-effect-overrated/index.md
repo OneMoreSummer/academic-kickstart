@@ -12,11 +12,11 @@ There is clear evidence of the effects of Relative Age and Maturity Status withi
 
 Choices/mistakes made at all selection points along the pathway create two massive systemic failures:
 
-Early born players are over selected and then under developed. 
+**Early born players are over selected and then under developed.** 
 
 * 2 out of 3 young English pro cricketers (U20) are early born yet this hefty bias is REMOVED within 5 years and REVERSED within 10. 
 
-Later born players never enter or are lost too early along the pathway.
+**Later born players never enter or are lost too early along the pathway.**
 
 * 1 out of 3 later born players never get selected. Typically only 33% of all players are Q3/Q4 for most of the player pathway.
 
@@ -26,13 +26,9 @@ In cricket as in many sports more elite players are later born than early born. 
 
 The systemic benefits of the Underdog Effect, it is argued, could be lost as an unintended consequence of addressing the inequality and inefficiencies of RAE & Maturity Status issues. But would this really be the case?
 
-
-
 **A Numbers Game**
 
 A later born batter for example will be more likely to be facing an early born bowler than another later born bowler. This is just a mathematical function of the typical 2/3rd to 1/3rd split between early and later born in any pathway squad.  If there was a more natural xxxxxx of players 50:50 then an early born batter will 
-
-
 
 **Is the Underdog Effect Overrated?**
 
@@ -43,8 +39,6 @@ Because later borns have to reach a similar performance standard at every select
 **Indictment of the System**
 
 If players only become elite through the systemic level of challenge then as Tim Wigmore & Mark Williams say ‘the underdog effect suggests a profound inefficiency in how coaches develop early-born players, especially those who mature early’. The way coaching controls the individual players optimum challenge point is crucial for skill acquisition and therefore to reach elite levels.
-
-
 
 **Bio Banding isn’t a dirty word**
 
