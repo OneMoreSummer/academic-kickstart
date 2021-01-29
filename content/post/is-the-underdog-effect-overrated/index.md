@@ -20,7 +20,7 @@ Choices/mistakes made at all selection points along the pathway create two massi
 
 * 1 out of 3 later born players never get selected. Typically only 33% of all players are Q3/Q4 for most of the player pathway.
 
-So why not address RAE & Maturity Status being baked into the player pathway? Why not select fewer earlies and more later borns? One argument is the Underdog Effect.
+So why not address Relative Age Effect & Maturity Status being baked into the player pathway? Why not select fewer earlies and more later borns? One argument is the Underdog Effect.
 
 In cricket as in many sports more elite players are later born than early born. For example, [Q3/Q4 players have longer England ODI careers](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/) (+30%) than Q1/Q2 players, yet more Q1/Q2 players are selected. Tim Wigmore and Mark Williams in their book ‘The Best - How Elite Athletes Are Made’ give the example that more later born players play 50+ Tests for England than early born. This is termed the Underdog Effect where younger, smaller, weaker, players have to work harder to survive than their relatively older counterparts and hence reach higher levels within their sport.
 
