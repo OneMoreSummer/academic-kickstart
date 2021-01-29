@@ -30,7 +30,7 @@ The systemic benefits of the Underdog Effect, it is argued, could be lost as an 
 
 **A Numbers Game**
 
-A later born batter for example will be more likely to be facing an early born bowler than another later born. This is just a mathematical function of the typical 2/3rd to 1/3rd split between early and later born in any pathway squad.  If there was a more natural distribution of players (50:50 for early/late or 25% per Birth Quarter) then an early born batter will STILL be challenged by an older bowler for half of the time. This is even more relevant when looking at Birth Quarter 4 players who are often the most affected by RAE. They will be up against older players 75% of the time. The Underdog Effect maybe slighly diluted but will NOT be lost and would probably be less than the benefits of a more equal age distribution.
+A later born batter for example will be more likely to be facing an early born bowler than another later born. This is just a mathematical function of the typical 2/3rd to 1/3rd split between early and later born in any pathway squad.  If there was a more natural distribution of players (50:50 for early/late or 25% per [Birth Quarter](https://onemoresummer.co.uk/post/what-is-birth-quarter/)) then an early born batter will STILL be challenged by an older bowler for half of the time. This is even more relevant when looking at Birth Quarter 4 players who are often the most affected by RAE. They will be up against older players 75% of the time. The Underdog Effect maybe slighly diluted but will NOT be lost and would probably be less than the benefits of a more equal age distribution.
 
 ![](duck-black-white-1556606-640x480.jpg)
 
