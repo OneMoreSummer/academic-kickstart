@@ -52,4 +52,6 @@ If players only become elite through the systemic level of challenge then as Tim
 
 Playing up and playing down and also playing within a group of a players own Maturity Status level can offer coaches ways of optimising the individuals challenge level for all players.
 
+
+
 It is just as unquestionable that there is an Underdog Effect as it is unquestionable that there is a Relative Age Effect, but equating the two is a very hard sell. Are we really right in  saying that the benefits of the Underdog Effect are greater than the benefits of addressing the Relative Age Effect?
