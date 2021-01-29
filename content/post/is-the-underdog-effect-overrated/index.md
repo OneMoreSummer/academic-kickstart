@@ -34,7 +34,7 @@ A later born batter for example will be more likely to be facing an early born b
 
 
 
-**Is the Underdog Effect Overrated?**
+**Is the outcome all due to the Underdog Effect in the development pathway?**
 
 Is there a higher concentration of high quality players in the smaller numbers of later borns anyway, from the start?
 
