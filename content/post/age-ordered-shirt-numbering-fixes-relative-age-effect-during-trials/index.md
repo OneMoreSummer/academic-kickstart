@@ -14,7 +14,7 @@ Trials in cricket are ubiquitous. Often numbered bibs are used during trials to 
 
 I’ve not seen this in any trials, club, district, county, Bunbury (Regional U15s), Super Fours (Regional U17/18s). Does anyone use this in cricket?
 
-
+![](bib.png)
 
 **What did the study find?**
 
