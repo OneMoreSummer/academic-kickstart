@@ -22,11 +22,9 @@ Choices/mistakes made at all selection points along the pathway create two massi
 
 So why not address [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) (RAE) & Maturity Status being baked into the player pathway? Why not select fewer earlies and more later borns? One argument is the [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/).
 
-In cricket as in many sports more elite players are later born than early born. For example, [Q3/Q4 players have longer England ODI careers](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/) (+30%) than Q1/Q2 players, yet more Q1/Q2 players are selected. Tim Wigmore and Mark Williams in their book ‘The Best - How Elite Athletes Are Made’ give the example that more later born players play 50+ Tests for England than early born. This is termed the Underdog Effect where younger, smaller, weaker, players have to work harder to survive than their relatively older counterparts and hence reach higher levels within their sport.
+In cricket, as in many sports, more elite players are later born than early born. For example, [Q3/Q4 players have longer England ODI careers](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/) (+30%) than Q1/Q2 players, yet more Q1/Q2 players are selected. Tim Wigmore and Mark Williams in their book ‘The Best - How Elite Athletes Are Made’ give the example that more later born players play 50+ Tests for England than early born. This is termed the Underdog Effect where younger, smaller, weaker, players have to work harder to survive than their relatively older counterparts and hence reach higher levels within their sport.
 
 The systemic benefits of the Underdog Effect, it is argued, could be lost as an unintended consequence of addressing the inequality and inefficiencies of RAE & Maturity Status issues. But would this really be the case?
-
-
 
 **A Numbers Game**
 
@@ -40,18 +38,10 @@ Is there a higher concentration of high quality players in the smaller numbers o
 
 Because later borns have to reach a similar performance standard at every selection point are they just better because they can do that while being smaller, shorter, lighter, weaker, slower, less fit, less cognitively developed, less confident. Also at later points in the pathway they have probably also had less coaching, fewer game time opportunities and less time on task yet can still perform at an acceptable level or better to be retained.
 
-
-
 **Indictment of the System**
 
-If players only become elite through the systemic level of challenge then as Tim Wigmore & Mark Williams say ‘the underdog effect suggests a profound inefficiency in how coaches develop early-born players, especially those who mature early’. The way coaching controls the individual players optimum challenge point is crucial for skill acquisition and therefore to reach elite levels.
+If players only become elite through the systemic level of challenge then as Tim Wigmore & Mark Williams say ‘the underdog effect suggests a profound inefficiency in how coaches develop early-born players, especially those who mature early’. The way coaching controls the individual players optimum challenge point is crucial for skill acquisition and therefore to reach elite levels. Playing up and playing down and also playing within a group of a players own Maturity Status level can offer coaches ways of optimising the individuals challenge level for all players. Just relying on systemic challenge is a cop out.
 
+It is just as unquestionable that there is an Underdog Effect as it is unquestionable that there is a Relative Age Effect.
 
-
-**Biobanding isn’t a dirty word**
-
-Playing up and playing down and also playing within a group of a players own Maturity Status level can offer coaches ways of optimising the individuals challenge level for all players.
-
-
-
-It is just as unquestionable that there is an Underdog Effect as it is unquestionable that there is a Relative Age Effect, but equating the two is a very hard sell. Are we really right in  saying that the benefits of the Underdog Effect are greater than the benefits of addressing the Relative Age Effect?
+But are we really right in saying that a slight dilution of the Underdog Effect is more damaging than the significant benefits to be gained by addressing the Relative Age Effect? I would say not.
