@@ -8,23 +8,27 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-There is clear evidence of the effects of Relative Age and Maturity Status within English cricket. 
+In cricket, as in many sports, more elite players are later born than early born. For example, [Q3/Q4 players have longer England ODI careers](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/) (+30%) than Q1/Q2 players, yet more Q1/Q2 players are selected. Tim Wigmore and Mark Williams in their book ‘The Best - How Elite Athletes Are Made’ give the example that more later born players play 50+ Tests for England than early born. This is termed the [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/) where younger, smaller, weaker, players have to work harder to survive than their relatively older counterparts and hence reach higher levels within their sport.
 
-Choices/mistakes made at all selection points along the pathway create two massive systemic failures:
+The systemic benefits of the Underdog Effect, it is argued, could be lost as an unintended consequence of addressing the inequality and inefficiencies of RAE & Maturity Status issues. But would this really be the case?
+
+
+
+**How RAE & Maturity Status Impacts English Cricket**
+
+There is clear evidence of the effects of Relative Age and Maturity Status within English cricket that creates two massive systemic failures:
 
 **Early born players are over selected and then under developed.** 
 
-* 2 out of 3 young English pro cricketers (U20) are early born yet this hefty bias is REMOVED within 5 years and REVERSED within 10. 
+* 2 out of 3 young English pro cricketers (U20) are early born (Q1/Q2) yet this hefty bias is REMOVED within 5 years and REVERSED within 10. 
 
 **Later born players never enter or are lost too early along the pathway.**
 
 * 1 out of 3 later born players never get selected. Typically only 33% of all players are Q3/Q4 for most of the player pathway.
 
-So why not address [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) (RAE) & Maturity Status being baked into the player pathway? Why not select fewer earlies and more later borns? One argument is the [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/).
+So why not address [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) (RAE) & Maturity Status being baked into the player pathway? Why not select fewer earlies (Q1/Q2) and more later (Q3/Q4) borns? And how much would be lost from the Underdog Effect as a consequence?
 
-In cricket, as in many sports, more elite players are later born than early born. For example, [Q3/Q4 players have longer England ODI careers](https://onemoresummer.co.uk/post/but-weve-just-won-a-world-cup/) (+30%) than Q1/Q2 players, yet more Q1/Q2 players are selected. Tim Wigmore and Mark Williams in their book ‘The Best - How Elite Athletes Are Made’ give the example that more later born players play 50+ Tests for England than early born. This is termed the Underdog Effect where younger, smaller, weaker, players have to work harder to survive than their relatively older counterparts and hence reach higher levels within their sport.
 
-The systemic benefits of the Underdog Effect, it is argued, could be lost as an unintended consequence of addressing the inequality and inefficiencies of RAE & Maturity Status issues. But would this really be the case?
 
 **A Numbers Game**
 
