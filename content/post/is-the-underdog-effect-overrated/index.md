@@ -20,7 +20,7 @@ There is clear evidence of the effects of Relative Age and Maturity Status withi
 
 **Early born players are over selected and then under developed.** 
 
-* 2 out of 3 young English pro cricketers (U20) are early born (Q1/Q2) yet this hefty bias is REMOVED within 5 years and REVERSED within 10. 
+* 2 out of 3 young English pro cricketers (U20) are early born (Q1/Q2) yet this hefty bias is REMOVED within 5 years and REVERSED within 10. ([How RAE Affects a County Career](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/))
 
 **Later born players never enter or are lost too early along the pathway.**
 
