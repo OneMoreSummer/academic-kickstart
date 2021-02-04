@@ -26,11 +26,9 @@ This then gives you a percentage of Predicted Adult Height (%PAH). 
 
 By knowing player A with Maturity Status of 95% and player B at only 85% then this will help to make better and more informed decisions about the coaching, selection, S&C evaluations, playing up/down of both players.  
 
-
-
 **Maturity Status & Relative Age Effect**
 
-Maturity Status is an entirely different though often interrelated construct to the Relative Age Effect. A player may be old for their year but a late maturer. Conversely they may be young for their year yet an early maturer. If ‘gain’ from systemic bias then a player who is early born (Q1/Q2 for RAE) and an early maturer will gain the most. Conversely a late born (Q3/Q4 for RAE) and a late maturer will find it the most tough to be selected and stay in the development pathway.
+Maturity Status is an entirely different though often interrelated construct to the Relative Age Effect. A player may be old for their year but a late maturer. Conversely they may be young for their year yet an early maturer. A player who is early born (Q1/Q2 for RAE) and an early maturer will gain the most from systemic bias. Conversely a late born (Q3/Q4 for RAE) and a late maturer will find it the most tough to be selected and stay in the development pathway.
 
 **\
 Genetic height**
