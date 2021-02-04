@@ -8,8 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**\[What Is] Maturity Status**
-
 Maturation is the onset of the adolescent growth spurt. Maturation Status is either how far an individual is away from it, how far through it, or how far after it they are, namely Early, On Time or Late. Typically 15% are Early and Late with 70% On Time.
 
 To calculate it using the Khamis-Roche method you need:
