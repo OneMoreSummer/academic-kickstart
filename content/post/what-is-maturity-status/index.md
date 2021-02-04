@@ -28,7 +28,7 @@ By knowing player A with Maturity Status of 95% and player B at only 85% then th
 
 **Maturity Status & Relative Age Effect**
 
-Maturity Status is an entirely different though often interrelated construct to the Relative Age Effect. A player may be old for their year but a late maturer. Conversely they may be young for their year yet an early maturer. A player who is early born (Q1/Q2 for RAE) and an early maturer will gain the most from systemic bias. Conversely a late born (Q3/Q4 for RAE) and a late maturer will find it the most tough to be selected and stay in the development pathway.
+Maturity Status is an entirely different though often interrelated construct to the [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/). A player may be old for their year but a late maturer. Conversely they may be young for their year yet an early maturer. A player who is early born (Q1/Q2 for RAE) and an early maturer will gain the most from systemic bias. Conversely a late born (Q3/Q4 for RAE) and a late maturer will find it the most tough to be selected and stay in the development pathway.
 
 **\
 Genetic height**
