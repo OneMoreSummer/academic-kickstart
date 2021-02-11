@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-One of the ways to address the Relative Age Effect (RAE) found in cricket is to use age-ordered shirt numbering in trials.
+One of the ways to address the [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) (RAE) [found in cricket](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/) is to use age-ordered shirt numbering in trials.
 
 Trials in cricket are ubiquitous. Often numbered bibs are used during trials to aid identification. A study by David Mann et al at PSV Eindhoven football club found that by putting these in age order, with the oldest #1 etc, this fairly simple and easy strategy reduced RAE.
 
