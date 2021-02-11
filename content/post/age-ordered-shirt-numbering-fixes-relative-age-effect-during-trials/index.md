@@ -10,7 +10,7 @@ image:
 ---
 One of the ways to address the Relative Age Effect (RAE) found in cricket is to use age-ordered shirt numbering in trials.
 
-Trials in cricket are ubiquitous. Often numbered bibs are used during trials to aid identification. A study by David Mann et al at PSV Eindhoven football club found that by following this fairly simple and easy strategy RAE was reduced.
+Trials in cricket are ubiquitous. Often numbered bibs are used during trials to aid identification. A study by David Mann et al at PSV Eindhoven football club found that by putting these in age order, with the oldest #1 etc, this fairly simple and easy strategy reduced RAE.
 
 I’ve not seen this in any trials, club, district, county, Bunbury (Regional U15s), Super Fours (Regional U17/18s). Does anyone use this in cricket?
 
