@@ -16,20 +16,20 @@ Rishabh Pant may or may not have been an early maturer. We don’t know. What we
 
 Early borns are often stronger, quicker. These physical advantages lead to psychosocial advantages in the early and middle parts of development. They are often the ones that have a go first, speak first, speak over and generally assert themselves more. Why? Because they have gained/maintained confidence from, for example:
 
-* Being better than your peers
+Being better than your peers
 
-  Mentorship and belief of coaches
+Mentorship and belief of coaches
 
-  Reflecting on good performances
+Reflecting on good performances
 
-  Faith in your skillset
+Faith in your skillset
 
 Do coaches and development environments counter this confidence bias? Do they understand it? Or do they amplify it through the following effects:
 
 **Matthew Effect** - hidden talents are missed, only the obvious, visible ones are valued.
 
-**Pygmalion Effect** - Is a self-fulfilling prophecy where players develop better or worse than other players based on the way their coach expects them to develop.
+**Pygmalion Effect** - a self-fulfilling prophecy where players develop better or worse than other players based on the way their coach expects them to develop.
 
-**Galatea Effect** - Is another self-fulfilling prophecy where players develop better or worse than other players based on the way they themselves expect to develop.
+**Galatea Effect** - another self-fulfilling prophecy where players develop better or worse than other players based on the way they themselves expect to develop.
 
 Perhaps one reason, amongst many other complex factors, that Pant is a confident guy is his birthdate advantage and his subsequent player pathway experience.
