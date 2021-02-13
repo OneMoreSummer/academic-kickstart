@@ -67,7 +67,7 @@ MONITOR 5 Yr Rolling Averages for Age Groups to target a 25% Quarterly distribut
 
 MEASURE. Height/Weight Qtrly. Use % of Predicted Adult Height (Khamis-Roche method) to know Biological Age.
 
-USE Age-ordered shirt numbering in trails.
+USE Age-ordered shirt numbering in trials.
 
 USE Biological Age & Chronological Age in assessing Fitness & Performance Data.
 
