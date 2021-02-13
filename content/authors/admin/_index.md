@@ -67,6 +67,8 @@ MONITOR 5 Yr Rolling Averages for Age Groups to target a 25% Quarterly distribut
 
 MEASURE. Height/Weight Qtrly. Use % of Predicted Adult Height (Khamis-Roche method) to know Biological Age.
 
+USE Age-ordered shirt numbering in trails.
+
 USE Biological Age & Chronological Age in assessing Fitness & Performance Data.
 
 USE Biobanded match play in addition to age group matches. This offers different and often more appropriate challenges for early or late maturing players.
