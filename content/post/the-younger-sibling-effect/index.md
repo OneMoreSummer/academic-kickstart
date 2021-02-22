@@ -1,5 +1,5 @@
 ---
-title: The Younger Sibling Effect
+title: "[What Is] The Younger Sibling Effect?"
 date: 2021-02-22T18:01:57.527Z
 draft: false
 featured: false
