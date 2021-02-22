@@ -15,3 +15,5 @@ image:
 [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/)
 
 [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/)
+
+[Younger Sibling Effect](https://onemoresummer.co.uk/post/the-younger-sibling-effect/)
