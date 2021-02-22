@@ -11,3 +11,5 @@ image:
 When growing up a younger sibling playing with an older, stronger, faster & better older sibling/siblings will benefit from having to 'battle' and constantly find ways of dealing with the heightened challenge.
 
 As a result often younger siblings reach higher levels of professional sport, known as the Younger Sibling Effect.
+
+* This is part of a library of [What Is](https://onemoresummer.co.uk/post/the-what-is-series/) descriptions on this site.
