@@ -12,7 +12,7 @@ image:
 
 Galatea Effect
 
-Matthew Effect
+[Matthew Effect](https://onemoresummer.co.uk/post/what-is-the-matthew-effect/)
 
 [Maturity Status](https://onemoresummer.co.uk/post/what-is-maturity-status/)
 
