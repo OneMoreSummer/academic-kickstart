@@ -1,5 +1,5 @@
 ---
-title: The Underdog Hypothesis - Part 2
+title: The Underdog Hypothesis & Starting Quality
 date: 2021-02-22T17:58:22.039Z
 draft: false
 featured: false
