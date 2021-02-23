@@ -10,7 +10,11 @@ image:
 ---
 It has been found that later born ([BQ](https://onemoresummer.co.uk/post/what-is-birth-quarter/) 4) players reach higher elite levels than early born (BQ 1) players in many sports such as NHL, Rugby Union and Cricket. This ‘effect’ is potentially explained by the ‘[Underdog Hypothesis](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/)’ or the 'Advantage of Disdavantage'. It states, in a similar way to how the ‘[Younger Sibling Effect](https://onemoresummer.co.uk/post/the-younger-sibling-effect/)’ works, that the constant extra challenge improves players more over time.
 
-This makes perfect sense. But do we attribute too much to the Underdog Hypothesis? Could there be another reason when a lot of RAE and associated effects are 'baked in' from the start.
+![](osmar_schindler_-_david_und_goliath.jpg)
+
+(By Osmar Schindler (1869-1927))
+
+ makes perfect sense. But do we attribute too much to the Underdog Hypothesis? Could there be another reason when a lot of RAE and associated effects are 'baked in' from the start.
 
 **Starting Quality Effect?**
 
