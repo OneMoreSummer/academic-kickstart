@@ -28,7 +28,7 @@ Should we simply select less Q1 to improve the quality and improve their graduat
 
 **How difficult would this be for a County Age Group (CAG) squad of 20?** 
 
-Answer NOT that difficult, if there is a will bcs the data tells you it makes sense.
+Answer NOT that difficult, if there is a will to do it.
 
 Select 2 less Q1 & Q2 from 7
 
@@ -36,7 +36,7 @@ Select 1 more Q3
 
 Select 3 more Q4
 
-\* This doesn't have to be a strict quota each year or selection point. It could be a Rolling Average Over 5 Years to allwo for some flexibility in the system. But it does need to be strictly enforced by NGBs.
+\* This doesn't have to be a strict quota each year or selection point. It could be a Rolling Average Over 5 Years to allow for some flexibility in the system. But it does need to be strictly enforced by NGBs.
 
 **Would we lose the Underdog Effect?**
 
