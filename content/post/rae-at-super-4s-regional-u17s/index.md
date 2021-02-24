@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The Super 4s is an annual event, held at Loughborough, for the four regions at the U18 age group, running for the last seven years. The South & West, London & East, the North and the Midlands compete in 3 50 over matches and 2 T20 matches each. It is basically part of the selection process for the Young Lions, England’s U19 side.
+The Super 4s is an annual event, held at Loughborough, for the four regions at the U17 age group, running for the last seven years. The South & West, London & East, the North and the Midlands compete in 3 50 over matches and 2 T20 matches each. It is basically part of the selection process for the Young Lions, England’s U19 side.
 
 ![](super4s-qtr-s.jpg)
 
