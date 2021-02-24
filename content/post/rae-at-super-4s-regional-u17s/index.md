@@ -18,7 +18,7 @@ What do we find? Q1 & Q2 percentages are  higher than Q3 & Q4.
 
 The data shows evidence of a [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) at this point of the Performance Pathway. It reflects the same findings found for the next point along the pathway, selection for the [Young Lions (U19s)](https://onemoresummer.co.uk/post/rae-increasing-in-england-u19-world-cup-squads/).
 
-These [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/) (BQs) are fairly similar to those found for U19s (Young Lions) World Cup squads where Q3 & Q4 are further reduced and Q1 comes down a little with Q2 going up to match the Q1 level.
+These [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/) (BQs) are fairly similar to those found for U19s World Cup squads where Q3 & Q4 are further reduced and Q1 comes down a little with Q2 going up to match the Q1 level.
 
 Q1 37.3 -> 34.5
 
@@ -26,7 +26,9 @@ Q2 27.2 -> 34.5
 
 Q3 20 -> 17.2
 
-Q4 15.5 -> 13.8*Using the BQ%s for U19 World Cup Squads 2014-2020.
+Q4 15.5 -> 13.8
+
+\*Using the BQ%s for U19 World Cup Squads 2014-2020.
 
 **Trends Over Time**
 
