@@ -38,7 +38,7 @@ The last 4 years show a difference between Q1/Q2 and Q3/Q4 whereas the first 3 y
 
 **Regional Differences**
 
-The regions all had various levels of RAE. The Midlands had the least difference between Birth Quarters but still had a 67:33 half year split between Q1/Q2 and Q3/Q4.
+The regions all had various levels of RAE. The Midlands had the least difference between Birth Quarters but still had a 59:41 half year split between Q1/Q2 and Q3/Q4.
 
 **The Highs & Lows**
 
