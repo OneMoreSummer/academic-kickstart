@@ -10,6 +10,8 @@ image:
 ---
 The Super 4s is an annual event, held at Loughborough, for the four regions at the U17 age group. Having run for the last seven years, the South & West, London & East, the North and the Midlands compete in 3 50 over matches and 2 T20 matches. Essentialy it is part of the selection process for the Young Lions, England’s U19 side.
 
+What do we find? Q1 & Q2 percentages are  higher than Q3 & Q4.
+
 ![](super4s-qtr-s.jpg)
 
 ![](u17-super-4s-qtr-.jpg)
@@ -25,6 +27,14 @@ Q2 27.2 -> 34.5
 Q3 20 -> 17.2
 
 Q4 15.5 -> 13.8*Using the BQ%s for U19 World Cup Squads 2014-2020.
+
+**Trends Over Time**
+
+The last 4 years show a difference between Q1/Q2 and Q3/Q4 whereas the first 3 years of the competition had Q2 & Q3 at similar levels with just the differences showing up between Q1 & Q4.
+
+![](super-4s-qtr-timeline.jpg)
+
+**Regional Differences**
 
 The regions all had avarious levels of RAE with the Midlands with the least differences between Birth Quarters but still with a 67:33 split between Q1/Q2 and Q3/Q4.
 
