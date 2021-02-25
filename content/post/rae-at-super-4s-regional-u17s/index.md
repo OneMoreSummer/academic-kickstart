@@ -12,7 +12,7 @@ The Super 4s is an annual event, held at Loughborough, for the four regions at t
 
 What do we find? Q1 & Q2 percentages are  higher than Q3 & Q4.
 
-![](super4s-qtr-s.jpg)
+![](super4s-qtr-s.png)
 
 ![](u17-super-4s-qtr-.jpg)
 
