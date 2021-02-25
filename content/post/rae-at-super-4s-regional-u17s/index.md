@@ -34,7 +34,7 @@ Q4 15.5 -> 13.8
 
 The last 4 years show a difference between Q1/Q2 and Q3/Q4 whereas the first 3 years of the competition had Q2 & Q3 at similar levels with just the differences showing up between Q1 & Q4.
 
-![](super-4s-qtr-timeline.jpg)
+![](super-4s-qtr-timeline.png)
 
 **Regional Differences**
 
