@@ -12,11 +12,13 @@ Bunbury is an annual event, held at a private school, for the four regions at th
 
 ![](u15-qtr-.jpg)
 
-As we can see there is a significant Relative Age Effect with Q1 & Q2 outnumbering Q3 & Q4.
+As we can see there is a significant [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) with Q1 & Q2 outnumbering Q3 & Q4.
 
-This matches what is found at the Super 4s (Regional U17s) and in the last 4 England U19 (Young Lions) World Cup squads.
+This matches what is found at the [Super 4s (Regional U17s)](https://onemoresummer.co.uk/post/rae-at-super-4s-regional-u17s/) and in the last [4 England U19 (Young Lions) World Cup squads](https://onemoresummer.co.uk/post/rae-increasing-in-england-u19-world-cup-squads/).
 
 The chart below illustrates how players are distributed across the 12 months of the academic year (Sept-Aug).
+
+![](u15bunbury2014-2018.jpg)
 
 **The Highs & Lows**
 
