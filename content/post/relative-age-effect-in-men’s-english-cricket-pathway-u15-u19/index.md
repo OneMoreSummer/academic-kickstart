@@ -22,7 +22,7 @@ ENG Qtr% Q1 **37.3**, Q2 **27.2**, Q3 **20**, Q4 **15.5** 
 
  **U19**
 
-ENG Qtr% Q1 **34.5**, Q2 **34.5**, Q3 **17**, Q4 **14**
+ENG Qtr% Q1 **32**, Q2 **28.6**, Q3 **22.3**, Q4 **17.1**
 
 As you might expect RAE does reduce as you go through the age groups but not by as much as might be hoped for.
 
