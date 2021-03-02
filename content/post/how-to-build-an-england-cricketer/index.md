@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Warning: This is a little 'tongue-in-cheek'.
+
 1. Be born in the last half of the year, preferably August.
 2. Be a late maturer.
 3. Probably best not to join a pathway too early - too much formal/boring practice.
