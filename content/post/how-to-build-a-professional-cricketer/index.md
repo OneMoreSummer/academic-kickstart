@@ -8,8 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
 1. Be born in the first half of the year, preferably September.
 2. Be an early maturer.
 3. Have taller than average parents.
@@ -26,4 +24,4 @@ image:
 14. Pray you don’t get any overuse injuries. 
 15. Play for a Premier League club.
 
-But will you have a long a career for England? (Next article to be How to Build an England Cricketer)
+[But will you have a long a career for England?](https://onemoresummer.co.uk/post/how-to-build-an-england-cricketer/)
