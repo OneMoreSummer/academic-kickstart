@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Warning: This is a little 'tongue-in-cheek'.
+
 1. Be born in the first half of the year, preferably September.
 2. Be an early maturer.
 3. Have taller than average parents.
