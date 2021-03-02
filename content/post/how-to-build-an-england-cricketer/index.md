@@ -8,8 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
 1. Be born in the last half of the year, preferably August.
 2. Be a late maturer.
 3. Probably best not to join a pathway too early - too much formal/boring practice.
@@ -25,7 +23,7 @@ image:
 13. Be part of a thriving club.
 14. Have lots of opportunities to play.
 
-Plus some of the things you need to be a professional cricketer:
+Plus some of the things you need [to be a professional cricketer](https://onemoresummer.co.uk/post/how-to-build-a-professional-cricketer/):
 
 15. Have taller than average parents.
 16. Have older siblings that play cricket.
@@ -38,7 +36,7 @@ Plus some of the things you need to be a professional cricketer:
 23. Have 1:1 coaching, preferably from a coach in the pathway.
 24. Pray you don’t get any overuse injuries.
 
-Super-elite players are more likely to be later born (Q3/Q4) and late maturers. Why? Because they get better through being constantly challenged to a high level (optimum challenge point). This phenomenon is (partly) explained by the Underdog Effect.
+Super-elite players are more likely to be later born (Q3/Q4) and late maturers. Why? Because they get better through being constantly challenged to a high level (optimum challenge point). This phenomenon is (partly) explained by the [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/).
 
 Early specialisation can lead to burnout and overuse injuries, thus reducing your chance of becoming an England cricketer. Playing a broad range of sports will be more fun, give you a wider set of movement skills, increase your tactical awareness and ability to adapt. You probably should engage early with cricket but it should be through lots of informal play and exploration.
 
