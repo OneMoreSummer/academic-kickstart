@@ -33,9 +33,9 @@ RAE reversal in adults in e-sports.
 
 No correlation between Birthdate and Performance at Elite or Recreational levels.
 
-Impact on elite teams
+Discusses the impact on elite teams - skewed player ID to early borns
 
-Impact on participation and public health
+Discusses the potential negative impact on participation and public health
 
 ![](not-talented-missed-stars.jpg)
 
