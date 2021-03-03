@@ -19,7 +19,7 @@ A recent paper from researchers at Umea University in Sweden looked at how young
 
 **Key Points:**
 
-Massive Study across many sports
+Massive Study across many sports (n=244,560)
 
 It contrasted physical sports with cognitive ‘sports’ e-sports & chess
 
