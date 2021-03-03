@@ -11,7 +11,7 @@ image:
 ---
 What has Darwin got to do with X-Country Skiing, Alpine Skiing, Call of Duty, Chess and almost 250,000 Swedes?
 
-A recent paper from researchers at Umea University in Sweden looked at how younger athletes fare in both individual & team sports, physical and non-physical sports and across most age groups and both sexes.
+A recent paper from researchers at Umea University in Sweden looked at how younger athletes fare in individual sports for both physical and non-physical sports and across most age groups and both sexes.
 
 **Darwinian Selection Discriminates Young Athletes: the Relative Age Effect in Relation to Sporting Performance**
 
@@ -19,7 +19,7 @@ A recent paper from researchers at Umea University in Sweden looked at how young
 
 **Key Points:**
 
-Massive study across many sports (n=244,560)
+Massive study across many individual sports (n=244,560)
 
 It contrasted physical sports with cognitive ‘sports’ e-sports & chess
 
@@ -42,5 +42,9 @@ WARNING: Those wacky Swedes deal in Tertiles (3x 4 monthly) divisions and not Qu
 ![](not-talented-missed-stars.jpg)
 
 The authors state ‘*Age-group division benefits relatively older athletes, while increasing the risk of injury and early dropout from sports among children born later in the season.*’
+
+**You mentioned Darwin?**
+
+
 
 \[more to follow, Darwin & Fittest of the Selected]
