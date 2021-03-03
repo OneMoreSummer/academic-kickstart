@@ -48,6 +48,8 @@ It seems that Nolan & Howell first mentioned Darwin with reference to Relative A
 
 But due to the over selection of early born athletes who will never ‘make it’ and late born athletes, who could of ‘made it’, that are not given the opportunity, the authors state ‘it can be concluded that \[the] “survival of the fittest” in sports is skewed by \[a] less-than-optimal selection system and “**fittest of the selected**” \[is] a more appropriate term.’
 
+In cricket, Jones (2019) uses the term ‘Survival of the Fittest’ to describe how RAE continues from the pathway into super-elite batsman (and spinners) in international cricket. He also uses the term ‘Evolution of the Fittest’ to describe how late borns (Q4) can overcome the difficulty of the pathway to, relatively, reach higher levels than early borns (Q1). 
+
 **RAE and a Moral Standpoint**
 
 The study also references the United Nations Convention on the Rights of the Child (UNCRC). This is a legally-binding international agreement setting out the civil, political, economic, social and cultural rights of every child, regardless of their race, religion or abilities. The authors state ‘...being omitted from sports participation due to \[Early talent selection, self-determined dropouts, or parents’ decision not to enroll relatively younger children in sports, or RAE] violates the CRC, stipulating that the best interest of every child should always be in focus.’
