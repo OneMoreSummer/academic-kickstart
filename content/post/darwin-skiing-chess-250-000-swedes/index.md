@@ -43,4 +43,4 @@ WARNING: Those wacky Swedes deal in Tertiles (3x 4 monthly) divisions and not Qu
 
 The authors state ‘*Age-group division benefits relatively older athletes, while increasing the risk of injury and early dropout from sports among children born later in the season.*’
 
-\[more to follow]
+\[more to follow, Darwin & Fittest of the Selected]
