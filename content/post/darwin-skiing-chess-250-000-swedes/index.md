@@ -46,16 +46,8 @@ The authors state ‘*Age-group division benefits relatively older athletes, whi
 **You mentioned Darwin?**\
 It seems that Nolan & Howell first mentioned Darwin with reference to Relative Age Effect in 2010. Essentially they asked, ‘Why should we worry about RAE?’ It is just an example of Darwinian Selection of the Fittest.
 
-But due to the over selection of early born athletes who will never ‘make it’ and late born athletes, who could of ‘made it’, that are not given the opportunity, the authors state ‘it can be concluded that \[the] “survival of the fittest” in sports is skewed by \[a] less-than-optimal selection system and \[the] “**fittest of the selected**” \[is] a more appropriate term.’
+But due to the over selection of early born athletes who will never ‘make it’ and late born athletes, who could of ‘made it’, that are not given the opportunity, the authors state ‘it can be concluded that \[the] “survival of the fittest” in sports is skewed by \[a] less-than-optimal selection system and “**fittest of the selected**” \[is] a more appropriate term.’
 
 **RAE and a Moral Standpoint**
 
-The study also references the United Nations Convention on the Rights of the Child (UNCRC). This is a legally-binding international agreement setting out the civil, political, economic, social and cultural rights of every child, regardless of their race, religion or abilities. The authors state ‘...being omitted from sports participation due to [Early talent selection, self-determined dropouts [[64](https://sportsmedicine-open.springeropen.com/articles/10.1186/s40798-021-00300-2#ref-CR64)], or parents’ decision not to enroll relatively younger children in sports, RAE ] violates the CRC, stipulating that the best interest of every child should always be in focus.’
-
-
-
-
-
-
-
-\[more to follow, Darwin & Fittest of the Selected]
+The study also references the United Nations Convention on the Rights of the Child (UNCRC). This is a legally-binding international agreement setting out the civil, political, economic, social and cultural rights of every child, regardless of their race, religion or abilities. The authors state ‘...being omitted from sports participation due to \[Early talent selection, self-determined dropouts, or parents’ decision not to enroll relatively younger children in sports, or RAE] violates the CRC, stipulating that the best interest of every child should always be in focus.’
