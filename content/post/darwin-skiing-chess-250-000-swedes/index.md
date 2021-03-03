@@ -37,6 +37,8 @@ Discusses the impact on elite teams - skewed player ID to early borns
 
 Discusses the potential negative impact on participation and public health
 
+WARNING: Those wacky Swedes deal in Tertiles (3x 4 monthly) divisions and not Quartiles.
+
 ![](not-talented-missed-stars.jpg)
 
 The authors state ‘*Age-group division benefits relatively older athletes, while increasing the risk of injury and early dropout from sports among children born later in the season.*’
