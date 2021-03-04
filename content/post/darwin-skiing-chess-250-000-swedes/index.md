@@ -21,7 +21,7 @@ A recent paper from researchers at Umea University in Sweden looked at how young
 
 Massive study across many individual sports (n=244,560)
 
-It contrasted physical sports with cognitive ‘sports’ e-sports & chess
+It contrasted physical sports with cognitive ‘sports’. (Cross-Country Skiing, Alpine Skiing, Athletics, Orienteering, E-sports & Chess.)
 
 RAE found in all sports in children and for both sexes.
 
