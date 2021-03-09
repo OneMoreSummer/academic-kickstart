@@ -10,7 +10,7 @@ image:
 ---
 **In T20 cricket we select slightly more early born England Women yet late borns have careers almost twice as long.** 
 
-In general there is a [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) in women’s sport pathways but it is often less significant than in men’s sport. RAE is found in the England Women’s T20 team (Q1 30%, Q4 18%) over the period 2004-2021*.
+In general there is a [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) in women’s sport pathways but it is often less significant than in men’s sport. A small RAE is found in the England Women’s T20 team (Q1 30%, Q4 18%) over the period 2004-2021*.
 
 ![](womens-it20-qtrs.jpg)
 
