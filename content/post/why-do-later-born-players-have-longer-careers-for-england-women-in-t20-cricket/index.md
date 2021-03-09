@@ -19,7 +19,7 @@ But when we look at how many [games these players play over a career](https://on
 
 ![](womens-it20-matches-by-qtr.jpg)
 
-In men’s cricket similar effects have been shown where later borns, although selected far less, actually reach higher levels within the game. Collins, McCarthy & Court (2016) described an Underdog Effect in cricket as well as rugby union. It is important to state that it is not clear if the Underdog Effect and indeed how the RAE works in the men’s pathway is the same or similar to the womens.
+In men’s cricket similar effects have been shown where later borns, although selected far less, actually reach higher levels within the game. To explain this Collins, McCarthy & Court (2016) described an [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/) in cricket as well as rugby union. It is important to state that it is not clear if the Underdog Effect and indeed how the RAE works in the men’s pathway is the same or similar to the womens.
 
 NOTES
 
