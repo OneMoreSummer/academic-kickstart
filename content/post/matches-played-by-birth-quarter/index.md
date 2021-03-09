@@ -14,6 +14,6 @@ It can be argued that in order for a player to have a long career they will have
 
 Danni Wyatt (Q3) has currently played 116 times for England Women in T20 internationals. She has the most number of caps and  has been a consistent performer. This should have a greater ‘value’ than that of 3 or 4 players from Q1, for example, who only play 10 matches between them.
 
-When aggregated with other Q3 or Q4 players it tells a different story to the small amount of RAE shown by traditional representations.
+When aggregated with other Q3 or Q4 players it can tell a different story to the small amount of RAE shown by traditional representations.
 
 Perhaps ‘Matches played by Birth Quarter’ is a better metric than Players by Birth Quarter.
