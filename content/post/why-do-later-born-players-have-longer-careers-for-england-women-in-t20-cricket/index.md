@@ -18,7 +18,7 @@ But when we look at how many [games these players play over a career](https://on
 
 ![](womens-it20-matches-by-qtr.jpg)
 
-Similar results are found in England Womens ODI (50 over) team. Q1 players only play 18 matchesover a career whereas Q4 play almost 3x that figure at 52. There appears to be a familiar Q1/Q2 v Q3/Q4 effect.
+Similar results are found in England Womens ODI (50 over) team. On average a Q1 career consists of 18 matches whereas Q4 play almost 3 times that figure at 52. There appears to be a familiar Q1/Q2 v Q3/Q4 effect.
 
 ![](womens-odi-matches-by-qtr.jpg)
 
