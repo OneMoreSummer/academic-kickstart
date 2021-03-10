@@ -16,6 +16,8 @@ In general there is a [Relative Age Effect](https://onemoresummer.co.uk/post/wha
 
 But when we look at how many [games these players play over a career](https://onemoresummer.co.uk/post/matches-played-by-birth-quarter/) a different picture emerges. On average Q4 players play 45.7 matches whereas Q1 play only 14.7. The return for Q2 players is slightly better at 30.2 but is overshadowed by Q3 at 47.7. So later born (Q3/Q4) play for longer than early born (Q1/Q2). 
 
+![](womens-t20i-career-matches.jpg)
+
 ![](womens-it20-matches-by-qtr.jpg)
 
 Similar results are found in the [England Womens ODI (50 over) team](https://onemoresummer.co.uk/post/relative-age-effect-in-womens-cricket-engalnd-odi-selection/). On average a Q1 career consists of 18 matches whereas Q4 play almost 3 times that figure at 52. There appears to be a familiar Q1/Q2 v Q3/Q4 effect.
