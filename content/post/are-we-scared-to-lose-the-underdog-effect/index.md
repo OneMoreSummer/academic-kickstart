@@ -10,7 +10,7 @@ image:
 ---
 Warning: More ‘Discussion piece’ with assumptions.
 
-In the girls cricket pathway RAE is weaker than the boys pathway (assumption, no evidence?) yet there appears to be a significant RAE Reversal in senior cricket. This is in terms of average career length for England Women in ODI & T20 cricket. Does this suggest that a ‘smoothing’ of RAE in the boys pathway would have little or no negative impact on RAE Reversal experienced in the England Men’s team? There would still likely be a RAER through the Underdog Effect.
+In the girls cricket pathway Relative Age Effect (RAE) is weaker than the boys pathway (assumption, no evidence?) yet there appears to be a significant RAE Reversal (RAER) in senior cricket. This is in terms of average career length for England Women in ODI & T20 cricket. Does this suggest that a ‘smoothing’ of RAE in the boys pathway would have little or no negative impact on RAER experienced in the England Men’s team? There would still likely be a RAER through the Underdog Effect.
 
 ‘Smoothing’ could be simply using Age Ordered Shirts during pathway trials, especially early in the pathway, or it could be flexible quotas (5 year rolling averages?).
 
