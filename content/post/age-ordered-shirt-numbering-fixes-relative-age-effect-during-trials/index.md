@@ -22,4 +22,6 @@ I’ve not seen this in any trials, club, district, county, Bunbury (Regional U1
 
 'Results revealed a significant selection bias for the scouts in the no-age information group, and that bias remained when scouts knew the players' dates-of-birth. Strikingly though, the selection bias was eliminated when scouts watched the games knowing the shirt numbers corresponded to the relative ages of the players.’
 
+This couldbe more/most appropriate to the early stages of the pathway. The study was with U11 male footballers.
+
 [Study](https://pubmed.ncbi.nlm.nih.gov/27238077/#:~:text=When%20placed%20into%20age%20groups,show%20how%20to%20reduce%20it.) (2017)
