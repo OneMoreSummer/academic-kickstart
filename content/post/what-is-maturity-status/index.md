@@ -24,7 +24,7 @@ This then gives you a percentage of Predicted Adult Height (%PAH). 
 
 By knowing player A with Maturity Status of 95% and player B at only 85% then this will help to make better and more informed decisions about the coaching, selection, S&C evaluations, playing up/down of both players.  
 
-Maturity Timing is differentto Maturity Status. A player's maturity timng can be classified as Early, On Time or Late. Typically 15% are Early and Late with 70% On Time. 
+Maturity Timing is different to Maturity Status. A player's maturity timng can be classified as Early, On Time or Late. Typically 15% are Early and Late with 70% On Time. 
 
 **Maturity Status & Relative Age Effect**
 
