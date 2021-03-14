@@ -18,7 +18,7 @@ In the girls cricket pathway [Relative Age Effect](https://onemoresummer.co.uk/p
 
 Basic equity of opportunity
 
-Less Q1 inefficiencies (many lost post in early pro years)
+Less Q1 inefficiencies (many lost in early pro years)
 
 Potentially more Q4 super-elites (RAER)
 
