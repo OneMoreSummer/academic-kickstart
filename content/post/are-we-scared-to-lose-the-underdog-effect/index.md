@@ -35,3 +35,5 @@ Other ages - training, psychosocial
 Genetic factors
 
 But for most early developmental selection points (trials) we’re not taking account of those (enough) anyway.
+
+**We worry about the unintended consequences of adjusting the system but ignore the unintended consequences of organising cricket by academic year.**
