@@ -16,6 +16,8 @@ Galatea Effect
 
 [Maturity Status](https://onemoresummer.co.uk/post/what-is-maturity-status/)
 
+[Maturity Timing](https://onemoresummer.co.uk/post/what-is-maturity-timing/)
+
 Pygmalion Effect
 
 [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/)
