@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Maturation is the onset of the adolescent growth spurt. Maturation Status is either how far an individual is away from it, how far through it, or how far after it they are, namely Early, On Time or Late. Typically 15% are Early and Late with 70% On Time.
+Maturation is the onset of the adolescent growth spurt. Maturation Status is either how far an individual is away from it, how far through it, or how far after it they are.
 
 To calculate it using the Khamis-Roche method you need:
 
@@ -23,6 +23,8 @@ Parental heights to calculate the mid-parental height.
 This then gives you a percentage of Predicted Adult Height (%PAH). 
 
 By knowing player A with Maturity Status of 95% and player B at only 85% then this will help to make better and more informed decisions about the coaching, selection, S&C evaluations, playing up/down of both players.  
+
+Maturity Timing is differentto Maturity Status. A player's maturity timng can be classified as Early, On Time or Late. Typically 15% are Early and Late with 70% On Time. 
 
 **Maturity Status & Relative Age Effect**
 
