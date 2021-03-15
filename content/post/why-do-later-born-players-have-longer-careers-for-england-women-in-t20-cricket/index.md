@@ -30,7 +30,7 @@ In men’s cricket similar RAE Reversals have been shown where later borns, alth
 
 It is important to state that it is not clear if Relative Age and Underdog Effects work to the same extent in the women’s pathway as the mens.
 
-The lowest number of matches for a Q4 is currently 12. There are 11 Q1/Q2s who played fewer than 5 matches. Perhaps we overselect Q1 in the pathway only for a proportion of those players to not ‘make it’, while nearly all of the Q4 do?
+For the T20 Women's team the lowest number of matches played by a Q4 is currently 12. There are 11 Q1/Q2s who played fewer than 5 matches over their careers. Perhaps we overselect Q1 in the pathway only for a proportion of those players to not ‘make it’, while nearly all of the Q4 players do?
 
 NOTES
 
