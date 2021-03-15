@@ -28,11 +28,9 @@ Similar results are found in the [England Womens ODI (50 over) team](https://one
 
 In men’s cricket similar RAE Reversals have been shown where later borns, although selected far less, actually reach higher levels within the game. To explain this Collins, McCarthy & Court (2016) described an [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/) in cricket as well as rugby union. They proposed that younger, smaller, weaker, players have to work harder to survive than their relatively older counterparts and consequently become better players eventually.
 
-It is important to state that it is not clear if Relative Age and Underdog Effects work to the same exrent in the women’s pathway as the mens.
+It is important to state that it is not clear if Relative Age and Underdog Effects work to the same extent in the women’s pathway as the mens.
 
 The lowest number of matches for a Q4 is currently 12. There are 11 Q1/Q2s who played fewer than 5 matches. Perhaps we overselect Q1 in the pathway only for a proportion of those players to not ‘make it’, while nearly all of the Q4 do?
-
-
 
 NOTES
 
