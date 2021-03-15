@@ -36,4 +36,4 @@ Maturation: Late > On Time > Early
 
 With Maturation in girls the picture is less clear. Physical advantages can be present for early maturers nearer the start of the pathway. However late maturers may have selection advantages later in the pathway as they are perceived to be more athletic in comparison with early maturers who will have gained fat mass.  
 
-A players Maturity Status is how far along their maturation they are. This can be measured in terms of Percentage of Predicted Adult Height (PPAH). Boys going through their growth spurt enter a period known as Peak Height Velocity (PHV). Essentially when they are growing fastest. In general boys will enter this phase at around 90% (+- 2%) of PPAH.
+A player's Maturity Status is how far along their maturation they are. This can be measured in terms of Percentage of Predicted Adult Height (PPAH) using, for example, the Khamis-Roche method. Boys going through their growth spurt enter a period known as Peak Height Velocity (PHV). Essentially when they are growing fastest. In general boys will enter this phase at around 90% (+- 2%) of PPAH.
