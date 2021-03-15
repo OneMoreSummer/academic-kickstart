@@ -16,9 +16,9 @@ Most of the articles on this blog have dealt with Relative Age Effect alone simp
 
 Relative Age Effect and the effects of early or late Maturation are two different constructs that work independently of each other. They can amplify, negate or conceal the magnitude of a player’s physical and/or psychosocial advantages/disadvantages over another player, resulting in selection/deselection and/or better/worse opportunities.
 
-For RAE Q1/Q2s (esp Q1) are selected more in early pathways and Q3/Q4 (esp Q4) are either not selected or potentially dropout or are deselected at further points along the pathway. Conversely Q3/Q4 are more likely to reach super-elite levels. It is proposed that this is due to the heightened levels of challenge they face and is known as the Underdog Hypothesis.
+With RAE, Q1/Q2s (esp Q1) are selected more in early pathways and Q3/Q4 (esp Q4) are either not selected, potentially dropout or are deselected at further points along the pathway. Conversely Q3/Q4 are more likely to reach super-elite levels. It is proposed that this is due to the heightened levels of challenge they face and is known as the Underdog Hypothesis.
 
-For Maturation in boys early maturers will gain initial benefits of advanced physical strength and psychosocial advantages, but have the same eventual drawback of not being as likely to reach super-elite levels as late maturers. Both early and late maturers represent approximately 15% of players while the remaining 70% are on-time in their maturity timing.
+With Maturation in boys early maturers will gain initial benefits of advanced physical strength and psychosocial advantages, but have the same eventual drawback of not being as likely to reach super-elite levels as late maturers. Both early and late maturers represent approximately 15% of players while the remaining 70% are on-time in their maturity timing.
 
 **Most Pathway Advantage**
 
@@ -33,5 +33,7 @@ RAE: Q4 > Q3 > Q2 > Q1
 Maturation: Late > On Time > Early
 
 \* Not necessarily for all disciplines within cricket. Not necessarily for women and girls.
+
+With Maturation in girls the picture is less clear. Physical advantages can be present for early maturers nearer the start of the pathway. However late maturers may have selection advantages later in the pathway as they are perceived to be more athletic in comparison with early maturers who will have gained fat mass.  
 
 A players Maturity Status is how far along their maturation they are. This can be measured in terms of Percentage of Predicted Adult Height (PPAH). Boys going through their growth spurt enter a period known as Peak Height Velocity (PHV). Essentially when they are growing fastest. In general boys will enter this phase at around 90% (+- 2%) of PPAH.
