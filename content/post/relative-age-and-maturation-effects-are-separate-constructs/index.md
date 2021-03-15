@@ -14,7 +14,7 @@ image:
 
 Most of the articles on this blog have dealt with Relative Age Effect alone simply because I only have access to Date of Birth data. This article discusses how Maturation effects are different from RAE, the potential magnitude of these differences and how maturation effects may differ between boys and girls in cricket pathways.  
 
-Relative Age Effect and the effects of early or late Maturation are two different constructs that work independently of the other. They can amplify, negate or conceal the magnitude of a player’s physical and/or psychosocial advantages/disadvantages over another player, resulting in selection/deselection and/or better/worse opportunities.
+Relative Age Effect and the effects of early or late Maturation are two different constructs that work independently of each other. They can amplify, negate or conceal the magnitude of a player’s physical and/or psychosocial advantages/disadvantages over another player, resulting in selection/deselection and/or better/worse opportunities.
 
 For RAE Q1/Q2s (esp Q1) are selected more in early pathways and Q3/Q4 (esp Q4) are either not selected or potentially dropout or are deselected at further points along the pathway. Conversely Q3/Q4 are more likely to reach super-elite levels. It is proposed that this is due to the heightened levels of challenge they face and is known as the Underdog Hypothesis.
 
