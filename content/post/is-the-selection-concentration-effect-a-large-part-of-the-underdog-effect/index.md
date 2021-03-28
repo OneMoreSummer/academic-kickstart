@@ -28,21 +28,15 @@ Q1 8, Q2 6, Q3 4, Q4 2
 
 ![](selection-concentration.jpg)
 
-So just looking at Q1 we have selected our top 5 most likely players who could make it but also added 3 who probably won’t. For Q4 we have probably selected our top 2 of the 5 expected and not selected 3 who could succeed but are less likely than these 2. Therefore for Q4 there is a higher ‘concentration’ of potential then there is in Q1.
+So just looking at Q1 we have selected our top 5 most likely players who could make it but also added 3 who probably won’t. For Q4 we have probably selected our top 2 of the 5 expected and not selected 3 who could succeed but are less likely than these 2. Therefore for Q4 there is a higher ‘concentration’ of potential than there is in Q1.
 
 If we repeat this process at least annually for a few years then this will produce a small number of Q4 players who are super likely to succeed and a larger number of Q1 players who are super less likely. This purely ‘mathematical’ function is likely to contribute a significant part to the perceived Underdog Effect.
 
-
-
 **RAER & Conversion Rate**
-
-
 
 The Underdog Effect can be said to lead to Relative Age Effect Reversal (RAER) . RAER is where there are more later born players than early born. It is not the same as a higher conversion rate for later borns. That is something else. **It is possible for later borns to have a higher conversion rate but still be in the minority in absolute numbers**.
 
 RAER and the Underdog Effect are not reasons for not addressing RAE in the development journey. 
-
-
 
 \* There may be a pre-trial effect where clubs have nominated early born players more than late born players.  
 
