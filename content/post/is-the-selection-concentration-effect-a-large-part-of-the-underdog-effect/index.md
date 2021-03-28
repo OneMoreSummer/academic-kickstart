@@ -38,7 +38,9 @@ If we repeat this process at least annually for a few years then this will produ
 
 
 
-RAER is Relative Age Effect Reversal where there are more later born players than early born. It is not the same as a higher conversion rate for later borns. That is something else. It is possible for later borns to have a high conversion but still be in the minority in absolute numbers.
+The Underdog Effect can be said to lead to Relative Age Effect Reversal (RAER) . RAER is where there are more later born players than early born. It is not the same as a higher conversion rate for later borns. That is something else. It is possible for later borns to have a higher conversion rate but still be in the minority in absolute numbers.
+
+RAER and the Underdog Effect are not reasons for not addressing RAE in the development journey. 
 
 
 
