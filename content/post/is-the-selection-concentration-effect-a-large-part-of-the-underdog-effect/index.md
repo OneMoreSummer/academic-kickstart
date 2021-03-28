@@ -18,7 +18,7 @@ But are we attributing too much to the Underdog Effect and forgetting about how 
 
 These ‘Effects’ influence both [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/)s and Maturation Effects. In the following example we are just looking at RAE.
 
-If at the start of the journey we have an equal distribution of players from the four Birth Quarters. Let’s say 40 players at an U10 trial to select a 20 player squad. I think it is safe to assume that there is an equal distribution of long term player potential across all BQs, so a ‘best’ 5 in each. Although it is virtually impossible to predict who of these 40 players will succeed in the long term, let’s assume that there will be a player in each group most likely and a player least likely to succeed long term, with the rest in order between them. 
+If at the start of the journey we have an equal distribution of players from the four [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/). Let’s say 40 players at an U10 trial to select a 20 player squad. I think it is safe to assume that there is an equal distribution of long term player potential across all BQs, so a ‘best’ 5 in each. Although it is virtually impossible to predict who of these 40 players will succeed in the long term, let’s assume that there will be a player in each group most likely and a player least likely to succeed long term, with the rest in order between them. 
 
 Initial 40 players: Q1 10, Q2 10, Q3 10, Q4 10. *
 
