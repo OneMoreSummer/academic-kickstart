@@ -32,8 +32,18 @@ So just looking at Q1 we have selected our top 5 most likely players who could m
 
 If we repeat this process at least annually for a few years then this will produce a small number of Q4 players who are super likely to succeed and a larger number of Q1 players who are super less likely. This purely ‘mathematical’ function is likely to contribute a significant part to the perceived Underdog Effect.
 
+
+
+**RAER & Conversion Rate**
+
+
+
+RAER is Relative Age Effect Reversal where there are more later born players than early born. It is not the same as a higher conversion rate for later borns. That is something else. It is possible for later borns to have a high conversion but still be in the minority in absolute numbers.
+
+
+
 \* There may be a pre-trial effect where clubs have nominated early born players more than late born players.  
 
 \*\* Based on Regional U15 BQ percentages (2000-2018). A County Age Group U10 squad may have more or less RAE at that age. RAE tends to be higher earlier but increased selection/competition for places increase RAE.  
 
-1. McCarthy, Collins& Court 2015
+1. McCarthy, Collins & Court 2015
