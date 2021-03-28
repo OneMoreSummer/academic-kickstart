@@ -12,7 +12,9 @@ A number of studies have shown how later born and/or later maturing players do b
 
 This intuitive idea is similar to the Younger Sibling Effect where players with older siblings, who often play the same sport, are more likely to reach higher levels of that sport. It is presumed through the effect of the constantly higher challenge. This is a commonly held view and highly likely.
 
-But are we attributing too much to the Underdog Effect and forgetting about how the systemic effect of multiple biased selections along a player’s journey can, just through a purely mathematical function, contribute to this same outcome.
+But are we attributing too much to the Underdog Effect and forgetting about how the systemic effect of multiple biased selections along a player’s journey can, just through a purely mathematical function, contribute to this same outcome? Are we comparing apples and oranges? For more on this...  [Why Most Conversion Rates Are Wrong and How You Can Do Better](medium.com/swlh/why-most-conversion-rates-are-wrong-and-how-you-can-do-better-d199d7edb852).
+
+![](applesnoranges.jpg)
 
 These ‘Effects’ influence both Relative Age Effects and Maturation Effects. In the following example we are just looking at RAE.
 
