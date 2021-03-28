@@ -42,4 +42,5 @@ RAER and the Underdog Effect are not reasons for not addressing RAE in the devel
 
 \*\* Based on Regional U15 BQ percentages (2000-2018). A County Age Group U10 squad may have more or less RAE at that age. RAE tends to be higher earlier but increased selection/competition for places increase RAE.  
 
-1. McCarthy, Collins & Court 2015
+1. McCarthy, Collins & Court 2015. Start hard, finish better: further evidence for the
+   reversal of the RAE advantage. Journal of Sports Sciences.
