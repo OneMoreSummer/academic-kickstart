@@ -8,15 +8,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A number of studies have shown how later born and/or later maturing players do better out of the development process. This can be shown through higher percentages of these players reaching international levels for example (1).  This has been hypothesized as the Underdog Effect. Weaker, smaller, slower players responding to a higher challenge level than their stronger, larger, faster yet older peers.
+A number of studies have shown how later born and/or later maturing players do better out of the development process. This can be shown through higher percentages of these players reaching international levels for example (1).  This has been hypothesized as the [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/). Weaker, smaller, slower players responding to a higher challenge level than their stronger, larger, faster yet older peers.
 
-This intuitive idea is similar to the Younger Sibling Effect where players with older siblings, who often play the same sport, are more likely to reach higher levels of that sport. It is presumed through the effect of the constantly higher challenge. This is a commonly held view and highly likely.
+This intuitive idea is similar to the [Younger Sibling Effect](https://onemoresummer.co.uk/post/the-younger-sibling-effect/) where players with older siblings, who often play the same sport, are more likely to reach higher levels of that sport. It is presumed through the effect of the constantly higher challenge. This is a commonly held view and highly likely.
 
 But are we attributing too much to the Underdog Effect and forgetting about how the systemic effect of multiple biased selections along a player’s journey can, just through a purely mathematical function, contribute to this same outcome? Are we comparing apples and oranges? For more on this...  [Why Most Conversion Rates Are Wrong and How You Can Do Better](medium.com/swlh/why-most-conversion-rates-are-wrong-and-how-you-can-do-better-d199d7edb852).
 
 ![](applesnoranges.jpg)
 
-These ‘Effects’ influence both Relative Age Effects and Maturation Effects. In the following example we are just looking at RAE.
+These ‘Effects’ influence both [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/)s and Maturation Effects. In the following example we are just looking at RAE.
 
 If at the start of the journey we have an equal distribution of players from the four Birth Quarters. Let’s say 40 players at an U10 trial to select a 20 player squad. I think it is safe to assume that there is an equal distribution of long term player potential across all BQs, so a ‘best’ 5 in each. Although it is virtually impossible to predict who of these 40 players will succeed in the long term, let’s assume that there will be a player in each group most likely and a player least likely to succeed long term, with the rest in order between them. 
 
