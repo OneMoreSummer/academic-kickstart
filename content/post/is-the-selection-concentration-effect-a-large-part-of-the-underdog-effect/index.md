@@ -1,5 +1,5 @@
 ---
-title: Is The Selection Concentration Effect a large part of the Underdog Effect?
+title: Is a Selection Concentration Effect a large part of the Underdog Effect?
 date: 2021-03-28T11:35:06.214Z
 draft: false
 featured: false
