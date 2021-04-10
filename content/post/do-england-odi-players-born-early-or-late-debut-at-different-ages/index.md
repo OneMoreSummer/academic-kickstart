@@ -24,4 +24,4 @@ Oldest Player: Paul Nixon 36.3
 
 4 of 5 players to debut in their 30s are Q1: Paul Nixon, Mal Loye, Michael Lumb & Michael Carberry
 
-Last player born June-August (Q4) to debut for England ODIs was Sam Billings 5 YEARS ago. Since then 15 players have debuted (Q1 4, Q2 6, Q3 5, Q4 0).
+Last player born June-August (Q4) to debut for England ODIs was Sam Billings 5 YEARS ago. Since then 15 players have debuted (Q1 4, Q2 6, Q3 5, Q4 0). * Update (Liam Livingstone (Q4) made his debut on 26/03/2021)
