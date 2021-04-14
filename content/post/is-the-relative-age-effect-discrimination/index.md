@@ -26,7 +26,7 @@ The code states:
 
 So it will be a breach if any group is disadvantaged based on their age.
 
-Can it be argued that systemic Relative Age Effect in the cricket development pathway is a breach of this new code? Are those born later in the academic year treated prejudicially in terms of selection? It’s difficult to say no to this question when, for example, Birth Quarter (BQ) 1 (Sept-Nov) players are 4x as likely to be selected at the Regional U15 (Bunbury) level than BQ 4s (June-Aug).
+Can it be argued that systemic Relative Age Effect in the cricket development pathway is a breach of this new code? Are those born later in the academic year treated prejudicially in terms of selection? It’s difficult to say no to this question. For example, on average over the last 20 years Birth Quarter (BQ) 1 (Sept-Nov) players are 4x as likely to be selected at the Regional U15 (Bunbury) level than BQ 4s (June-Aug).
 
 Could an individual use the code as well as current legislation such as the Equality Act 2020 to take a club, county, or the ECB itself to court?
 
