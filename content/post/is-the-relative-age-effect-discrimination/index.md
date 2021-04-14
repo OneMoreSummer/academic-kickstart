@@ -18,15 +18,11 @@ As well as race though, age is also included in the list of ‘Protected Charact
 
 The code states:
 
-1. It will be a breach of this Code for any Participant to:
+***1. It will be a breach of this Code for any Participant to:***
 
-1.1. act in any manner, make any omission, or engage in any conduct, which does, or is likely to,
+*1.1. act in any manner, make any omission, or engage in any conduct, which does, or is likely to, offend, insult, humiliate, intimidate, threaten, disparage and/or vilify any reasonable person, or group of people, based on, or by reference to, any Protected Characteristic; and/or*
 
-offend, insult, humiliate, intimidate, threaten, disparage and/or vilify any reasonable person,
-
-or group of people, based on, or by reference to, any Protected Characteristic; and/or
-
-1.2. make any decision or any omission or do anything which might reasonably be deemed to discriminate against any person, or group of people, or to disadvantage that individual or group based on any Protected Characteristic unless permitted by law;
+***1.2. make any decision or any omission or do anything which might reasonably be deemed to discriminate against any person, or group of people, or to disadvantage that individual or group based on any Protected Characteristic unless permitted by law;***
 
 So it will be a breach if any group is disadvantaged based on their age.
 
