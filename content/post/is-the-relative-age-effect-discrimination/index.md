@@ -16,7 +16,7 @@ So to treat someone prejudicially on the basis of their age is discrimination.
 
 Recently the England & Wales Cricket Board (ECB) [announced a new Anti-Discrimination Code](https://www.ecb.co.uk/england/men/news/2096452/ecb-reaffirms-its-commitment-to-stamp-out-discrimination-and-make-cricket-more-inclusive-and-diverse). The main driver for this was in relation to recent issues over racial discrimination and to attempt to address a recognised racial inequality in cricket in England & Wales. This is welcomed.
 
-As well as race though, age is also included in the list of ‘Protected Characteristics’ in the code.
+As well as race though, age is also included in the list of ‘Protected Characteristics’ in the code. 
 
 The code states:
 
@@ -29,6 +29,8 @@ The code states:
 So it will be a breach if any group is disadvantaged based on their age.
 
 Can it be argued that the systemic Relative Age Effect found throughout the cricket development pathway is a breach of this new code? Are those born later in the academic year treated prejudicially in terms of selection? It’s difficult to say no to this question. For example, on average over the last 20 years Birth Quarter (BQ) 1 (Sept-Nov) players are 4x as likely to be selected at the Regional U15 (Bunbury) level than BQ 4s (June-Aug).
+
+Participants include all County Cricket Boards, First Class Counties, the National Counties, leagues, clubs and other organisations under the jurisdiction of the ECB.
 
 Could an individual use the code as well as current legislation such as the Equality Act 2020 to take a club, county, or the ECB itself to court?
 
