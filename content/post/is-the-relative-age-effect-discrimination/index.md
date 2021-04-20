@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](2drs3rq.jpg)
+
 Discrimination is defined as the unjust or prejudicial treatment of different categories of people, especially on the grounds of race, age, sex, or disability.
 
 So to treat someone prejudicially on the basis of their age is discrimination.
