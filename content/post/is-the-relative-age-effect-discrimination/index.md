@@ -14,7 +14,7 @@ Discrimination is defined as the unjust or prejudicial treatment of different ca
 
 So to treat someone prejudicially on the basis of their age is discrimination.
 
-Recently the [ECB announced a new Anti-Discrimination Code](https://www.ecb.co.uk/england/men/news/2096452/ecb-reaffirms-its-commitment-to-stamp-out-discrimination-and-make-cricket-more-inclusive-and-diverse). The main driver for this was in relation to recent issues over racial discrimination and to attempt to address a recognised racial inequality in cricket in England & Wales. This is welcomed.
+Recently the England & Wales Cricket Board (ECB) [announced a new Anti-Discrimination Code](https://www.ecb.co.uk/england/men/news/2096452/ecb-reaffirms-its-commitment-to-stamp-out-discrimination-and-make-cricket-more-inclusive-and-diverse). The main driver for this was in relation to recent issues over racial discrimination and to attempt to address a recognised racial inequality in cricket in England & Wales. This is welcomed.
 
 As well as race though, age is also included in the list of ‘Protected Characteristics’ in the code.
 
