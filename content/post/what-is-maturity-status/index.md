@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Maturation is the onset of the adolescent growth spurt. Maturation Status is either how far an individual is away from it, how far through it, or how far after it they are.
+Maturation is the onset of the adolescent growth spurt. Maturation Status is either how far an individual is away from it, how far through it, or how far after it they are. (Pre, Circa & Post Peak Height Velocity (PHV)).
 
 To calculate it using the Khamis-Roche method you need:
 
