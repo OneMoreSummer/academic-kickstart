@@ -12,7 +12,7 @@ image:
 
 Whereas most of these sports are played virtually all year around or have the option of playing indoors, cricket is somewhat different. It isn’t played in the rain. It isn’t played all year around.
 
-![Photo by reza shayestehpour on unsplash.com](rain.jpg)
+![Photo by reza shayestehpour on unsplash.com](rain.jpg "Photo by reza shayestehpour on unsplash.com")
 
 In fact it is only played professionally for half of the year and at developmental stages often for only a few months. The timing of these playing periods are always the same, spring and summer. Unlike say swimming and indeed football that compete all year around, cricket is very particular and very specific.
 
