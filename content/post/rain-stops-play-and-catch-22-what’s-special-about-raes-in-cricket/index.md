@@ -30,4 +30,4 @@ Now if there is one way of demonstrating the various effects that can exist betw
 
 The Matthew effect is when players who get all the opportunities to then get further opportunities (‘rich get richer’) and the Pygmalion and Galatea effects are where the coach expects the players to do well and the later where the player expects (and consequently often does) expect to do well. As a perennial captain during the development pathway this is very likely to have a positive effect on your psychosocial skills and confidence levels.
 
-In contrast , late born players often make up the numbers and are given very few opportunities especially when they ‘fail’ as they haven’t had the opportunities to learn to succeed. Catch 22.
+In contrast, later born players often make up the numbers and are given very few opportunities especially when they ‘fail’ as they haven’t had the opportunities to learn to succeed. Catch 22.
