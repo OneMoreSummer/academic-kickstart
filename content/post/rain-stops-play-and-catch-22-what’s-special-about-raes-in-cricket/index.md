@@ -20,7 +20,7 @@ This contributes to why we find RAEs in cricket and why developing players who w
 
 In fact often players identified early in the system as ‘potential’ stars start playing/training at say U9 when only U8. These are often early born and as well as playing an extra year they often also ‘play up’ every year, i.e. getting twice as many valuable opportunities to develop experience as a ‘normal’ player. This is not uncommon and is often the back story for many successful players (if they don’t burn out).
 
-Cricket is also more prone than some (not all) sports to be dominated by a few (sometimes just one) players in a team of eleven. Often early borns will bat high in the order, be one of the first bowlers and especially be captain. 
+Cricket is also more prone than some (not all) sports to be dominated by a few (sometimes just one) players in a team of eleven. Often early born players will bat high in the order, be one of the first bowlers and especially be captain. 
 
 Now if there is one way of demonstrating the various effects that can exist between coaches and players then making someone captain (often for an entire season and perhaps for every season) is it.
 
