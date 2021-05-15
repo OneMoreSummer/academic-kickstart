@@ -8,6 +8,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+**In most sports, especially team sports, it has been well documented that [Relative Age Effects](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) exist in development pathways. Football, rugby, ice hockey, tennis and cricket are all susceptible.**
+
+Whereas most of these sports are played virtually all year around or have the option of playing indoors, cricket is somewhat different. It isn’t played in the rain. It isn’t played all year around.
+
 ![](rain.jpg)
 
 Photo by [reza shayestehpour](https://unsplash.com/@r_shayesrehpour?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/rain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
