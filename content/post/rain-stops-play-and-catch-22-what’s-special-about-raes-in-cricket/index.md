@@ -12,13 +12,7 @@ image:
 
 Whereas most of these sports are played virtually all year around or have the option of playing indoors, cricket is somewhat different. It isn’t played in the rain. It isn’t played all year around.
 
-![](rain.jpg)
-
-Photo by [reza shayestehpour](https://unsplash.com/@r_shayesrehpour?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/rain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-**In most sports, especially team sports, it has been well documented that [Relative Age Effects](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) exist in development pathways. Football, rugby, ice hockey, tennis and cricket are all susceptible.**
-
-Whereas most of these sports are played virtually all year around or have the option of playing indoors, cricket is somewhat different. It isn’t played in the rain. It isn’t played all year around.
+![Photo by reza shayestehpour on unsplash.com](rain.jpg)
 
 In fact it is only played professionally for half of the year and at developmental stages often for only a few months. The timing of these playing periods are always the same, spring and summer. Unlike say swimming and indeed football that compete all year around, cricket is very particular and very specific.
 
