@@ -10,14 +10,10 @@ image:
 ---
 A phenomenon within the coach-player relationship whereby if a coach has high expectations of a player then the player is more likely to fulfill those expectations.
 
-
-
 The effect is described as also working in reverse. A player with low expectations from a coach will perform worse.
-
-
 
 Researchers on the effect, Rosenthal and Jacobsen within Education, offered that players internalise ‘positive (or negative) labels’ from coaches and these play out in a self-fulfilling prophecy. 
 
-
-
 From a Greek myth, Pygmalion was a sculptor who fell in love with a statue he created.
+
+* This is part of a library of [What Is](https://onemoresummer.co.uk/post/the-what-is-series/) descriptions on this site.
