@@ -1,5 +1,5 @@
 ---
-title: "[What is] Pygmalion Effect"
+title: "[What is] the Pygmalion Effect"
 date: 2021-05-17T08:12:52.806Z
 draft: false
 featured: false
