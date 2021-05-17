@@ -10,7 +10,7 @@ image:
 ---
 [Birth Quarter](https://onemoresummer.co.uk/post/what-is-birth-quarter/)
 
-Galatea Effect
+[Galatea Effect](https://onemoresummer.co.uk/post/what-is-the-galatea-effect/)
 
 [Matthew Effect](https://onemoresummer.co.uk/post/what-is-the-matthew-effect/)
 
@@ -18,7 +18,7 @@ Galatea Effect
 
 [Maturity Timing](https://onemoresummer.co.uk/post/what-is-maturity-timing/)
 
-Pygmalion Effect
+[Pygmalion Effect](https://onemoresummer.co.uk/post/what-is-pygmalion-effect/)
 
 [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/)
 
