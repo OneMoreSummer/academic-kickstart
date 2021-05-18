@@ -9,9 +9,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Inter player differences in maturation can be at least 5 years (Figure 1) whereas Relative Age Effects are only up to 1 year (1). In development environments the magnitude of these differences can be up to approximately 10-fold (2).   
+Inter player differences in maturation can be at least 5 years (Figure 1) whereas [Relative Age Effects](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) are only up to 1 year (1). In development environments the magnitude of these differences can be up to approximately 10-fold (2).   
 
-For example at Man Utd they found that skeletal age (maturity status) has a greater influence than Birth Quarter on the selection and retention of players in football academies (2).
+For example at Man Utd they found that skeletal age (maturity status) has a greater influence than [Birth Quarter](https://onemoresummer.co.uk/post/what-is-birth-quarter/) on the selection and retention of players in football academies (2).
 
 Also unlike RAE which decreases slightly at higher age groups, the influence of maturity status increases through the age groups. For late maturers at Man Utd the Odds Ratio for retention was 2.2 for U12, 4.9 for U15 and 10.4 for U16 and 20 for U17 (2).
 
@@ -45,8 +45,6 @@ Both NZ Cricket and the English Premier League have found significant Maturation
 
 It would seem unbelievable to assume that a similar effect is not in play for maturation in the English Cricket development pathway. 
 
-
-
 **What needs to be done?**
 
 This isn’t a difficult issue to address. In fact many county academies are probably doing most of what is required. Regular measurements of height and weight are being taken already. But these are often only used for red flagging circa-Peak Height Velocity (PHV), i.e. the growth spurt, in order to prevent injury through reducing time playing/training.
@@ -55,13 +53,9 @@ With the addition of parental heights a calculation of percentage of Peak Adult 
 
 It is the only method to include heritage factors (parental height) in its calculation. We often see small players and expect them to keep growing but often they are 95+% maturity status because their parents are below average height. 60-70% of height is inherited (9).
 
-
-
 **Future Policy?**
 
 Careful decisions and plans are being made about players without the most basic information. Knowing a player’s Maturity Status can help inform those decisions. Whether it is judging where they are in specific S&C metrics (sprint, jump, endurance), where their optimum challenge point is, whether they should play up or indeed down, or even if  they should be retained or released. It’s too easy and too important not to do this. 
-
-
 
 REFERENCES
 
