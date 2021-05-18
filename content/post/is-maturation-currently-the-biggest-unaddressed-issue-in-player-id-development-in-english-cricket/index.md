@@ -51,7 +51,7 @@ This isn’t a difficult issue to address. In fact many county academies are pro
 
 With the addition of parental heights a calculation of percentage of Peak Adult Height (%PAH) can be made using the Khamis-Roche (KR) method (8). This percentage then represents where the player is on their journey through growth and maturation. 
 
-It is the only method to include heritage factors (parental height) in its calculation. We often see small players and expect them to keep growing but often they are 95+% maturity status because their parents are below average height. 60-70% of height is inherited (9).
+It is the only method to include heritage factors (parental height) in its calculation. We often see small players and expect them to keep growing but they could be 95+% maturity status because their parents are below average height. 60-70% of height is inherited (9).
 
 **Future Policy?**
 
