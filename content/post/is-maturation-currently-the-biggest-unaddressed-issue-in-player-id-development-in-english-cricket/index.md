@@ -88,19 +88,23 @@ RESOURCES
 REFERENCES
 
 1. Chuman et al (2014) Maturation and Intermittent Endurance in Male Soccer Players during the Adolescent Growth Spurt: A Longitudinal Study. Football Science, Vol 11, 39-47.
+
 2. Amanda Johnson et al (2017) Skeletal maturation status is more strongly associated with academy selection than birth quarter. Science and Medicine in Football. Volume 1, 2017 - Issue 2.
+
 3. Barney (2015) Chapter 5 Relative Age Effects throughout a Talent Development Pathway: A Chronological and Biological Analysis of English Cricket. PhD Preliminary stages in the validation of a talent identification model in cricket.
+
 4. Jones (2019) PhD. ‘Game Changers’: Discriminating Features within the Microstructure of Practice and Developmental Histories of Super-Elite Cricketers - a Pattern Recognition Approach.
-5. [Innovative strategies to maximise youth skill development: Lessons from NZ Cricket, Auckland Cricket and AUT. Balance is Better. The Home of Youth Sport in New Zealand.](<<https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut>
 
-   6.>)
+[5. Innovative strategies to maximise youth skill development: Lessons from NZ Cricket, Auckland Cricket and AUT. Balance is Better. The Home of Youth Sport in New Zealand.](<<https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut>
 
-   6. [](<<https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut>
+6.>)
 
-   6.>)Malina, R. M., Coelho-e-Silva, M. J., Figueiredo, A. J., Philippaerts, R. M., Hirose, N., Reyes, M. E. P., ... & Buranarugsa, R. (2018). Tanner–Whitehouse skeletal ages in male youth soccer players: TW2 or TW3?. Sports Medicine, 48(4), 991-1008.
+6. [](<<https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut>
 
-   7. Figueiredo, A. J., Coelho-E-Silva, M. J., Sarmento, H., Moya, J., & Malina, R. M. (2020). Adolescent characteristics of youth soccer players: do they vary with playing status in young adulthood?. Research in Sports Medicine, 28(1), 72-83.
+6.>)Malina, R. M., Coelho-e-Silva, M. J., Figueiredo, A. J., Philippaerts, R. M., Hirose, N., Reyes, M. E. P., ... & Buranarugsa, R. (2018). Tanner–Whitehouse skeletal ages in male youth soccer players: TW2 or TW3?. Sports Medicine, 48(4), 991-1008.
 
-   8. Harry J. Khamis and Alex F. Roche (1994). Predicting Adult Stature Without Using Skeletal Age: The Khamis-Roche Method. Pediatrics October 1994, 94 (4) 504-507.
+7. Figueiredo, A. J., Coelho-E-Silva, M. J., Sarmento, H., Moya, J., & Malina, R. M. (2020). Adolescent characteristics of youth soccer players: do they vary with playing status in young adulthood?. Research in Sports Medicine, 28(1), 72-83.
 
-   9. Zhong Cheng Luo, Kerstin Albertsson-Wikland & Johan Karlberg (1998) Target Height as Predicted by Parental Heights in a Population-Based Study. Pediatric Research volume 44, pages 563–571.
+8. Harry J. Khamis and Alex F. Roche (1994). Predicting Adult Stature Without Using Skeletal Age: The Khamis-Roche Method. Pediatrics October 1994, 94 (4) 504-507.
+
+9. Zhong Cheng Luo, Kerstin Albertsson-Wikland & Johan Karlberg (1998) Target Height as Predicted by Parental Heights in a Population-Based Study. Pediatric Research volume 44, pages 563–571.
