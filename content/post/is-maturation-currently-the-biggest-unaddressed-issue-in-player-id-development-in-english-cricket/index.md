@@ -79,6 +79,10 @@ RESOURCES
 
 [Growth and maturity | FA Learning webinar](https://youtu.be/LlV9IxUjFb4?t=204)
 
+[James Bunce | US Soccer - RAE, Growth & Maturation, Talent Identification, Bio-Bandin](https://register.gotowebinar.com/register/7840924587170822668)
+
+[James Bunce | US Soccer - Growth & Maturation Methods](https://register.gotowebinar.com/register/3380056380081735691)
+
 [](https://theathletedp.com/research-reports-relative-age-and-maturation-selection-biases-in-academy-football/)
 
 REFERENCES
