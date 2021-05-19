@@ -9,9 +9,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Inter player differences in maturation can be at least 5 years (Figure 1) whereas [Relative Age Effects](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) are only up to 1 year (1). In development environments the magnitude of these differences can be up to approximately 10-fold (2).   
+Inter player differences in maturation can be at least 5 years (Figure 1) whereas [Relative Age Effects](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) (RAE) are only up to 1 year (1). In development environments the magnitude of the effect of these differences can be up to approximately 10-fold (2).   
 
-For example at Man Utd they found that skeletal age (maturity status) has a greater influence than [Birth Quarter](https://onemoresummer.co.uk/post/what-is-birth-quarter/) on the selection and retention of players in football academies (2).
+For example at Man Utd it was found that skeletal age ([maturity status](https://onemoresummer.co.uk/post/what-is-maturity-status/)) has a greater influence than [Birth Quarter](https://onemoresummer.co.uk/post/what-is-birth-quarter/) on the selection and retention of players in football academies (2).
 
 Also unlike RAE which decreases slightly at higher age groups, the influence of maturity status increases through the age groups. For late maturers at Man Utd the Odds Ratio for retention was 2.2 for U12, 4.9 for U15 and 10.4 for U16 and 20 for U17 (2).
 
@@ -19,7 +19,7 @@ Also unlike RAE which decreases slightly at higher age groups, the influence of 
 
 **So what has this got to do with cricket?**
 
-The ECB (cricket’s National Governing Body in England & Wales) seem to be basing their policy on addressing maturation effects in cricket on two PhD studies they funded in 2015 and 2019. The first looked at ‘Relative Age Effects throughout a Talent Development Pathway: A Chronological and Biological Analysis of English Cricket’ (3).
+The ECB (cricket’s National Governing Body in England & Wales) seem to be basing their policy on addressing maturation effects, in cricket, on two PhD studies they funded in 2015 and 2019. The first looked at ‘Relative Age Effects throughout a Talent Development Pathway: A Chronological and Biological Analysis of English Cricket’ (3).
 
 It found no significant difference in maturity status across U12 (n=119) and U14 (n=118) male cricketers. Maturity status was calculated as Skeletal Age (SA) - Chronological Age (CA). SA was found using the TW3 method.
 
@@ -33,9 +33,11 @@ Subsequently, NZ Cricket, Auckland Cricket and Auckland University of Technology
 
 **The ECB 2015 data**
 
-The ECB sponsored research was done in 2015. At the time the method used to analyse the player’s skeletal age was the Tanner-Whitehouse (TW3) method. Subsequent research has called into question it’s accuracy. TW3 is found to underestimate skeletal age by 0.5 years (6).
+The ECB sponsored research was done in 2015. At the time the method used to analyse the player’s skeletal age (SA) was the Tanner-Whitehouse (TW3) method. Subsequent research has called into question it’s accuracy. TW3 is found to underestimate skeletal age by 0.5 years (6).
 
-Also the pathway players studied were U12 and U14. Whereas it would be expected to find maturation effects in the later age group then perhaps it is unsurprising not to find significant maturation effects in 11 year olds. The average age of circa-Peak Height Velocity (PHV), the middle of the growth spurt, is 14 for caucasian males. As we saw earlier PHV can range from approx 11 until 15 (1). Perhaps a U16 group should also have been included.
+If the findings are adjusted for this underestimate by adding +0.5 years on to the mean values for SA for each quarter then this would probably equate to a moderate to strong maturity bias. A methodology of only classifying an early or late maturer by being either one whole year plus or minus respectively of chronological age is a blunt tool. For example lots of players could be +0.9 years. You also need to look at the mean discrepancy value between SA and CA.
+
+Also the pathway players studied were U12 and U14. Whereas it would be expected to find maturation effects in the later age group then perhaps it is unsurprising not to find significant maturation effects in 11 year olds. The average age of circa-Peak Height Velocity (PHV), the middle of the growth spurt, is 14 for caucasian males. As we saw earlier PHV can range from approx 11 until 15 (1). Perhaps a U16 group should also have been included. We also don't know the numbers of or effect of any players included in each age group who were chronologically in the U11 or U13 age groups respectively.
 
 **RAE but no Maturation Effects?**
 
@@ -57,6 +59,28 @@ It is the only method to include heritage factors (parental height) in its calcu
 
 Careful decisions and plans are being made about players without the most basic information. Knowing a player’s Maturity Status can help inform those decisions. Whether it is judging where they are in specific S&C metrics (sprint, jump, endurance), where their optimum challenge point is, whether they should play up or indeed down, or even if  they should be retained or released. It’s too easy and too important not to do this. 
 
+RESOURCES
+
+[Innovative strategies to maximise youth skill development: Lessons from NZ Cricket, Auckland Cricket and AUT](https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut/)
+
+[](https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut/)[Dr Sean Cumming | Biological Maturation in Youth Sports: Breaking Biases](https://youtu.be/bTaUQoBHmGg)
+
+[Growth and Maturation in Sport - Sean Cumming](https://youtu.be/6NDZJ-jCoB8)
+
+[US Soccer Bio-Banding Initiative](https://www.youtube.com/watch?v=odcP9Grw6h0&t=1s)
+
+[Lessons in Growth & Maturation of Young Athletes: The 5 Age’s – How old are you?](https://ironmanperformance.org/new-blogs/2020/5/6/lessons-in-growth-amp-maturation-covid-curves-and-the-adolescent-growth-spurt)
+
+[David Johnson | Presentation to Swedish FA](https://www.youtube.com/watch?v=wDE8lyYfZ64&t=1291s)
+
+[Amanda Johnson et al | Skeletal maturation status is more strongly associated with academy selection than birth quarter](https://vimeo.com/476699795)[](https://theathletedp.com/research-reports-relative-age-and-maturation-selection-biases-in-academy-football/)
+
+[Megan Hill et al  Relative age and maturation selection biases in academy football](https://theathletedp.com/research-reports-relative-age-and-maturation-selection-biases-in-academy-football/)
+
+[Growth and maturity | FA Learning webinar](https://youtu.be/LlV9IxUjFb4?t=204)
+
+[](https://theathletedp.com/research-reports-relative-age-and-maturation-selection-biases-in-academy-football/)
+
 REFERENCES
 
 1. Chuman et al (2014) Maturation and Intermittent Endurance in Male Soccer Players during the Adolescent Growth Spurt: A Longitudinal Study. Football Science, Vol 11, 39-47.
@@ -71,4 +95,3 @@ REFERENCES
 7. Figueiredo, A. J., Coelho-E-Silva, M. J., Sarmento, H., Moya, J., & Malina, R. M. (2020). Adolescent characteristics of youth soccer players: do they vary with playing status in young adulthood?. Research in Sports Medicine, 28(1), 72-83.
 8. Harry J. Khamis and Alex F. Roche (1994). Predicting Adult Stature Without Using Skeletal Age: The Khamis-Roche Method. Pediatrics October 1994, 94 (4) 504-507.
 9. Zhong Cheng Luo, Kerstin Albertsson-Wikland & Johan Karlberg (1998) Target Height as Predicted by Parental Heights in a Population-Based Study. Pediatric Research volume 44, pages 563–571.
-10. ?
