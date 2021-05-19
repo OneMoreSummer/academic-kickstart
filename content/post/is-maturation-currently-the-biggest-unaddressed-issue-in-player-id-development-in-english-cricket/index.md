@@ -96,10 +96,8 @@ REFERENCES
 4. Jones (2019) PhD. ‘Game Changers’: Discriminating Features within the Microstructure of Practice and Developmental Histories of Super-Elite Cricketers - a Pattern Recognition Approach.
 
 [5. Innovative strategies to maximise youth skill development: Lessons from NZ Cricket, Auckland Cricket and AUT. Balance is Better. The Home of Youth Sport in New Zealand.](https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut)
-
-6. [](<<https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut>
-
-6.>)Malina, R. M., Coelho-e-Silva, M. J., Figueiredo, A. J., Philippaerts, R. M., Hirose, N., Reyes, M. E. P., ... & Buranarugsa, R. (2018). Tanner–Whitehouse skeletal ages in male youth soccer players: TW2 or TW3?. Sports Medicine, 48(4), 991-1008.
+ 
+6. Malina, R. M., Coelho-e-Silva, M. J., Figueiredo, A. J., Philippaerts, R. M., Hirose, N., Reyes, M. E. P., ... & Buranarugsa, R. (2018). Tanner–Whitehouse skeletal ages in male youth soccer players: TW2 or TW3?. Sports Medicine, 48(4), 991-1008.
 
 7. Figueiredo, A. J., Coelho-E-Silva, M. J., Sarmento, H., Moya, J., & Malina, R. M. (2020). Adolescent characteristics of youth soccer players: do they vary with playing status in young adulthood?. Research in Sports Medicine, 28(1), 72-83.
 
