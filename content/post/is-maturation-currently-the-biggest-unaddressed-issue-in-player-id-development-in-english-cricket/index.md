@@ -51,13 +51,13 @@ It would seem unbelievable to assume that a similar effect is not in play for ma
 
 This isn’t a difficult issue to address. In fact many county academies are probably doing most of what is required. Regular measurements of height and weight are being taken already. But these are often only used for red flagging circa-Peak Height Velocity (PHV), i.e. the growth spurt, in order to prevent injury through reducing time playing/training.
 
-With the addition of parental heights a calculation of percentage of Peak Adult Height (%PAH) can be made using the Khamis-Roche (KR) method (8). This percentage then represents where the player is on their journey through growth and maturation. 
+With the addition of parental heights a calculation of percentage of Peak Adult Height (%PAH) can be made using the Khamis-Roche (KR) method (8). This percentage then represents Maturity Status and where the player is on their journey through growth and maturation. 
 
-It is the only method to include heritage factors (parental height) in its calculation. We often see small players and expect them to keep growing but they could be 95+% maturity status because their parents are below average height. 60-70% of height is inherited (9).
+It is the only method to include heritage factors (parental height) in its calculation. As coaches we often see small players and expect them to keep growing but they could be 95+% maturity status already because their parents are below average height. 60-70% of height is inherited (9).
 
 **Future Policy?**
 
-Careful decisions and plans are being made about players without the most basic information. Knowing a player’s Maturity Status can help inform those decisions. Whether it is judging where they are in specific S&C metrics (sprint, jump, endurance), where their optimum challenge point is, whether they should play up or indeed down, or even if  they should be retained or released. It’s too easy and too important not to do this. 
+Careful decisions and plans are being made about players without the most basic information. Knowing a player’s Maturity Status can help inform those decisions. Whether it is judging where they are in specific S&C metrics (sprint, jump, endurance), where their optimum challenge point is, whether they should play up or indeed down, or even if they should be retained or released. It’s too easy and too important not to do this. 
 
 RESOURCES
 
