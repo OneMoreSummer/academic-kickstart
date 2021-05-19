@@ -95,9 +95,7 @@ REFERENCES
 
 4. Jones (2019) PhD. ‘Game Changers’: Discriminating Features within the Microstructure of Practice and Developmental Histories of Super-Elite Cricketers - a Pattern Recognition Approach.
 
-[5. Innovative strategies to maximise youth skill development: Lessons from NZ Cricket, Auckland Cricket and AUT. Balance is Better. The Home of Youth Sport in New Zealand.](<<https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut>
-
-6.>)
+[5. Innovative strategies to maximise youth skill development: Lessons from NZ Cricket, Auckland Cricket and AUT. Balance is Better. The Home of Youth Sport in New Zealand.](https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut)
 
 6. [](<<https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut>
 
