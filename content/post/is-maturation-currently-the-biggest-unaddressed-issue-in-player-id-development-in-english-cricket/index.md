@@ -39,6 +39,8 @@ If the findings are adjusted for this underestimate by adding +0.5 years on to t
 
 Also the pathway players studied were U12 and U14. Whereas it would be expected to find maturation effects in the later age group then perhaps it is unsurprising not to find significant maturation effects in 11 year olds. The average age of circa-Peak Height Velocity (PHV), the middle of the growth spurt, is 14 for caucasian males. As we saw earlier PHV can range from approx 11 until 15 (1). Perhaps a U16 group should also have been included. We also don't know the numbers of or effect of any players included in each biannual age group who were chronologically in the U11 or U13 age groups respectively.
 
+It could also be argued that in the analysis and interpretation of the results the study didn't treat [RAE and maturation as the two separate constructs](https://onemoresummer.co.uk/post/relative-age-and-maturation-effects-are-separate-constructs/) they are.
+
 **RAE but no Maturation Effects?**
 
 It has been identified that there is a significant [Relative Age Effect (RAE) throughout the English cricket development pathway](https://onemoresummer.co.uk/post/relative-age-effect-in-mens-english-cricket-pathway-u15-u19/). The preference for and over selection of earlier born players based on performance derived from longer time to grow, physical and psychosocial advantages, more time on task, more coaching and opportunities, is provable using RAE data. 
@@ -88,19 +90,13 @@ RESOURCES
 REFERENCES
 
 1. Chuman et al (2014) Maturation and Intermittent Endurance in Male Soccer Players during the Adolescent Growth Spurt: A Longitudinal Study. Football Science, Vol 11, 39-47.
-
 2. Amanda Johnson et al (2017) Skeletal maturation status is more strongly associated with academy selection than birth quarter. Science and Medicine in Football. Volume 1, 2017 - Issue 2.
-
 3. Barney (2015) Chapter 5 Relative Age Effects throughout a Talent Development Pathway: A Chronological and Biological Analysis of English Cricket. PhD Preliminary stages in the validation of a talent identification model in cricket.
-
 4. Jones (2019) PhD. ‘Game Changers’: Discriminating Features within the Microstructure of Practice and Developmental Histories of Super-Elite Cricketers - a Pattern Recognition Approach.
 
 [5. Innovative strategies to maximise youth skill development: Lessons from NZ Cricket, Auckland Cricket and AUT. Balance is Better. The Home of Youth Sport in New Zealand.](https://balanceisbetter.org.nz/innovative-strategies-to-maximise-youth-skill-development-lessons-from-nz-cricket-auckland-cricket-and-aut)
- 
+
 6. Malina, R. M., Coelho-e-Silva, M. J., Figueiredo, A. J., Philippaerts, R. M., Hirose, N., Reyes, M. E. P., ... & Buranarugsa, R. (2018). Tanner–Whitehouse skeletal ages in male youth soccer players: TW2 or TW3?. Sports Medicine, 48(4), 991-1008.
-
 7. Figueiredo, A. J., Coelho-E-Silva, M. J., Sarmento, H., Moya, J., & Malina, R. M. (2020). Adolescent characteristics of youth soccer players: do they vary with playing status in young adulthood?. Research in Sports Medicine, 28(1), 72-83.
-
 8. Harry J. Khamis and Alex F. Roche (1994). Predicting Adult Stature Without Using Skeletal Age: The Khamis-Roche Method. Pediatrics October 1994, 94 (4) 504-507.
-
 9. Zhong Cheng Luo, Kerstin Albertsson-Wikland & Johan Karlberg (1998) Target Height as Predicted by Parental Heights in a Population-Based Study. Pediatric Research volume 44, pages 563–571.
