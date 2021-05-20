@@ -57,6 +57,8 @@ With the addition of parental heights a calculation of percentage of Peak Adult 
 
 It is the only method to include heritage factors (parental height) in its calculation. As coaches we often see small players and expect them to keep growing but they could be 95+% maturity status already because their parents are below average height. 60-70% of height is inherited (9).
 
+Some counties S&C/Medical teams may be using another popular method for estimating Maturity Status, namely the Mirwald (Maturity Offset) method. This too has been shown to be less accurate than the Khamis-Roche method (10).
+
 **Future Policy?**
 
 Careful decisions and plans are being made about players without the most basic information. Knowing a player’s Maturity Status can help inform those decisions. Whether it is judging where they are in specific S&C metrics (sprint, jump, endurance), where their optimum challenge point is, whether they should play up or indeed down, or even if they should be retained or released. It’s too easy and too important not to do this. 
@@ -100,3 +102,5 @@ REFERENCES
 7. Figueiredo, A. J., Coelho-E-Silva, M. J., Sarmento, H., Moya, J., & Malina, R. M. (2020). Adolescent characteristics of youth soccer players: do they vary with playing status in young adulthood?. Research in Sports Medicine, 28(1), 72-83.
 8. Harry J. Khamis and Alex F. Roche (1994). Predicting Adult Stature Without Using Skeletal Age: The Khamis-Roche Method. Pediatrics October 1994, 94 (4) 504-507.
 9. Zhong Cheng Luo, Kerstin Albertsson-Wikland & Johan Karlberg (1998) Target Height as Predicted by Parental Heights in a Population-Based Study. Pediatric Research volume 44, pages 563–571.
+
+   10. James Parr, Keith Winwood, Emma Hodson-Tole, Frederik J. A. Deconinck, Les Parry, James P. Hill (2020) Predicting the timing of the peak of the pubertal growth spurt in elite male youth soccer players: evaluation of methods. Annals of Human Biology. Pages 400-408.
