@@ -1,5 +1,6 @@
 ---
-title: Age-ordered shirt numbering fixes Relative Age Effect during trials
+title: Age-ordered shirt numbering fixes Relative Age Effect & Maturation Bias
+  during trials
 date: 2021-01-29T12:32:17.144Z
 draft: false
 featured: false
@@ -22,6 +23,10 @@ I’ve not seen this in any trials, club, district, county, Bunbury (Regional U1
 
 'Results revealed a significant selection bias for the scouts in the no-age information group, and that bias remained when scouts knew the players' dates-of-birth. Strikingly though, the selection bias was eliminated when scouts watched the games knowing the shirt numbers corresponded to the relative ages of the players.’
 
-This couldbe more/most appropriate to the early stages of the pathway. The study was with U11 male footballers.
+This could be more/most appropriate to the early stages of the pathway. The study was with U11 male footballers.
 
 [Study](https://pubmed.ncbi.nlm.nih.gov/27238077/#:~:text=When%20placed%20into%20age%20groups,show%20how%20to%20reduce%20it.) (2017)
+
+UPDATE 25.4.2021:
+
+Some as yet unpublished research repeated the age ordered shirts technique but with maturity rather than relative age and it worked equally well in countering coach evaluation biases. Dr. Sean Cumming, Department for Health, University of Bath.
