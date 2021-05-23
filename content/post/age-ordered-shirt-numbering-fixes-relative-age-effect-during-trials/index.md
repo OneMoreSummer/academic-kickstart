@@ -30,3 +30,5 @@ This could be more/most appropriate to the early stages of the pathway. The stud
 UPDATE 25.4.2021:
 
 Some as yet unpublished research repeated the age ordered shirts technique but with maturity rather than relative age and it worked equally well in countering coach evaluation biases. Dr. Sean Cumming, Department for Health, University of Bath.
+
+[Relative Age Effect and Maturation biases are two separate constructs.](https://onemoresummer.co.uk/post/relative-age-and-maturation-effects-are-separate-constructs/)
