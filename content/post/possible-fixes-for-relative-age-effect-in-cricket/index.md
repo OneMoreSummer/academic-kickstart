@@ -20,7 +20,7 @@ Despite often being offered up as the first step to address RAE it isn’t inclu
 
 **Age-Ordered Bibs For Trials**
 
-A study by Mann and van Ginneken (2017) for PSV Eindhoven football club found that using age-ordered bibs during trials for U11s removed coaches’ RAE bias. Having access to players’ Birth Quarter data had no effect. The information needed to be ‘in play’ to give each action by a player ‘context’. Some as yet unpublished research repeated the age ordered shirts technique but with maturity rather than relative age and it worked equally well in countering coach evaluation biases (Prof. Sean Cumming, Department for Health, University of Bath).  
+A study by Mann and van Ginneken (2017) for PSV Eindhoven football club found that using [age-ordered bibs during trials](https://onemoresummer.co.uk/post/age-ordered-shirt-numbering-fixes-relative-age-effect-during-trials/) for U11s removed coaches’ RAE bias. Just having access to players’ Birth Quarter data in a spreadsheet had no effect. The information needed to be ‘in play’ to give each action by a player ‘context’. Some as yet unpublished research repeated the age ordered shirts technique but with maturity rather than relative age and it worked equally well in countering coach evaluation biases (Prof. Sean Cumming, Department for Health, University of Bath).  
 
 **Birthday Banding**
 
