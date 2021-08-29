@@ -47,7 +47,7 @@ RAE exists at all levels from grassroots through the early professional years. C
 **\
 Corrective Adjustments**
 
-Arguably, athletics and swimming is more dependent on the raw material of a good athlete than perhaps other sports that have a higher reliance on skill/experience. In these sports data has been analysed to see just how much of an advantage being an early born makes. Some level of predictability exists and thus can be used to ‘correct’ times and distances for later born athletes. This use of data can ‘level the playing field’ for relatively younger athletes for accurate comparisons. 
+Arguably, athletics and swimming are more dependent on the raw material of a good athlete than perhaps other sports that have a higher reliance on skill/experience. In these sports, data has been analysed to see just how much of an advantage being an early born makes. Some level of predictability exists and thus can be used to ‘correct’ times and distances for later born athletes. Utilising data in this way can ‘level the playing field’ for relatively younger athletes for accurate comparisons. 
 
 In cricket the play-cricket.com database has the potential to create understanding of how RAE can affect performance but it requires the mandated use of birthday information for every player. For the addition of a not particularly onerous task there are huge benefits. 
 
