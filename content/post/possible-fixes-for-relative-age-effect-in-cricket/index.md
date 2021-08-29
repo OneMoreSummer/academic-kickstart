@@ -10,7 +10,7 @@ image:
 ---
 [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) (RAE) exists in [male](https://onemoresummer.co.uk/post/relative-age-effect-in-mens-english-cricket-pathway-u15-u19/) and female cricket as well as many other sports and non-sporting areas of life.
 
-Here is a list of possible ways to reduce or remove the systemic bias and discriminatory effects of RAE.
+Here is a list of some of the possible ways to reduce or remove the systemic bias and discriminatory effects of RAE.
 
 I hope to go into further detail on each option in subsequent posts.
 
