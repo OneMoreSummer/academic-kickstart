@@ -38,7 +38,7 @@ Also known as a ‘a flexible chronological approach’ playing up/down happens 
 
 **Delaying Deselection**
 
-Obviously this is not always possible with limited resources but the general ethos of ‘as many as possible for as long as possible’ appears to be a more effective approach. Predicting potential has been shown to be highly inaccurate especially the earlier you start. Specialising in cricket should probably only occur around 16 years of age. RAE is more prevalent in the early years and 
+Obviously this is not always possible with limited resources but the general ethos of ‘as many as possible for as long as possible’ appears to be a more effective approach. Predicting potential has been shown to be highly inaccurate especially the earlier you start. Specialising in cricket should probably only occur around 16 years of age.
 
 **Recording & Monitoring**
 
