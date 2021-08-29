@@ -14,6 +14,8 @@ Here is a list of possible ways to reduce or remove the systemic bias and discri
 
 I hope to go into further detail on each option in subsequent posts.
 
+![](happy-birthday.jpg)
+
 **Coach Education**
 
 Despite often being offered up as the first step to address RAE it isn’t included in any coach education programme until the highest level (Specialist Coach, Level 4). RAE starts with grassroots clubs and those coaches will usually be Level 1 & 2. Perhaps an online module could be made available to all new and existing coaches. A recent ‘interview’ style video on icoachcricket ‘[Understanding Relative Age Effect](https://icoachcricket.ecb.co.uk/material/ca-inspire/2021/1549)’ was a start (registration required).
