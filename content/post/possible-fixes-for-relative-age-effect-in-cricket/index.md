@@ -42,7 +42,7 @@ Obviously this is not always possible with limited resources but the general eth
 
 **Recording & Monitoring**
 
-RAE exists at all levels from grassroots through the early professional years. Cricket has a potentially powerful tool to help our understanding of trends in the data, namely play-cricket.com. Often much maligned, this platform, with some tweaking, could provide information on RAE levels for all clubs, district, county and regional sides from U9 onwards. Any RAE solutions will need to be measured and monitored. This is essential.
+RAE exists at all levels from grassroots through to the early professional years. Cricket has a potentially powerful tool to help our understanding of trends in the data, namely play-cricket.com. Often much maligned, this platform, with some tweaking, could provide information on RAE levels for all clubs, district, county and regional sides from U9 onwards. Any RAE solutions will need to be measured and monitored. This is essential.
 
 **\
 Corrective Adjustments**
