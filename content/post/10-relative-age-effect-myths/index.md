@@ -16,7 +16,7 @@ Q2 and Q3 are important too! In cricket there tends to be a difference between Q
 
 There is also a linear effect by month, i.e. in the Bunbury (Regional U15s) competition over the last 19 years.
 
-![](ru15nosbymonth.jpg)
+![](ru15nosbymonth-1-.jpg)
 
   
 
