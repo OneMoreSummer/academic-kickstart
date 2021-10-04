@@ -18,11 +18,9 @@ There is also a linear effect by month, i.e. in the Bunbury (Regional U15s) comp
 
 ![](ru15nosbymonth-1-.jpg)
 
-  
-
 ## 2. At 18+ RAE is no longer an issue
 
-As you can see from the graph below, for players on a national pathway that continue into professional county, cricket RAE declines very slowly! It is not until players are 24/25 that RAE disappears. Interestingly for the age band 25-30, when players are typically ‘at their best’ there is a genuine RAE Reversal.
+As you can see from the graph below, for players on a national pathway that continue into professional county cricket, RAE declines very slowly! It is not until players are 24/25 that RAE disappears. Interestingly for the age band 25-30, when players are typically ‘at their best’ there is a genuine RAE Reversal.
 
 ![](rae-timeline.jpg)
 
