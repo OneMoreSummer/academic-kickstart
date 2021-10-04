@@ -28,7 +28,7 @@ As you can see from the graph below, for players on a national pathway that cont
 
 ## 3. RAE is the biggest bias in Player Identification
 
-RAE can cause an inter-player of up to 1 year whereas Maturation variation can be up to 5 years. In addition it is when a player goes through the growth spurt that differences in strength, power, endurance and speed can really come to the fore. The impact from Maturation over RAE has been estimated as being 10x more influential on selections. 
+RAE can cause an inter-player difference of up to 1 year whereas Maturation variation can be up to 5 years. In addition it is when a player goes through the growth spurt that differences in strength, power, endurance and speed can really come to the fore. The impact from Maturation over RAE has been estimated as being 10x more influential on selections. 
 
 [Is Maturation currently the biggest unaddressed issue in Player ID & Development in English Cricket?](https://onemoresummer.co.uk/post/is-maturation-currently-the-biggest-unaddressed-issue-in-player-id-development-in-english-cricket/)
 
