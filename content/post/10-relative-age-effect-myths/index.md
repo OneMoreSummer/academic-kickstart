@@ -66,6 +66,6 @@ Education can help especially if it is targeted at ALL coaches. Most club coache
 
 ## 10. ‘Just a function of the calendar’ - there are no solutions
 
-One solution would be the use of Age Ordered Bibs for all trials. This would be cheap and easy to implement. Often numbered bibs are used already. A number of potential other solutions exist too.
+One solution would be the use of [Age Ordered Bibs for all trials](https://onemoresummer.co.uk/post/age-ordered-shirt-numbering-fixes-relative-age-effect-during-trials/). This would be cheap and easy to implement. Often numbered bibs are used already. A number of potential other solutions exist too.
 
 This IS ‘merely’ a function of the calendar. It IS an ‘administrative’ problem. It IS possible to adopt different or at least amended ‘administrative’ solutions. For example, New Zealand are implementing ‘weight categorizations’ and French Rugby are researching this too to avoid the obvious failings of simple chronological age grouping.
