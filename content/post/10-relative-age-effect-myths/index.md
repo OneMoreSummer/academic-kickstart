@@ -36,7 +36,7 @@ RAE can cause an inter-player difference of up to 1 year whereas Maturation vari
 
 a. As we can see from the graph above RAE doesn’t ‘even out’ until age 24/25 for county professionals.
 
-b. Maturation effects and RAEs are two completely different constructs! A Q4 can be an early maturer. A Q1 can be a late maturer. Equally a Q1 can be an early maturer (most advantage for continued selection in the current system) and a Q4 can be a late maturer (most disadvantage for continued selection in the current system).
+b. Maturation effects and RAEs are two completely different constructs! A Q4 can be an early maturer. A Q1 can be a late maturer. Equally a Q1 can be an early maturer (most advantage for continued selection in the current system) and a Q4 can be a late maturer (most disadvantage for continued selection in the current system). So RAE and Maturation don't even each other out. They can work both in the same direction as well as in opposite directions, and at different strengths of effect.
 
 ## 5. RAE due to strength/power advantages
 
@@ -48,7 +48,7 @@ Data from 19 seasons of Regional U15s (Bunbury), 7 years of Regional U17s (Super
 
 ## 7. Our region is better than other regions at RAE
 
-From the table below we can see that for Regional U15s (Bunbury) there is some regional deviation but ALL have significant RAE.
+From the table below we can see that for Regional U15s (Bunbury) there is some regional deviation but ALL have significant RAE (Data from 2000-2018).
 
 ![](ru15byregion.jpg)
 
