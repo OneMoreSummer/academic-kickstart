@@ -12,7 +12,13 @@ Background: [What is Relative Age Effect?](https://onemoresummer.co.uk/post/what
 
 ## 1. This is just about Q1s and Q4s
 
-In cricket there tends to be a difference between Q1/Q2 and Q3/Q4 also known as H1 and H2 for Half-Year. For example the Birth Quarter percentages for the last 4 England U19 World Cups are 34.5, 36.2, 15.5 & 13.8. Or at a younger age group the values are 37.8, 25.9, 21.2 & 15.1 for the Regional U17s (Super 4s). 
+Q2 and Q3 are important too! In cricket there tends to be a difference between Q1/Q2 and Q3/Q4 (also known as H1 and H2 for Half-Year). For example the Birth Quarter percentages for the last 4 England U19 World Cups are 34.5, 36.2, 15.5 & 13.8. Or at a younger age group the values are 37.8, 25.9, 21.2 & 15.1 for the Regional U17s (Super 4s).
+
+There is also a linear effect by month, i.e. in the Bunbury (Regional U15s) competition over the last 19 years.
+
+![](ru15nosbymonth.jpg)
+
+  
 
 ## 2. At 18+ RAE is no longer an issue
 
@@ -57,7 +63,5 @@ Education can help especially if it is targeted at ALL coaches. Most club coache
 ## 10. ‘Just a function of the calendar’ - there are no solutions
 
 One solution would be the use of Age Ordered Bibs for all trials. This would be cheap and easy to implement. Often numbered bibs are used already. A number of potential other solutions exist too.
-
-
 
 This IS ‘merely’ a function of the calendar. It IS an ‘administrative’ problem. It IS possible to adopt different or at least amended ‘administrative’ solutions. For example, New Zealand are implementing ‘weight categorizations’ and French Rugby are researching this too to avoid the obvious failings of simple chronological age grouping.
