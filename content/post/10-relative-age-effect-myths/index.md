@@ -28,9 +28,9 @@ As you can see from the graph, for players on a national pathway that continue i
 
 ## 3. RAE is the biggest bias in Player Identification
 
-RAE can cause an inter-player of up to 1 year whereas Maturational variation can be up to 5 years. In addition it is when a player goes through the growth spurt that differences in strength, power, endurance and speed can really come to the fore. The impact from Maturation over RAE has been estimated as being 10x more influential on selections. 
+RAE can cause an inter-player of up to 1 year whereas Maturation variation can be up to 5 years. In addition it is when a player goes through the growth spurt that differences in strength, power, endurance and speed can really come to the fore. The impact from Maturation over RAE has been estimated as being 10x more influential on selections. 
 
-\[Is Maturation currently the biggest unaddressed issue in Player ID & Development in English Cricket?]
+[Is Maturation currently the biggest unaddressed issue in Player ID & Development in English Cricket?](https://onemoresummer.co.uk/post/is-maturation-currently-the-biggest-unaddressed-issue-in-player-id-development-in-english-cricket/)
 
 ## 4. Maturation evens RAE out
 
@@ -49,6 +49,8 @@ Data from 19 seasons of Regional U15s (Bunbury), 7 years of Regional U17s (Super
 ## 7. Our region is better than other regions at RAE
 
 From the table below we can see that for Regional U15s (Bunbury) there is some regional deviation but ALL have significant RAE.
+
+![](ru15byregion.jpg)
 
 ## 8. Addressing RAE would cause the loss of the Underdog Effect
 
