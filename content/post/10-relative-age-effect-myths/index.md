@@ -60,7 +60,7 @@ Really? Even if there were a 25%x4 representation of all 4 Birth Quarters there 
 
 ## 9. Education alone will fix this
 
-Even when coaches were aware of RAE and had the BQ data in front of them while conducting a trial, there was still RAE. Only when the players wore numbered bib in age order did selections remove RAE, in U11 football in Holland (Mann & Ginneken, 2017).
+Even when coaches were aware of RAE and had the BQ data in front of them while conducting a trial, there was still RAE. Only when the players wore numbered bibs in age order did selections remove RAE. Coaches made their judgements 'in context' evaluating players performances in U11 football in Holland (Mann & Ginneken, 2017).
 
 Education can help especially if it is targeted at ALL coaches. Most club coaches are L1 or 2. ECB coach education should include RAE education on these courses or at least make a separate module/online video resource.
 
