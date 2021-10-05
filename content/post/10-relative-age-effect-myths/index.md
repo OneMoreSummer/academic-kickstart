@@ -54,7 +54,7 @@ From the table below we can see that for Regional U15s (Bunbury) there is some r
 
 Background: [What is the Underdog Effect?](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/)
 
-Really? Even if there were a 25%x4 representation of all 4 Birth Quarters there would still be a ‘Q4 effect’. Every Q4 would be up against 3 older players. If it is necessary to significantly increase this ratio then you kinda wonder what the coaches are doing in this environment. Shouldn't they be creating an optimal challenge point for all players (especially Q1s and 2s)? Also maybe a reason why Q4 conversion rates are higher than other Birth Quarters is due to other factors than just the constant underdog challenge? Perhaps there is a [Selection Concentration Effect](https://onemoresummer.co.uk/post/is-the-selection-concentration-effect-a-large-part-of-the-underdog-effect/)? 
+Really? Even if there were a 25%x4 representation of all 4 Birth Quarters there would still be a ‘Q4 effect’. Every Q4 would be up against 3 older players. Perhaps Player Development Environments should be better at creating an optimal challenge point for all individuals,  especially the under challenged Q1s and Q2s, rather than just relying on inherent player ratios? Also maybe a reason why Q4 conversion rates are higher than other Birth Quarters is due to other factors than just the constant underdog challenge? Perhaps there is a [Selection Concentration Effect](https://onemoresummer.co.uk/post/is-the-selection-concentration-effect-a-large-part-of-the-underdog-effect/)? 
 
 ## 9. Education alone will fix this
 
