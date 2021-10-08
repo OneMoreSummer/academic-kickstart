@@ -14,7 +14,7 @@ Background: [What is Relative Age Effect?](https://onemoresummer.co.uk/post/what
 
 Q2 and Q3 are important too! In cricket there tends to be a difference between Q1/Q2 and Q3/Q4 (also known as H1 and H2 for Half-Year). For example the Birth Quarter percentages for the last 4 England U19 World Cups are 34.5, 36.2, 15.5 & 13.8 (H1 70.7, H2 29.3). Or at a younger age group the values are 37.8, 25.9, 21.2 & 15.1 (H1 63.7, H2 36.3) for the Regional U17s (Super 4s).
 
-There is also a linear effect by month, i.e. in the Bunbury (Regional U15s) competition over the last 19 years.
+There is also a linear effect by month, e.g. in the Bunbury (Regional U15s) competition over the last 19 years.
 
 ![](ru15nosbymonth-1-.jpg)
 
