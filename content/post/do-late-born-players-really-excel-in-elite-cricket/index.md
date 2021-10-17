@@ -64,9 +64,9 @@ As you can see from the chart above, over the last 20 years, England has selecte
 **\
 Relevant Research**
 
-Jones, Lawrence,Hardy (2018) (1), when analysing super-elite Test players from across the world, found RAE favouring Q1 Batsmen and Spinners. They found no RAE for Fast Bowlers however. Included in the paper was a study of elite Rugby players. This found a  Q1 bias for Rugby backs and a Q4 bias for Forwards. What does this tell us and how does it ‘fit’ with the analysis above?
+Jones, Lawrence,Hardy (2018) (1), when analysing super-elite Test players from across the world, found a Q1 bias for Batsmen and Spinners. They found no RAE for Fast Bowlers however. Included in the paper was a study of elite Rugby players which found a Q1 bias for Backs and a Q4 bias for Forwards. What does this tell us and how does it ‘fit’ with the analysis above?
 
-It matches in terms of Q4 fast bowlers. Within the top Test wicket takers there was a Q4 bias that was also larger amongst fast bowlers (seamers) rather than spinners. It also matches Rugby Forwards with Fast Bowlers. Both disciplines, as argued by Jones et al, are more physical than other disciplines within the game. Here an H2, Underdog Effect, is perhaps in play but only evidenced for Q4s.
+Within the top Test wicket takers a Q4 bias was found that was also larger amongst fast bowlers (seamers) rather than spinners. This matches with the Q4 bias found in Rugby Forwards. Both disciplines, as argued by Jones et al, are more physical than other disciplines within the game. Here an H2, Underdog Effect, is perhaps in play but only evidenced for Q4s.
 
 Jones et al found Q1 bias in the world’s best batters. This is where the findings above differ radically. Q1 have consistently been relatively poorer performers from a system point of view both in terms of Top 50 run scorers or wicket takers and players reaching 70 caps. In addition they have played fewer matches over the last 20 years than the other BQs despite being picked 22% of the time. 
 
