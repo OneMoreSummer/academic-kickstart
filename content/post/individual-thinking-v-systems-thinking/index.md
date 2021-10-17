@@ -22,4 +22,6 @@ The four Q1 players mentioned above, however, are the **only** players that meet
 
 Batters from BQs 2, 3 & 4 are far more likely to reach this elite level than Q1s who are rare.
 
-Q1 batters only contribute **13.5%** of all runs scored at this level (Q1 25194, Q2 67355, Q3 45411, Q4 48731). So intuitively it would make sense to select **fewer** Q1s as the other BQ batters are more (twice as) likely to reach this level. There are literally twice as many BQ 2, 3 & 4s scoring almost as many runs in every innings, right? **This is thinking from a system perspective.**
+Q1 batters only contribute **13.5%** of all runs scored at this level (Q1 25194, Q2 67355, Q3 45411, Q4 48731). So intuitively it would make sense to select **fewer** Q1s as the other BQ batters are more (twice as) likely to reach this level. There are literally twice as many BQ 2, 3 & 4s scoring almost as many runs in every innings, right? **This is thinking from a system perspective**.
+
+Selecting Q1 batters is like betting on red when half the red numbers are missing but if you do win you get a 9% bonus!
