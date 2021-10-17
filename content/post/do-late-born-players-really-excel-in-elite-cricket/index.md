@@ -72,11 +72,9 @@ Jones et al found Q1 bias in the world’s best batters. This is where the findi
 
 **Conclusions**
 
-This analysis suggests that there is mixed evidence that later borns (H2) reach higher levels in Test cricket. It was found that Q4s do better at super-elite levels than all other BQs with the effect much stronger in Bowling than Batting. 
+This analysis suggests that there is mixed evidence that later borns (H2) reach higher levels in Test cricket. It was found that Q4s do better at super-elite levels than all other BQs with the effect much stronger in Bowling than Batting. The Q4 effect is greater in fast bowlers. There appears to be some evidence of an H2 effect for spinners.
 
 In addition, performance over the last 20 years however, from a more mixed group of players, from super-elites through to one test wonders, shows no evidence of later borns performing better.
-
-In general there seems to be a Q1/Q4 (‘classic’? RAE) effect rather than an early/late (H1/H2) effect, especially for bowlers.
 
 Q1s have been shown to do particularly poorly. When selecting Q1s for Test cricket perhaps their other metrics need to be significantly higher? Should a BQ weighting against Q1s players be included in a holistic decision matrix? Should it also have a favourable weighting for Q4 bowlers? 
 
