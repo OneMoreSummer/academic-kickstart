@@ -21,7 +21,7 @@ One of the reasons given for not addressing Relative Age Effect (RAE) in develop
 
 **Test Players with 70+ Caps**
 
-\[insert chart]
+![](test-caps-70-n-36-.png)
 
 (src: cricketarchive.com)
 
@@ -38,7 +38,7 @@ For batters Q4s are over represented but by a smaller margin. Q2 & Q3 are simila
 **\
 Top 50 Test Batters by Career Runs**
 
-\[insert chart]
+![](top-50-test-run-scorers.png)
 
 (src: espncricinfo.com) 
 
@@ -47,7 +47,7 @@ From the chart above we can see that Q1 batters perform relatively poorer to all
 **\
 Top 50 Test Bowlers by Career Wickets**
 
-\[insert chart]
+![](top-50-test-wicket-takers.png)
 
 (src: espncricinfo.com) 
 
@@ -57,7 +57,7 @@ Interestingly, within the bowler cohort, there is a difference between spinners 
 
 **The Last 20 Years**
 
-\[chart]
+![](test-players-2000-2020.png)
 
 As you can see from the chart above, over the last 20 years, England has selected slightly more Q2 & Q3 (% Q1 22.11, Q2 28.42, Q3 28.52, Q4 21.05). In terms of the matches played by these players Q2 is the best with Q3 & Q4 average and Q1 well below par.
 
