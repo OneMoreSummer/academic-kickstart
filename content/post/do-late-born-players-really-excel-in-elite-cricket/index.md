@@ -9,27 +9,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
-Background: Relative Age Effect, Maturation Bias, Underdog Effect.
-
-
+Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Maturation Bias](https://onemoresummer.co.uk/post/is-maturation-currently-the-biggest-unaddressed-issue-in-player-id-development-in-english-cricket/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/).
 
 There seems to be an assumption that late born and/or late maturers reach higher levels of elite performance in cricket. For example, Tim Wigmore, in 2020 published his book ‘The Best: How Elite Athlete Are Made’, which states 64% of male Test players with over 50 caps are born between March and August (Q3 30%, Q4 34%). But is this just an isolated statistic? In this article we look at data by Matches Played (Caps), Runs & Wickets and at research in this area to find out more.
 
-
-
-Why is this important?
-
-
+**Why is this important?**
 
 Because we don’t want to lose the next Jimmy Anderson or Ben Stokes. Anderson, with the highest number of Test wickets for England and Stokes, our best ever batting all rounder, are certainly elite. They are also late born Q4s.
 
-
-
 One of the reasons given for not addressing Relative Age Effect (RAE) in development pathways is that we may lose the Q4 super-elites that they create. It is hypothesized that the smaller numbers of late born (& late maturers) develop better because they are constantly challenged by being outnumbered by their older or more mature peers. While it is highly likely that this level of higher inherent challenge is beneficial, what long term effect does it have in terms of elite performance?
-
-
 
 **Test Players with 70+ Caps**
 
@@ -81,8 +69,6 @@ Jones, Lawrence,Hardy (2018) (1), when analysing super-elite Test players from a
 It matches in terms of Q4 fast bowlers. Within the top Test wicket takers there was a Q4 bias that was also larger amongst fast bowlers (seamers) rather than spinners. It also matches Rugby Forwards with Fast Bowlers. Both disciplines, as argued by Jones et al, are more physical than other disciplines within the game. Here an H2, Underdog Effect, is perhaps in play but only evidenced for Q4s.
 
 Jones et al found Q1 bias in the world’s best batters. This is where the findings above differ radically. Q1 have consistently been relatively poorer performers from a system point of view both in terms of Top 50 run scorers or wicket takers and players reaching 70 caps. In addition they have played fewer matches over the last 20 years than the other BQs despite being picked 22% of the time. 
-
-
 
 **Conclusions**
 
