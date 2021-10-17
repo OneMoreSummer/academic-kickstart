@@ -76,7 +76,7 @@ This analysis suggests that there is mixed evidence that later borns (H2) reach 
 
 In addition, performance over the last 20 years however, from a more mixed group of players, from super-elites through to one test wonders, shows no evidence of later borns performing better.
 
-Q1s have been shown to do particularly poorly. When selecting Q1s for Test cricket perhaps their other metrics need to be significantly higher? Should a BQ weighting against Q1s players be included in a holistic decision matrix? Should it also have a favourable weighting for Q4 bowlers? 
+Q1s have been shown to do particularly poorly. When selecting Q1s for Test cricket perhaps their other metrics need to be significantly higher? Should a BQ weighting against Q1s players be included in a holistic decision matrix? Should it also have a favourable weighting for Q4 fast bowlers and H2 spinners?
 
 **References**
 
