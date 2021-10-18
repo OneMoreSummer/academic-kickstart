@@ -61,6 +61,8 @@ Interestingly, within the bowler cohort, there is a difference between spinners 
 
 As you can see from the chart above, over the last 20 years, England has selected slightly more Q2 & Q3 (% Q1 22.11, Q2 28.42, Q3 28.52, Q4 21.05). In terms of the matches played by these players Q2 is the best with Q3 & Q4 average and Q1 well below par.
 
+So over the last 20 years Q3 & Q4 have not been selected more often than Q2 and also make up fewer matches played than Q2.
+
 **\
 Relevant Research**
 
