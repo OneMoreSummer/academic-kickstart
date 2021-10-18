@@ -11,7 +11,7 @@ image:
 ---
 Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Maturation Bias](https://onemoresummer.co.uk/post/is-maturation-currently-the-biggest-unaddressed-issue-in-player-id-development-in-english-cricket/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/).
 
-There seems to be an assumption that late born and/or late maturers reach higher levels of elite performance in cricket. For example, Tim Wigmore, in 2020 published his book ‘The Best: How Elite Athlete Are Made’, which states 64% of male Test players with over 50 caps are born between March and August (Q3 30%, Q4 34%). But is this just an isolated statistic? In this article we look at data by Matches Played (Caps), Runs & Wickets and at research in this area to find out more.
+There seems to be an assumption that late born and/or late maturers reach higher levels of elite performance in cricket. For example, Tim Wigmore, in 2020 published his book ‘The Best: How Elite Athlete Are Made’, which states 64% of male Test players with over 50 caps are born between March and August (Q3 30%, Q4 34%). But is this just an isolated statistic? In this article we look at further data and at research in this area to find out more.
 
 **Why is this important?**
 
