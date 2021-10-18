@@ -25,15 +25,15 @@ One of the reasons given for not addressing the Relative Age Effect (RAE) in dev
 
 (src: cricketarchive.com)
 
-The chart above shows that there is indeed an effect of Birth Quarter (BQ) on super-elite Test cricketers. But perhaps it is not a simple H1/H2* split. Q1 are under represented, Q4 are over represented and Q2 & Q3 are similar. (Nb. H1 represents those born in the first half of the year (Q1 & Q2) and H2 those born in the second half of the year (Q3 & Q4).)
+The chart above shows that there is indeed an effect of Birth Quarter (BQ) on super-elite Test cricketers. But perhaps it is not a simple H1/H2 split. H1 represents those born in the first half of the year Q1 & Q2 and H2 those born in the second half of the year Q3 & Q4.
 
-Nb. Within the 36 players there were 3 all rounders who were included as both batters and bowlers.
+We find Q4 are over represented, Q2 & Q3 are similar and Q1 are under represented.
 
-Player role also has a significant effect. Q4 were overrepresented with 62.5% of the 8* bowlers. Q1, Q2 & Q3 all had a single player.
+Player role (batters v bowlers) also has a significant effect. Q4 were highly over represented with 62.5% of the 8* bowlers. Q1, Q2 & Q3 all had a single player.
 
-\* For out and out bowlers 4 of the 5 were Q4 and 1 was a Q3. The other bowlers were all rounders (1 Q1, 1 Q2 and 1 Q4). 
+\* For out and out bowlers 4 of the 5 were Q4 and 1 was a Q3. The other bowlers were all rounders (1 Q1, 1 Q2 and 1 Q4). Please note that within the 36 players there were 3 all rounders who were included as both batters and bowlers.
 
-For batters Q4s are over represented but by a smaller margin. Q2 & Q3 are similar and Q1 under-represented.
+For batters Q4s are over represented but by a smaller margin. Q2 & Q3 are similar and Q1 under-represented (% Q1 16.1, Q2 25.8, Q3 25.8, Q4 32.3).
 
 **\
 Top 50 Test Batters by Career Runs**
