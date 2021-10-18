@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Maturation Bias](https://onemoresummer.co.uk/post/is-maturation-currently-the-biggest-unaddressed-issue-in-player-id-development-in-english-cricket/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/).
+Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Maturation Bias](https://onemoresummer.co.uk/post/is-maturation-currently-the-biggest-unaddressed-issue-in-player-id-development-in-english-cricket/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/), [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/).
 
 It seems to be widely accepted that late born and/or late maturers reach higher levels of elite performance in cricket. For example, Tim Wigmore, in 2020 published his book ‘The Best: How Elite Athlete Are Made’, which states 64% of male Test players with over 50 caps are born between March and August (Q3 30%, Q4 34%). But is this just an isolated statistic? In this article we look at further data and at research in this area to find out more.
 
@@ -17,7 +17,7 @@ It seems to be widely accepted that late born and/or late maturers reach higher 
 
 Because we don’t want to lose the next Jimmy Anderson or Ben Stokes. Anderson, with the highest number of Test wickets for England and Stokes, our best ever batting all rounder, are certainly elite. They are also late born Q4s.
 
-One of the reasons given for not addressing the Relative Age Effect (RAE) in development pathways is that we may lose the Q4 super-elites that they create. It is hypothesized that the smaller numbers of late born (& late maturers) develop better because they are constantly challenged by being outnumbered by their older or more mature peers. While it is highly likely that this level of higher inherent challenge is beneficial, what long term effect does it have in terms of elite performance?
+One of the reasons given for not addressing the Relative Age Effect (RAE) in development pathways is that we may lose the Q4 super-elites that they create. The [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/) hypothesises that the smaller numbers of late born (& late maturers) develop better because they are constantly challenged by being outnumbered by their older or more mature peers. While it is highly likely that this level of higher inherent challenge is beneficial, what long term effect does it have in terms of elite performance?
 
 **Test Players with 70+ Caps**
 
