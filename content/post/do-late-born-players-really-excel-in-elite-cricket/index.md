@@ -70,15 +70,17 @@ Jones, Lawrence, Hardy (2018) (Ref 1), when analysing super-elite Test players f
 
 Interestingly, it doesn't match the quote from 'The Best: How Elite Athletes are made' mentioned at the start of this article which suggests Q3/Q4 are more likely to be super-elite.
 
-Within the top Test wicket takers a Q4 bias was found. This matches with the Q4 bias found in Rugby Forwards. Both disciplines, as argued by Jones et al, are more physical than other disciplines within the game. This study also found that that the Q4 bias was larger amongst fast bowlers (seamers) rather than spinners. Fast bowling is a much more physical discipline that spin bowling.
+Within the top Test wicket takers a significant Q4 bias was found. This matches with the Q4 bias found in Rugby Forwards. Both disciplines, as argued by Jones et al, are more physical than other disciplines within the game. This study also found that that the Q4 bias was larger amongst fast bowlers (seamers) rather than spinners. Fast bowling is a much more physical discipline that spin bowling.
 
-This study found evidence of an H2 effect for spinners whereas Jones et al found a Q1 bias for spinners.
+This study did find evidence of an H2 (later born) effect for spinners whereas Jones et al found a Q1 bias for spinners. Only 1 spinner has played more than 70 times for England's Test team.
 
 Jones et al found Q1 bias in the world’s best batters. This is where the findings above differ radically. Q1 have consistently been relatively poorer performers from a system point of view both in terms of Top 50 run scorers or wicket takers and players reaching 70 caps. In addition they have played fewer matches over the last 20 years than the other BQs despite being picked 22% of the time. 
 
 **Conclusions**
 
-This analysis suggests that there is mixed evidence that later borns (H2) reach higher levels in Test cricket. It was found that Q4s do better at super-elite levels than all other BQs with the effect much stronger in Bowling than Batting. The Q4 effect is greater in fast bowlers. There appears to be some evidence of an H2 effect for spinners.
+This analysis suggests that there is mixed evidence that later borns (H2) reach higher levels in Test cricket. It was found that Q4s, not H2, do better at super-elite levels. Further this was only found when using a) a matches played marker and b) in fast bowling using a career wickets marker.
+
+A Q4 effect is greater in bowling rather than batting with fast bowlers more affected than spinners. There appears to be some evidence of an H2 effect for spinners.
 
 In addition, performance over the last 20 years however, from a more mixed group of players, from super-elites through to one test wonders, shows no evidence of later borns performing better.
 
