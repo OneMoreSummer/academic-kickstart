@@ -17,7 +17,7 @@ It seems to be widely accepted that late born and/or late maturers reach higher 
 
 Because we don’t want to lose the next Jimmy Anderson or Ben Stokes. Anderson, with the highest number of Test wickets for England and Stokes, our best ever batting all rounder, are certainly elite. They are also late born Q4s.
 
-One of the reasons given for not addressing the Relative Age Effect (RAE) in development pathways is that we may lose the Q4 super-elites that they create. The [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/) hypothesises that the smaller numbers of late born (& late maturers) develop better because they are constantly challenged by being outnumbered by their older or more mature peers. While it is highly likely that this level of higher inherent challenge is beneficial, what long term effect does it have in terms of elite performance?
+One of the reasons given for not addressing the Relative Age Effect (RAE) in development pathways is that we may lose the Q4 super-elites that they create. The [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/) hypothesises that the smaller numbers of late born (& late maturers) develop better because they are constantly challenged by being outnumbered by their older or more mature peers. While it is highly likely that this level of higher inherent challenge is beneficial, what long term effect does it have in terms of super-elite performance?
 
 **Test Players with 70+ Caps**
 
