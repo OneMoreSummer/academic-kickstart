@@ -82,7 +82,7 @@ This analysis suggests that there is mixed evidence that later borns (H2) reach 
 
 A Q4 effect is greater in bowling rather than batting with fast bowlers more affected than spinners. There appears to be some evidence of an H2 effect for spinners.
 
-In addition, performance over the last 20 years however, from a more mixed group of players, from super-elites through to one test wonders, shows no evidence of later borns performing better.
+In addition, performance over the last 20 years, using a more mixed group of players from super-elites through to one test wonders, shows no evidence of either Q3 or Q4 performing better than Q2.
 
 Q1s have been shown to do particularly poorly. When selecting Q1s for Test cricket perhaps their other metrics need to be significantly higher? Should a BQ weighting against Q1s players be included in a holistic decision matrix? Should it also have a favourable weighting for Q4 fast bowlers and H2 spinners?
 
