@@ -42,7 +42,7 @@ Top 50 Test Batters by Career Runs**
 
 (src: espncricinfo.com) 
 
-From the chart above we can see that Q1 batters perform relatively poorer to all other BQs. Q2 is the highest performer both in percentage of players within the top 50 and the percentage of runs scored. Q3 and then Q4 are closely behind. Interestingly Q4 are near a normal 25% representation in terms of runs scored. Q4 also has the lowest career matches per player and average runs per innings.
+From the chart above we can see that H2 perform better in both measures than H1. However this is due to the under representation & performance of Q1s. Q2 is the highest performer both in percentage of players within the top 50 and the percentage of runs scored. Q3 and then Q4 are closely behind. Interestingly Q4 are near a normal 25% representation in terms of runs scored. Q4 also has the lowest career matches per player and average runs per innings.
 
 **\
 Top 50 Test Bowlers by Career Wickets**
