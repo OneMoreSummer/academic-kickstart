@@ -66,7 +66,9 @@ So over the last 20 years Q3 & Q4 have not been selected more often than Q2 and 
 **\
 Relevant Research**
 
-Jones, Lawrence,Hardy (2018) (1), when analysing super-elite Test players from across the world, found a Q1 bias for Batsmen and Spinners. They found no RAE for Fast Bowlers however. Included in the paper was a study of elite Rugby players which found a Q1 bias for Backs and a Q4 bias for Forwards. What does this tell us and how does it ‘fit’ with the analysis above?
+Jones, Lawrence, Hardy (2018) (Ref 1), when analysing super-elite Test players from across the world, found a Q1 bias for Batsmen and Spinners. They found no RAE for Fast Bowlers however. Included in the paper was a study of elite Rugby players which found a Q1 bias for Backs and a Q4 bias for Forwards. What does this tell us and how does it ‘fit’ with the analysis above?
+
+Interestingly, it doesn't match the quote from 'The Best: How Elite Athletes are made' mentioned at the start of this article which suggests Q3/Q4 are more likely to be super-elite.
 
 Within the top Test wicket takers a Q4 bias was found. This matches with the Q4 bias found in Rugby Forwards. Both disciplines, as argued by Jones et al, are more physical than other disciplines within the game. This study also found that that the Q4 bias was larger amongst fast bowlers (seamers) rather than spinners. Fast bowling is a much more physical discipline that spin bowling.
 
