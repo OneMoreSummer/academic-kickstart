@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In Part 1, in which looked at Test cricket only, we found mixed evidence for the notion that late born cricket players excel at super-elite levels. In fact the ECBs own research (Jones et al, 2018, JSS) found Q1s to be over-represented for all disciplines combined in super-elite cricketers, spanning 9 International Test teams over a 20 year period.
+In [Part 1](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/), in which looked at Test cricket only, we found mixed evidence for the notion that late born cricket players excel at super-elite levels. In fact the ECBs own research (Jones et al, 2018, JSS) found Q1s to be over-represented for all disciplines combined in super-elite cricketers, spanning 9 International Test teams over a 20 year period.
 
 Both Jones et al and the data from Part 1 found differences by discipline, namely batters, spinners and fast bowlers. As well as differences by discipline is there any evidence of differences within format, i.e. within white ball cricket (ODI & T20I) rather than red/pink ball cricket (Test)?
 
@@ -48,8 +48,6 @@ So, again no H1:H2 effect in terms of % players at this level but an H1:H2 effec
 The charts shows clearly that there is no H1:H2 effect for T20I bowlers. Perhaps there is again a ‘Goldilocks Effect’ where Q2 & Q3 are overrepresented both for % players and wickets taken.
 
 Q4 were more relatively represented in the fast bowler contingent and Q1 amongst the spinners.
-
- 
 
 **Conclusions**
 
