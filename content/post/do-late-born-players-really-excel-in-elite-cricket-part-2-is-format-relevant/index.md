@@ -72,3 +72,9 @@ NOT Q1 Bowlers in Tests
 NOT Q4 batters in ODI & T20I
 
 Based solely on these findings it would perhaps be useful to incorporate some of these weightings when creating an holistic decision matrix for selection processes.
+
+
+
+**References**
+
+1. Jones, Lawrence,Hardy (2018) (1) JSS. <https://www.tandfonline.com/doi/abs/10.1080/02640414.2017.1332420>
