@@ -17,7 +17,7 @@ As in Part 1 we used a criterion of the top 50 English players both for batters 
 
 **ODI Batting** 
 
-\[chart]
+![](top-50-odi-run-scorers.png)
 
 From the chart it is clear that the worst performing BQ is Q4, both in terms of % players at % runs scored within the Top 50 run scorers. Q3 however is the highest for % players and a close 2nd for % runs, with both values over 30%. Q2 is similar to Q3 and Q1 is midway between those two and Q4.
 
@@ -25,7 +25,7 @@ So these results do NOT show an H1:H2 effect. They do not show an advantage for 
 
 **ODI Bowling**
 
-\[chart]
+![](top-50-odi-bowlers-by-wickets-taken.png)
 
 Q4 is the highest BQ for both measures (% players and % wickets) but Q3 is near an ‘average’ value for both measures. Q2 is better than Q3 but below Q4 for both measures and Q1 is well behind all the other BQs.
 
@@ -35,7 +35,7 @@ So, again, no H1:H2 effect. In fact the most striking takeaway is how Q2 and Q4 
 
 **T20I Batting**
 
-\[chart]
+![](top-50-t20i-run-scorers.png)
 
 Q4 has the lowest BQ representation for both % players and runs scored. Q3 has the highest % players but the second lowest runs scored. Q1 excels in T20 in terms of runs scored, with only 22% of players reaching this level, at the expense of all other BQs.
 
@@ -43,7 +43,7 @@ So, again no H1:H2 effect in terms of % players at this level but an H1:H2 effec
 
 **T20I Bowling** 
 
-\[chart]
+![](top-t20i-bowlers-by-wickets-taken.png)
 
 The charts shows clearly that there is no H1:H2 effect for T20I bowlers. Perhaps there is again a ‘Goldilocks Effect’ where Q2 & Q3 are overrepresented both for % players and wickets taken.
 
