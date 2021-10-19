@@ -11,7 +11,7 @@ image:
 ---
 Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/), [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/).
 
-In [Part 1](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/), in covered Test cricket only, we found mixed evidence for the notion that late born cricket players excel at super-elite levels. In fact the ECBs own research Jones, Lawrence, Hardy (2018) (Ref 1) found Q1s to be over-represented for all disciplines combined in super-elite cricketers, spanning 9 International Test teams over a 20 year period. Both Jones et al and the data from Part 1 found differences by discipline, namely batters, spinners and fast bowlers.
+In [Part 1](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/), which covered Test cricket only, we found mixed evidence for the notion that late born cricket players excel at super-elite levels. In fact the ECBs own research Jones, Lawrence, Hardy (2018) (Ref 1) found Q1s to be over-represented for all disciplines combined in super-elite cricketers, spanning 9 International Test teams over a 20 year period. Both Jones et al and the data from Part 1 found differences by discipline, namely batters, spinners and fast bowlers.
 
 As well as differences by discipline, is there any evidence of differences within format, i.e. within white ball cricket (ODI & T20I) rather than red/pink ball cricket (Test)?
 
