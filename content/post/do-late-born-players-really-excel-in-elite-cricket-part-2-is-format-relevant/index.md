@@ -59,17 +59,17 @@ There is evidence that:
 
 Q4 bowlers excel in Tests and ODIs.
 
-Q2 & Q3 batters in Tests & ODI
+Q2 & Q3 batters do well in Tests & ODI
 
 Q1 excel in T20I
 
-Q2 Bowlers in T20I
+Q2 Bowlers do well in T20I
 
-NOT Q1 Batters in Tests & ODI
+Q1 Batters DONT do well in Tests & ODI
 
-NOT Q1 Bowlers in Tests
+Q1 Bowlers DONT do well in Tests
 
-NOT Q4 batters in ODI & T20I
+Q4 batters DONT do well in ODI & T20I
 
 Based solely on these findings it would perhaps be useful to incorporate some of these weightings when creating an holistic decision matrix for selection processes.
 
