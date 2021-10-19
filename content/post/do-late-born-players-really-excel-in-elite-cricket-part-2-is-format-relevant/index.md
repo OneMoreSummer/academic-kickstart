@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Maturation Bias](https://onemoresummer.co.uk/post/is-maturation-currently-the-biggest-unaddressed-issue-in-player-id-development-in-english-cricket/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/), [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/).
+Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/), [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/).
 
 In [Part 1](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/), in covered Test cricket only, we found mixed evidence for the notion that late born cricket players excel at super-elite levels. In fact the ECBs own research Jones, Lawrence, Hardy (2018) (Ref 1) found Q1s to be over-represented for all disciplines combined in super-elite cricketers, spanning 9 International Test teams over a 20 year period. Both Jones et al and the data from Part 1 found differences by discipline, namely batters, spinners and fast bowlers.
 
