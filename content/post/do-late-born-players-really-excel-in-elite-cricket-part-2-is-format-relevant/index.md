@@ -73,6 +73,8 @@ Q1 bowlers DONT do well in Tests
 
 Q4 batters DONT do well in ODI & T20I
 
+![](top-50-by-bq-all-formats.jpg)
+
 Based solely on these findings it would perhaps be useful to incorporate some of these weightings when creating an holistic decision matrix for selection processes.
 
 **References**
