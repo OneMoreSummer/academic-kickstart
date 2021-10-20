@@ -86,6 +86,8 @@ In addition, performance over the last 20 years, using a more mixed group of pla
 
 Q1s have been shown to do particularly poorly. When selecting Q1s for Test cricket perhaps their other metrics need to be significantly higher? Should a BQ weighting against Q1s players be included in a holistic decision matrix? Should it also have a favourable weighting for Q4 fast bowlers and H2 spinners?
 
-**References**
+[Continue with Part 2: Is Format relevant? - which looks at super-elites in ODI & T20I.](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)
+
+**[](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)References**
 
 1. Jones, Lawrence,Hardy (2018) (1) JSS. <https://www.tandfonline.com/doi/abs/10.1080/02640414.2017.1332420>
