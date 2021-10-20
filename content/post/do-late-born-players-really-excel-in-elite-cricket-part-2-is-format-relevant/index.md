@@ -63,13 +63,13 @@ Q4 bowlers excel in Tests and ODIs
 
 Q2 & Q3 batters do well in Tests & ODI
 
-Q1 excel in T20I
+Q1 batters excel in T20I
 
-Q2 Bowlers do well in T20I
+Q2 bowlers do well in T20I
 
-Q1 Batters DONT do well in Tests & ODI
+Q1 batters DONT do well in Tests & ODI
 
-Q1 Bowlers DONT do well in Tests
+Q1 bowlers DONT do well in Tests
 
 Q4 batters DONT do well in ODI & T20I
 
