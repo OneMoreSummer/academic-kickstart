@@ -59,7 +59,7 @@ There is evidence to suggest that there are BQ influences on a. Discipline (Batt
 
 There is evidence that:
 
-Q4 bowlers excel in Tests and ODIs.
+Q4 bowlers excel in Tests and ODIs
 
 Q2 & Q3 batters do well in Tests & ODI
 
