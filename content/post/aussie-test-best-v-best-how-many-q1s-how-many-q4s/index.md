@@ -10,53 +10,7 @@ image:
 ---
 After eating too much cheese I had a bad dream, where the 22 best Aussie Test players played a match. Here were the teams:
 
-**Cobbers XI**
-
-Hussey
-
-Chappell G
-
-Chappell I
-
-Clarke
-
-Smith
-
-Waugh M
-
-Waugh S
-
-Border (C)
-
-Healy (W)
-
-Warne
-
-McGrath
-
-**Rippers XI**
-
-Langer
-
-Hayden
-
-Taylor
-
-Warner
-
-Ponting (C)
-
-Boon
-
-Harvey
-
-Marsh
-
-Gilchrist (W)
-
-Lee
-
-Lyon
+![](aussie-test-best-v-best.jpg)
 
 This article is part of a series of articles looking at how RAE plays out at the very highest levels of cricket and is contrary to the (popular) belief that RAE is only relevant to the first half of development pathways.
 
