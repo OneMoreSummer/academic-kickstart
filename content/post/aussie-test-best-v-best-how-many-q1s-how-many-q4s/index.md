@@ -24,7 +24,7 @@ Smith
 
 Waugh M
 
-Waugh S ©
+Waugh S
 
 Border (C)
 
@@ -33,8 +33,6 @@ Healy (W)
 Warne
 
 McGrath
-
-
 
 **Rippers XI**
 
@@ -59,8 +57,6 @@ Gilchrist (W)
 Lee
 
 Lyon
-
-
 
 This article is part of a series of articles looking at how RAE plays out at the very highest levels of cricket and is contrary to the (popular) belief that RAE is only relevant to the first half of development pathways.
 
