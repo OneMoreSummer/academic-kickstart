@@ -28,7 +28,7 @@ Looking further, using the Top 50 Aussie Test Batters and Bowlers by runs and wi
 
 ![](top-50-australian-test-batters-player-matches-.png)
 
-We see a similar Q4 bias within the top 50 Australian Test Batters (by runs) but not an H2 bias. All other BQs are under-represented, especially Q1s. This Q1 under-representation of batters aligns with findings in English Test cricket. It doesn’t align for Q4s however, where Q2s and Q3s are slightly more frequent.  
+We see a similar Q4 bias within the top 50 Australian Test Batters (by runs) but not an H2 bias. All other Birth Quarters (BQs) are under-represented, especially Q1s. This Q1 under-representation of batters aligns with findings in English Test cricket. It doesn’t align for Q4s however, where Q2s and Q3s are slightly more frequent.  
 
 ![](top-50-australian-test-bowlers-player-matches-.png)
 
