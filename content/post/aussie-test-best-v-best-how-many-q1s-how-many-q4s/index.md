@@ -14,7 +14,7 @@ After eating too much cheese I had a bad dream, where the 22 best Aussie Test pl
 
 ![](aussie-test-best-v-best.jpg)
 
-This article is part of a series of articles ([Part 1](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/) & [Part 2](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)) looking at how RAE plays out at the very highest levels of cricket and is contrary to the (popular) belief that RAE is only relevant to the first half of development pathways.
+This article is part of a series of articles ([Part 1](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/) & [Part 2](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)) looking at how Relative Age Effect (RAE) plays out at the very highest levels of cricket and is contrary to the (popular) belief that RAE is only relevant to the first half of development pathways.
 
 What do we notice about the teams? Unsurprisingly, because of the relative physical demands of Test cricket, there are many more batters (18) than bowlers (4) . Of the small number of bowlers there is an equal no of spinners (2) to fast bowlers (2).  What else?
 
