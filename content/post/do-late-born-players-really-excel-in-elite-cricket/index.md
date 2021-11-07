@@ -76,7 +76,7 @@ Jones, Lawrence, Hardy (2018) (Ref 1), when analysing super-elite Test players f
 
 Interestingly, it doesn't match the quote from 'The Best: How Elite Athletes are made' mentioned at the start of this article which suggests Q3/Q4 are more likely to be super-elite.
 
-Within the top Test wicket takers a significant Q4 bias was found. This matches with the Q4 bias found in Rugby Forwards. Both disciplines, as argued by Jones et al, are more physical than other disciplines within the game. This study also found that that the Q4 bias was larger amongst fast bowlers (seamers) rather than spinners. Fast bowling is a much more physical discipline that spin bowling.
+This OMS research found a significant Q4 bias within the top Test wicket takers. This matches with the Q4 bias found in Rugby Forwards. Both disciplines, as argued by Jones et al, are more physical than other disciplines within the game. This study also found that that the Q4 bias was larger amongst fast bowlers (seamers) rather than spinners. Fast bowling is a much more physical discipline that spin bowling.
 
 This study did find evidence of an H2 (later born) effect for spinners whereas Jones et al found a Q1 bias for spinners. Only 1 spinner has played more than 70 times for England's Test team.
 
