@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+
 After eating too much cheese I had a bad dream, where the 22 best Aussie Test players played a match. Here were the teams:
 
 ![](aussie-test-best-v-best.jpg)
@@ -38,4 +40,4 @@ A significant Q4 bias is found for batters (especially) and bowlers based on ana
 
 The Q4 bias for bowlers aligns with that found for their English counterparts.
 
-A similar under-representation of Q1 batters was found in Australian Test cricket as that found in English Test cricket, at the highest levels.
+A similar [under-representation of Q1 Test batters](https://onemoresummer.co.uk/post/individual-thinking-v-systems-thinking/) was found in Australian cricket as that found in English cricket, at the highest levels.
