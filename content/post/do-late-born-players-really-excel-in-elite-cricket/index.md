@@ -23,9 +23,9 @@ One of the reasons given for not addressing the Relative Age Effect (RAE) in dev
 
 ![](test-caps-70-n-36-.png)
 
-(src: cricketarchive.com)
+(England Test Cricketers: src: cricketarchive.com)
 
-The chart above shows that there is indeed an effect of Birth Quarter (BQ) on super-elite Test cricketers. But perhaps it is not a simple H1/H2 split. H1 represents those born in the first half of the year Q1 & Q2 and H2 those born in the second half of the year Q3 & Q4.
+The chart above shows that there is indeed an effect of Birth Quarter (BQ) on super-elite England Test cricketers. But perhaps it is not a simple H1/H2 split. H1 represents those born in the first half of the year Q1 & Q2 and H2 those born in the second half of the year Q3 & Q4.
 
 We find Q4 are over represented, Q2 & Q3 are similar and Q1 are under represented.
 
@@ -88,6 +88,6 @@ Q1s have been shown to do particularly poorly. When selecting Q1s for Test crick
 
 [Continue with Part 2: Is Format relevant? - which looks at super-elites in ODI & T20I.](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)
 
-**[](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)References**
+[](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)**References**
 
 1. Jones, Lawrence,Hardy (2018) (1) JSS. <https://www.tandfonline.com/doi/abs/10.1080/02640414.2017.1332420>
