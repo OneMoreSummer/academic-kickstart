@@ -33,3 +33,11 @@ We see a similar Q4 bias within the top 50 Australian Test Batters (by runs) but
 ![](top-50-australian-test-bowlers-player-matches-.png)
 
 Within the bowling cohort there is again a Q4 bias within the top 50 Australian Test Bowlers (by wickets) but again not an H2 effect (Q3 have the lowest representation). The Q4 bias is lower for bowlers than for Australian batters. This Q4 bowler bias aligns well with the findings within the top 50 English Test Bowlers too.
+
+**Conclusions**
+
+A significant Q4 bias is found for batters (especially) and bowlers based on analysis by caps (matches played) and performance (most runs and wickets). 
+
+The Q4 bias for bowlers aligns with that found for their English counterparts.
+
+A similar under-representation of Q1 batters was found in Australian Test cricket as that found in English Test cricket, at the highest levels.
