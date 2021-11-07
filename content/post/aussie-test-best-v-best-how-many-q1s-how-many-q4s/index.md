@@ -20,7 +20,7 @@ What do we notice about the teams? Unsurprisingly, because of the relative physi
 
 ![](top-22-australian-test-players-by-caps-matches-played-.png)
 
-What might be more surprising is that the (Little) Rippers are ALL Q4s. That is to say 11 of the 22 were all born in the last 3 months of the academic year. Also within the Cobbers only 1 player (McGrath) is a Q1, i.e. born in the first 3 months of the academic year. He is a bowler so no Q1 batters are in the top 22 Aussie Test players by caps. This lack of Q1s aligns with previous articles finding that Q1s perform relatively poorly in Test cricket. <links>
+What might be more surprising is that the (Little) Rippers are ALL Q4s. That is to say 11 of the 22 were all born in the last 3 months of the academic year. Also within the Cobbers only 1 player (McGrath) is a Q1, i.e. born in the first 3 months of the academic year. He is a bowler so no Q1 batters are in the top 22 Aussie Test players by caps. This lack of Q1s aligns with previous articles finding that [Q1s perform relatively poorly in English Test](https://onemoresummer.co.uk/post/individual-thinking-v-systems-thinking/) cricket. <links>
 
 Also the Cobbers are struggling for opening batters whereas there is a surfeit of openers in the Rippers.
 
