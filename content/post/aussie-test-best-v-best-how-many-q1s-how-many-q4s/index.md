@@ -36,7 +36,7 @@ Within the bowling cohort there is again a Q4 bias within the top 50 Australian 
 
 **Conclusions**
 
-A significant Q4 bias is found for batters (especially) and bowlers based on analysis by caps (matches played) and performance (most runs and wickets). 
+A significant Q4 bias is found for batters (especially) and bowlers based on analysis by caps (matches played) and performance (most runs and wickets), in Australian Test cricket.
 
 The Q4 bias for bowlers aligns with that found for their English counterparts.
 
