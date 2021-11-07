@@ -17,7 +17,7 @@ As well as differences by discipline, is there any evidence of differences withi
 
 As in Part 1 a criterion of the top 50 English players both for batters and bowlers has been used for each additional format, ODI (50 over) & T20I (20 over).
 
-**ODI Batting** 
+**England ODI Batting** 
 
 ![](top-50-odi-run-scorers.png)
 
@@ -25,7 +25,7 @@ From the chart it is clear that the worst performing BQ is Q4, both in terms of 
 
 So these results do NOT show an H1:H2 effect. They do not show an advantage for H2 over H1 (lates over earlies). What is shown is perhaps a ‘Goldilocks Effect’ where Q2 & Q3 are ‘just right’, just enough Q4 type challenge and just enough Q1 type early opportunity bias.
 
-**ODI Bowling**
+**England ODI Bowling**
 
 ![](top-50-odi-bowlers-by-wickets-taken.png)
 
@@ -35,7 +35,7 @@ All BQs are well represented within the fast bowlers but for spinners there is a
 
 So, again, no H1:H2 effect. In fact the most striking takeaway is how Q2 and Q4 dominate the spinners and this reflects in the overall wickets taken.  
 
-**T20I Batting**
+**England T20I Batting**
 
 ![](top-50-t20i-run-scorers.png)
 
@@ -43,7 +43,7 @@ Q4 has the lowest BQ representation for both % players and runs scored. Q3 has t
 
 So, again no H1:H2 effect in terms of % players at this level but an H1:H2 effect (60:40) in favour of H1 in terms of runs scored.
 
-**T20I Bowling** 
+**England T20I Bowling** 
 
 ![](top-t20i-bowlers-by-wickets-taken.png)
 
