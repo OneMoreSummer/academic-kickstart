@@ -60,7 +60,7 @@ Lyon
 
 This article is part of a series of articles looking at how RAE plays out at the very highest levels of cricket and is contrary to the (popular) belief that RAE is only relevant to the first half of development pathways.
 
-What do we notice about the teams? Unsurprisingly there are many more batters (18) than bowlers (4) because of the relative physical demands of Test cricket. Of the small number of bowlers there is an equal no of spinners (2) to fast bowlers (2).  What else?
+What do we notice about the teams? Unsurprisingly, because of the relative physical demands of Test cricket, there are many more batters (18) than bowlers (4) . Of the small number of bowlers there is an equal no of spinners (2) to fast bowlers (2).  What else?
 
 ![](top-22-australian-test-players-by-caps-matches-played-.png)
 
