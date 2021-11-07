@@ -19,6 +19,10 @@ Because we don’t want to lose the next Jimmy Anderson or Ben Stokes. Anderson,
 
 One of the reasons given for not addressing the Relative Age Effect (RAE) in development pathways is that we may lose the Q3/Q4 super-elites that they create. The [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/) hypothesises that the smaller numbers of late born (& late maturers) develop better because they are constantly challenged by being outnumbered by their older or more mature peers. While it is highly likely that this level of higher inherent challenge is beneficial, what long term effect does it have in terms of super-elite performance?
 
+Two measures are used to investigate this further, namely a. Players with the most caps (matches played) and b. Top 50 Batters & Bowlers by runs and wickets respectively.
+
+Firstly by caps...
+
 **England Test Players with 70+ Caps**
 
 ![](test-caps-70-n-36-.png)
@@ -35,21 +39,23 @@ Player role (batters v bowlers) also has a significant effect. Q4 were highly ov
 
 For batters Q4s are over represented but by a smaller margin. Q2 & Q3 are similar and Q1 under-represented (% Q1 16.1, Q2 25.8, Q3 25.8, Q4 32.3).
 
+Now looking at this by runs and wickets...
+
 **\
-Top 50 Test Batters by Career Runs**
+England Top 50 Test Batters by Career Runs**
 
 ![](top-50-test-run-scorers.png)
 
-(src: espncricinfo.com) 
+(Top 50 England Test Batters, Total Runs: src: espncricinfo.com) 
 
 From the chart above we can see that H2 perform better in both measures than H1. However this is due to the under representation & performance of Q1s. Q2 is the highest performer both in percentage of players within the top 50 and the percentage of runs scored. Q3 and then Q4 are closely behind. Interestingly Q4 are near a normal 25% representation in terms of runs scored. Q4 also has the lowest career matches per player and average runs per innings.
 
 **\
-Top 50 Test Bowlers by Career Wickets**
+England Top 50 Test Bowlers by Career Wickets**
 
 ![](top-50-test-wicket-takers.png)
 
-(src: espncricinfo.com) 
+(England Test Bowlers by total wickets: src: espncricinfo.com) 
 
 Q4 Test Bowlers are streets ahead of all other BQs, both in the percentage of players in the top 50 (34%) but also the number of all wickets taken! (40%). Q3s are similar to Q2s and actually slightly worse performers in terms of wickets taken. Q1s, as with the batting, lag behind in both measurements.
 
