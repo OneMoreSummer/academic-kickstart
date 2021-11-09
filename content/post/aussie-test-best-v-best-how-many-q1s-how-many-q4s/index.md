@@ -13,7 +13,7 @@ image:
 <meta name="twitter:title" content="Aussie Test Best v Best: How many Q1s? How many Q4s?" />
 <meta name="twitter:description" content="Spoiler Alert: Lots of Q4s and only 1 Q1." />
 <meta name="twitter:image" content="https://https://onemoresummer.co.uk/post/aussie-test-best-v-best-how-many-q1s-how-many-q4s/aussie-test-best-v-best-1-.jpg" />
-After eating too much cheese I had a bad dream, where the 22 best Aussie Test players played a match. Here were the teams:
+After eating too much cheese I had a bad dream, where the 22 most capped Aussie Test players played a match. Here were the teams:
 
 ![](aussie-test-best-v-best-1-.jpg)
 
