@@ -8,17 +8,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
-```
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@nothirdman" />
 <meta name="twitter:title" content="Aussie Test Best v Best: How many Q1s? How many Q4s?" />
 <meta name="twitter:description" content="Spoiler Alert: Lots of Q4s and only 1 Q1." />
 <meta name="twitter:image" content="https://onemoresummer.co.uk/aussie-test-best-v-best.jpg" />
-```
-
-
 After eating too much cheese I had a bad dream, where the 22 best Aussie Test players played a match. Here were the teams:
 
 ![](aussie-test-best-v-best.jpg)
