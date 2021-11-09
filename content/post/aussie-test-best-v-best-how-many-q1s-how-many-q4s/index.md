@@ -15,7 +15,7 @@ image:
 <meta name="twitter:image" content="https://onemoresummer.co.uk/aussie-test-best-v-best.jpg" />
 After eating too much cheese I had a bad dream, where the 22 best Aussie Test players played a match. Here were the teams:
 
-![](aussie-test-best-v-best.jpg)
+![](aussie-test-best-v-best-1-.jpg)
 
 This article is part of a series of articles ([Part 1](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/) & [Part 2](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)) looking at how Relative Age Effect (RAE) plays out at the very highest levels of cricket and is contrary to the (popular) belief that RAE is only relevant to the first half of development pathways.
 
