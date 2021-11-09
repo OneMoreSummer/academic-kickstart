@@ -23,6 +23,8 @@ Also the Cobbers are struggling for opening batters whereas there is a surfeit o
 
 Looking further, using the Top 50 Aussie Test Batters and Bowlers by runs and wickets respectively, we find a similar but more nuanced story.
 
+In blue we show the % of players from each Birth Quarter out of the 50. In red we show the total number of matches played by players from each quarter. This gives each player a relative weighting.
+
 ![](top-50-australian-test-batters-player-matches-.png)
 
 We see a similar Q4 bias within the top 50 Australian Test Batters (by runs) but not an H2 bias. All other Birth Quarters (BQs) are under-represented, especially Q1s. This Q1 under-representation of batters aligns with findings in English Test cricket. Q4 bias for Australian batters doesn’t align for English Test batters however, where Q2s and Q3s are slightly more frequent.  
