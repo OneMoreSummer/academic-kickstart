@@ -21,7 +21,7 @@ What is surprising is that the (Little) Rippers XI are ALL Q4s. That is to say 1
 
 Also the Cobbers are struggling for opening batters whereas there is a surfeit of openers in the Rippers.
 
-Looking further, using the Top 50 Aussie Test Batters and Bowlers by runs and wickets respectively, we find a similar but more nuanced story.This article is part of a series of articles ([Part 1](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/) & [Part 2](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)) looking at how Relative Age Effect (RAE) plays out at the very highest levels of cricket and is contrary to the (popular) belief that RAE is only relevant to the first half of development pathways.
+Looking further, using the Top 50 Aussie Test Batters and Bowlers by runs and wickets respectively, we find a similar but more nuanced story.
 
 ![](top-22-australian-test-players-by-caps-matches-played-.png)
 
@@ -38,6 +38,8 @@ We see a similar Q4 bias within the top 50 Australian Test Batters (by runs) but
 ![](top-50-australian-test-bowlers-player-matches-.png)
 
 Within the bowling cohort there is again a Q4 bias within the top 50 Australian Test Bowlers (by wickets) but again not an H2 effect (Q3 have the lowest representation). The Q4 bias is lower for bowlers than for Australian batters. This Q4 bowler bias aligns well with the findings within the top 50 English Test Bowlers too.
+
+This article is part of a series of articles ([Part 1](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/) & [Part 2](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)) looking at how Relative Age Effect (RAE) plays out at the very highest levels of cricket and is contrary to the (popular) belief that RAE is only relevant to the first half of development pathways.
 
 **Conclusions**
 
