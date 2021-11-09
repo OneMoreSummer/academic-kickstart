@@ -9,8 +9,6 @@ image:
   preview_only: false
 ---
 <meta name="twitter:card" content="summary" />
-Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/), [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/).
-
 After eating too much cheese I had a bad dream, where the 22 best Aussie Test players played a match. Here were the teams:
 
 ![](aussie-test-best-v-best.jpg)
