@@ -37,3 +37,5 @@ The more caps the higher the later borns representation (65% for caps 166-95, n=
 ![](england-test-bowlers-with-50-caps-n-22-1-.png)
 
 Q4 Bowlers have an extra weighting by match% (47%).
+
+<https://youtu.be/KZp11vks_Ws?t=42>
