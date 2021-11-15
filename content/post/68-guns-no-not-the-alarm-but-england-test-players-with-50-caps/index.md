@@ -8,6 +8,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nothirdman" />
+<meta name="twitter:title" content="68 Guns: No not The Alarm but England Test Players with 50+ Caps" />
+<meta name="twitter:description" content="Spoiler Alert: Lots of Q4s and only 1 Q1." />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/68-guns-no-not-the-alarm-but-england-test-players-with-50-caps/aussie-test-best-v-best-1-.jpg" />
+
 Highlights:
 
 Q1 Batters under-represented at only 16% (n=51) 
@@ -29,3 +35,5 @@ The more caps the higher the later borns representation (65% for caps 166-95, n=
 ![](england-test-batters-with-50-caps-n-51-1-.png)
 
 ![](england-test-bowlers-with-50-caps-n-22-1-.png)
+
+Q4 Bowlers have an extra weighting by match% (47%).
