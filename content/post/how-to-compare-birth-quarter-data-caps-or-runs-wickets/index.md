@@ -10,7 +10,7 @@ image:
 ---
 **Player % v Match %**
 
-Just counting the number of players in a BQ out of a cohort values them equally. Using the percentage of all matches played by the cohort gives an over weighting to the very best and vica versa. I think it is useful to combine these two values in all charts. 
+Just counting the number of players in a [Birth Quarter](https://onemoresummer.co.uk/post/what-is-birth-quarter/) out of a cohort values them equally. Using the percentage of all matches played by the cohort gives an over weighting to the very best and vica versa. I think it is useful to combine these two values in all charts. 
 
 **Caps v Runs/Wickets**
 
