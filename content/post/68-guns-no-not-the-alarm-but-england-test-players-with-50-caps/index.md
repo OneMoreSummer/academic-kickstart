@@ -28,6 +28,8 @@ The more caps the higher the later borns representation (65% for caps 166-95, n=
 
 \*\* All rounders included in both batting and bowling cohorts.
 
+Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/), [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/).
+
 ![](england-test-players-with-50-caps-n-68-.png)
 
 ![](england-test-players-with-50-caps-n-68-at-14.11.21.png)
