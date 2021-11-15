@@ -1,5 +1,5 @@
 ---
-title: "68 Guns: No not The Alarm but England Test Players with 50+ Caps"
+title: "68 Guns: No not The Alarm but male England Test Players with 50+ Caps"
 date: 2021-11-15T13:28:27.483Z
 draft: false
 featured: false
@@ -10,7 +10,7 @@ image:
 ---
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@nothirdman" />
-<meta name="twitter:title" content="68 Guns: No not The Alarm but England Test Players with 50+ Caps" />
+<meta name="twitter:title" content="68 Guns: No not The Alarm but male England Test Players with 50+ Caps" />
 <meta name="twitter:description" content="Q1 Batters (16%), Q4 Bowlers (41%), Later born over-represented (57%). Later born representation highest for top 17 players (65%) " />
 <meta name="twitter:image" content="https://onemoresummer.co.uk/post/68-guns-no-not-the-alarm-but-england-test-players-with-50-caps/england-test-players-with-50-caps-n-68-at-14.11.21.png" />
 
@@ -24,7 +24,7 @@ Later borns are over-represented at 57% (n=68).
 
 The more caps the higher the later borns representation (65% for caps 166-95, n=17)
 
-\* These 68 players represent the top 9.7% of England Test players by caps (at 14.11.21).
+\* These 68 players represent the top 9.7% of male England Test players by caps (at 14.11.21).
 
 \*\* All rounders included in both batting and bowling cohorts.
 
