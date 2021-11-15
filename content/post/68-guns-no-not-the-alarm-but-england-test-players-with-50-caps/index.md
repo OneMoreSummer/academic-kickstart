@@ -44,7 +44,7 @@ Q2 & Q3 Bowlers are under-represented (Q2 13.64%, Q3 18.18%).
 
 **Conclusions**
 
-Within the top 10% of English Test cricketers (by caps) there appears to be a linear relationship by Birth Quarter with representation increasing Q1-> Q4.
+Within the top 10% of male English Test cricketers (by caps) there appears to be a linear relationship by Birth Quarter with representation increasing Q1-> Q4.
 
 This is emphasised within the top 5% of players by caps and within the batter and bowler cohorts. Q2, Q3 & Q4 batters perform well. Q4 and to a lesser extent Q1 bowlers perform well. 
 
