@@ -38,4 +38,6 @@ The more caps the higher the later borns representation (65% for caps 166-95, n=
 
 Q4 Bowlers have an extra weighting by match% (47%).
 
+Q2 & Q3 Bowlers are under-represented (Q2 13.64%, Q3 18.18%).
+
 [68 Guns by The Alarm (1983)](https://youtu.be/KZp11vks_Ws?t=42)
