@@ -48,4 +48,6 @@ Within the top 10% of male English Test cricketers (by caps) there appears to be
 
 This is emphasised within the top 5% of players by caps and within the batter and bowler cohorts. Q2, Q3 & Q4 batters perform well. Q4 and to a lesser extent Q1 bowlers perform well. 
 
+\* This article uses caps as an indicator of 'high performance'. While this may be appropriate in Test cricket [it does have some issues](https://onemoresummer.co.uk/post/how-to-compare-birth-quarter-data-caps-or-runs-wickets/) for bowlers. It may not be as appropriate for shorter formats.
+
 [68 Guns by The Alarm (1983)](https://youtu.be/KZp11vks_Ws?t=42)
