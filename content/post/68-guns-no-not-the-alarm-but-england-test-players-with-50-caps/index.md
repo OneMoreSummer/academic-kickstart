@@ -50,4 +50,6 @@ This is emphasised within the top 5% of players by caps and within the batter an
 
 \* This article uses caps as an indicator of 'high performance'. While this may be appropriate in Test cricket [it does have some issues](https://onemoresummer.co.uk/post/how-to-compare-birth-quarter-data-caps-or-runs-wickets/) for bowlers. It may not be as appropriate for shorter formats.
 
-[68 Guns by The Alarm (1983)](https://youtu.be/KZp11vks_Ws?t=42)
+[How do Q1 batters do in Australian Test cricket?](https://onemoresummer.co.uk/post/aussie-test-best-v-best-how-many-q1s-how-many-q4s/)
+
+[](https://onemoresummer.co.uk/post/aussie-test-best-v-best-how-many-q1s-how-many-q4s/)[68 Guns by The Alarm (1983)](https://youtu.be/KZp11vks_Ws?t=42)
