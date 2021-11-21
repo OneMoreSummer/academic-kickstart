@@ -13,7 +13,9 @@ image:
 
 Background: [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/), [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/), [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/).
 
-For batters only Australia, New Zealand & England have a later born (Birth Quarters Q3 & Q4) bias. Pakistan & Bangladesh have an early born (Q1 & Q2) bias. Sri Lanka has a small later born bias while India, South Africa & West Indies have a small early born bias.
+This article is part of a series ([Part 1 (Test)](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket/) & [Part 2 (All Formats)](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-2-is-format-relevant/)) looking at if later born players excel in international cricket. 
+
+For batters, only Australia, New Zealand & England have a later born (Birth Quarters Q3 & Q4) bias. Pakistan & Bangladesh have an early born (Q1 & Q2) bias. Sri Lanka has a small later born bias while India, South Africa & West Indies have a small early born bias.
 
 For bowlers Sri Lanka, New Zealand, England & Pakistan have a later born bias whereas West Indies, India, Bangladesh & Australia have an early bias. South Africa is neutral. 
 
