@@ -18,3 +18,7 @@ For batters only Australia, New Zealand & England have a later born (Birth Quart
 For bowlers Sri Lanka, New Zealand, England & Pakistan have a later born bias whereas West Indies, India, Bangladesh & Australia have an early bias. South Africa is neutral. 
 
 This is based on the percentage of players in the Top 50 Test batters and bowlers by total runs.
+
+![](top-50-test-batters-for-9-countries-by-player-.-h1-q1-q2-h2-q3-q4-.png)
+
+![](top-50-test-bowlers-for-9-countries-by-player-.-h1-q1-q2-h2-q3-q4-.png)
