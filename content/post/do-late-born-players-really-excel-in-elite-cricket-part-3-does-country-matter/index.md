@@ -22,3 +22,7 @@ This is based on the percentage of players in the Top 50 Test batters and bowler
 ![](top-50-test-batters-for-9-countries-by-player-.-h1-q1-q2-h2-q3-q4-.png)
 
 ![](top-50-test-bowlers-for-9-countries-by-player-.-h1-q1-q2-h2-q3-q4-.png)
+
+**Conclusions**
+
+The Underdog Effect, whereby later born players benefit more from a higher inherent challenge during the development phase, does not perhaps apply to all countries. We would need to know the level of Relative Age Effect for all 9 countries development pathways to understand this fully.
