@@ -14,16 +14,28 @@ In the current T10 League in Abu Dhabi there are 18 English & Irish male batters
 
 **Are Q1 batters more suited to shorter formats? What other evidence exists?**
 
-In male England T20I cricket 25% of players (2005-2020) were Q1 but this was the highest Birth Quarter (BQ) for accumulated matches within this cohort at 28% and Q1s had the longest careers.
+In male England **T20I** cricket **25%** of players (2005-2020) were Q1 but this was the highest Birth Quarter (BQ) for accumulated matches within this cohort at **28%** and Q1s had **the longest careers**.
 
-In male England ODI cricket 27% of players (2000-2020) were Q1 but these players only represented 22% of all matches played and had the shortest careers of all BQs.
+In male England **ODI** cricket **27%** of players (2000-2020) were Q1 but these players only represented **22%** of all matches played and had **the shortest careers** of all BQs.
 
-In male England Test cricket only 22% of players (2000-2020) were Q1, representing only 12.3% of all matches played. They also had the shortest careers.  
+In male England **Test** cricket only **22%** of players (2000-2020) were Q1, representing only **12.3%** of all matches played. They also had **the shortest careers**.  
 
-**When looking at the very best players in each format these distinctions are more clear.**(Best are Top 50 batters by Runs, approx top 10% of all players in Test cricket)
+**When looking at the very best players in each format these distinctions are more clear.**
+
+(Best are Top 50 batters by Runs, approx top 10% of all players in Test cricket)
 
 In Test cricket only 14% of players are Q1s and they make up a similar number of overall matches played by this cohort.
 
 ![](top-50-male-england-test-batters-by-runs.png)
 
 ODI & T20 data to follow.
+
+**Conclusions**
+
+Q1 batters seem to be more effective at progressively shorter forms of the game and vice versa.
+
+Q1 players are the oldest in an age group and have often dominated junior cricket, both in terms of over-selection, and in terms of performance. Have they had it to easy in training and match play? Has the level of challenge been lower than all other BQs?
+
+Have Q1s learnt the wrong skills for the longer formats such as concentration, tactical play, resilience, 'mental toughness'? Do they succeed early by being more aggressive and does this become 'the cricketer they are' i.e. that is always their game plan?
+
+Is there a Q1 psychological profile that explains these phenomenon? Do the other Birth Quarters have a different profile? Is there a linear relationship between the BQs?
