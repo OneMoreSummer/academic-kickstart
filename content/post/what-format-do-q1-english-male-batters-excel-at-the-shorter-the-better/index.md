@@ -24,7 +24,7 @@ In male England **Test** cricket only **22%** of players (2000-2020) were Q1, re
 
 (Best are Top 50 batters by Runs, approx top 10% of all players in Test cricket)
 
-In Test cricket only 14% of players are Q1s and they make up a similar number of overall matches played by this cohort.
+In **Test** cricket only **14%** of players are Q1s and they make up a similar number of overall matches played by this cohort.
 
 ![](top-50-male-england-test-batters-by-runs.png)
 
