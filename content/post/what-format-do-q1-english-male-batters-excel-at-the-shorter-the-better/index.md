@@ -34,7 +34,7 @@ ODI & T20 data to follow.
 
 Q1 batters seem to be more effective at progressively shorter forms of the game and vice versa.
 
-Q1 players are the oldest in an age group and have often dominated junior cricket, both in terms of over-selection, and in terms of performance. Have they had it to easy in training and match play? Has the level of challenge been lower than all other BQs?
+Q1 players are the oldest in an age group and have often dominated junior cricket, both in terms of over-selection, and in terms of performance. Have they had it too easy in training and match play? Has the level of challenge been lower than all other BQs?
 
 Have Q1s learnt the wrong skills for the longer formats such as concentration, tactical play, resilience, 'mental toughness'? Do they succeed early by being more aggressive and does this become 'the cricketer they are' i.e. that is always their game plan?
 
