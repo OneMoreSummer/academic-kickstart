@@ -28,7 +28,7 @@ In T20I cricket only **20%** of players selected are Q1 but they make up a massi
 
 ![](top-50-male-england-t20i-batters-by-runs.png)
 
-In ODI cricket Q1s represent a **24%** and score **23.75%** of all runs. So around about average. 
+In ODI cricket Q1s represent **24%** of players and score **23.75%** of all runs. So around about average. 
 
 ![](top-50-male-england-odi-batters-by-runs.png)
 
