@@ -26,10 +26,6 @@ The following looks at the top 50 run scorers ever in the 3 formats.
 
 In T20I cricket only **20%** of players selected are Q1 but they make up a massive **36%** of all runs scored. On average every Q1, in this cohort, scores 750 T20I runs whereas the other BQs only score 332, 346 & 313. 
 
-![](top-50-male-england-test-batters-by-runs.png)
-
- 
-
 ![](top-50-male-england-t20i-batters-by-runs.png)
 
 In ODI cricket Q1s represent a **24%** and score **23.75%** of all runs. So around about average. 
