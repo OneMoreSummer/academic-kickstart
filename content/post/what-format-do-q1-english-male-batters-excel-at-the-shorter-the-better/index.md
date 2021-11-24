@@ -20,7 +20,7 @@ In male England **ODI** cricket **27%** of players (2000-2020) were Q1 but these
 
 In male England **Test** cricket only **22%** of players (2000-2020) were Q1, representing only **12.3%** of all matches played. They also had **the shortest careers**.  
 
-**When looking at the very best players in each format these distinctions are more clear.** 
+**When looking at the very best batters in each format these distinctions are more clear.** 
 
 The following looks at the top 50 run scorers ever in the 3 formats.
 
