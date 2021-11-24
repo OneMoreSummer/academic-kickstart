@@ -42,6 +42,8 @@ Q1 batters seem to be more effective at progressively shorter forms of the game 
 
 Q1 players are the oldest in an age group and have often dominated junior cricket, both in terms of over-selection, and in terms of performance. Have they had it too easy in training and match play? Has the level of challenge been lower than all other BQs? Are Q1s an example of the opposite of the [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/) and this is an Overdog Effect?
 
-Have Q1s learnt the wrong skills for the longer formats such as concentration, tactical play, resilience, 'mental toughness'? Do they succeed early by being more aggressive and does this become 'the cricketer they are' i.e. that is always their game plan?
+Do Q1s succeed early by being more aggressive and does this become 'the cricketer they are' i.e. that is always their game plan? Have they learnt the wrong skills? Are the skills they are good at more appropriate for short form cricket?
+
+Have Q1s not worked as hard at developing the skills required for Test cricket, concentration, tactical play, resilience and 'mental toughness'? 
 
 Is there a Q1 psychological profile that explains these phenomenon? Do the other Birth Quarters have a different profile? Is there a linear relationship between the BQs?
