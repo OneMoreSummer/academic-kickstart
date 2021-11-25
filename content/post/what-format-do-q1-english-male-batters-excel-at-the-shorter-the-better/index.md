@@ -12,7 +12,7 @@ image:
 <meta name="twitter:site" content="@nothirdman" />
 <meta name="twitter:title" content="What format do Q1 English male batters excel at? The shorter the better?" />
 <meta name="twitter:description" content="Q1 Batters are over-represented in short format cricket and under-represented in longer formats." />
-<meta name="twitter:image" content="http://onemoresummer.co.uk/post/what-format-do-q1-english-male-batters-excel-at-the-shorter-the-bette/[t10-league-english-irish-batters-by-birth-quarter-n-18-](https://onemoresummer.co.uk/post/what-format-do-q1-english-male-batters-excel-at-the-shorter-the-better/t10-league-english-irish-batters-by-birth-quarter-n-18-.png).png" />
+<meta name="twitter:image" content="http://onemoresummer.co.uk/post/what-format-do-q1-english-male-batters-excel-at-the-shorter-the-better/[t10-league-english-irish-batters-by-birth-quarter-n-18-](https://onemoresummer.co.uk/post/what-format-do-q1-english-male-batters-excel-at-the-shorter-the-better/t10-league-english-irish-batters-by-birth-quarter-n-18-.png).png" />
 
 In the current T10 League in Abu Dhabi there are 18 English & Irish male batters (some are all rounders). An incredible 61% are from Birth Quarter 1 (Sep-Nov).
 
