@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In international cricket male English later borns DO NOT do better than early borns.
+In international cricket, male English later borns DO NOT do better than early borns.
 
 In general middle born (Q2 & Q3) do better with the following exceptions:
 
@@ -20,12 +20,6 @@ Q1 best for T20 batting
 Q4 equal to Q2/Q3 for ODI bowling
 
 Q4 equal to Q2/Q3 for Test batting
-
-**Introduction**
-
-In progress...
-
-Gibbs, Jarvis, and Dufur (2012) describe an ‘Underdog Effect’ when offering a possible explanation for low levels of Q1 players found in Canadian Hockey All Star and Olympic teams i.e. the very highest levels of the sport. McCarthy, Collins & Court (2015)   
 
 **\
 What data have you used?**
