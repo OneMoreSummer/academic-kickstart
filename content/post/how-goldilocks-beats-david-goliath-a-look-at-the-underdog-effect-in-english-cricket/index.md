@@ -48,10 +48,12 @@ Contrary to popular belief Q4s are under-represented in English national cricket
 
 Two linear relationships appear. Q4s appear to be best at Test cricket and worst at T20I for both batting and bowling. In contrast, Q1s appear to be best at T20I and worst at Test batting.
 
-Q2 & Q3 are the most consistent BQs. For batting they are the best for Tests & ODI. For bowling they are consistent performers while there seems to be a linear relationship whereby Q2 & Q3 are more appropriate for shorter formats.
+Q2 & Q3 are the most consistent BQs and are very similar in all formats and role. For batting they are the best for Tests & ODI. For bowling they are consistent performers while there seems to be a linear relationship whereby Q2 & Q3 are more appropriate for shorter formats.
 
 It is difficult to argue that there is a Q4 Underdog Effect in male English batting and bowling in ODI & T20Is. Only in Test bowling do Q4s dominate at this level.
 
 For batting it could be argued that there is an Overdog Effect for Q1s. They significantly under-perform at Test level, are second to Q2/Q3s in ODIs and only excel in T20I.
 
-In David v Goliath, David is represented by the less developed/under represented Q4s in development pathways. Goliath is represented by the more developed and over represented Q1s. But perhaps the real winners, in most instances, are the Q2 & Q3 players. They have had a 'just right' development journey with a balance between challenge and opportunity, a Goldilocks Effect.
+In David v Goliath, David is represented by the less developed/under represented Q4s in development pathways. Goliath is represented by the more developed and over represented Q1s. The Q4 Davids have had to struggle in the system and consequently may have had fewer opportunites
+
+But perhaps the real winners, in most instances, are the Q2 & Q3 players. They have had a 'just right' development journey with a balance between challenge and opportunity, a Goldilocks Effect.
