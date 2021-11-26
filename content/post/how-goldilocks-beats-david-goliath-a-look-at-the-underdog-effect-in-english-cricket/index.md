@@ -32,6 +32,8 @@ What data have you used?**
 
 An analysis of the Birth Quarters of the Top 50 batters by runs and bowlers by wickets for each of the formats (Test, ODI & T20I) was undertaken.
 
+This data is derived from all male England players (Test n=699, ODI n=263, T20I n=91). 
+
 **Results**
 
 ![](top-50-male-england-batters-by-runs-runs-.png)
@@ -53,3 +55,5 @@ Contrary to popular belief Q4s are under-represented in English national cricket
 Two linear relationships appear. Q4s appear to be best at Test cricket and worst at T20I for both batting nad bowling. In contrst, Q1s appear to be best at T20I and worst at Test batting.
 
 Q2 & Q3 are the most consistent BQs. For batting they are the best for Tests & ODI. For bowling they are consistent performers while there seems to be a linear relationship whereby Q2 & Q3 are more appropriate for shorter formats.
+
+It is difficult to argue that there is a Q4 Underdog Effect in male English batting and bowling in ODI & T20Is. Only in Test bowling do Q4s dominate at this level.
