@@ -50,7 +50,7 @@ What do we see when we combine the BQs into a comparison between early born, H1 
 
 ![](bowling-half-year-effects.png)
 
-H2 perform better in 3 of the 6 format/role combinations. H2 are better at Test batting & bowling and ODI bowling. H1 are better at ODI batting and T20I batting & bowling. These effects are mostly due to variable effects from Q1 and Q4. Q2 & Q3 are far more similar to each other and consistent across the study. 
+H2 perform better in  only 3 of the 6 format/role combinations. H2 are better at Test batting & bowling and ODI bowling. H1 are better at ODI batting and T20I batting & bowling. These effects are mostly due to variable effects from Q1 and Q4. Q2 & Q3 are far more similar to each other and consistent across the study. 
 
 There is a noticeable linear relationship between Half Year and Format. H1 perform better the shorter the format and H2 perform better the longer the format.
 
