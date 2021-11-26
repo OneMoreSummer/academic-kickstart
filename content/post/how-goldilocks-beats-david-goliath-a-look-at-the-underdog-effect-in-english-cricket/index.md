@@ -44,7 +44,7 @@ This data is derived from all male England players (Test n=699, ODI n=263, T20I 
 
 This only applies to English cricket. Differences in Relative Age Effect profiles have been found across the world and further investigation is required to see if normal RAE exists, or if a Goldilocks or Underdog Effect is dominant. 
 
-T20I bowlers were only n=44. The first match of this format for the England men’s team was only in 2005.
+T20I bowlers were only n=44. The first match of this format for the England men’s team was only in 2005 and only 91 players have ever played.
 
 Analysis for ODI & T20I effectiveness could be carried out by Strike Rates for batters and Economy rates for bowlers but for a comparison between all three formats, then runs and wickets were chosen.
 
