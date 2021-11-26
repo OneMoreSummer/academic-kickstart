@@ -50,6 +50,8 @@ What do we see when we combine the BQs into a comparison between early born, H1 
 
 ![](bowling-half-year-effects.png)
 
+H2 perform better in 3 of the 6 format/role combinations. H2 are better at Test batting & bowling and ODI bowling. H1 are better at ODI batting and T20I batting & bowling. These effects are mostly due to variable effects from Q1 and Q4. Q2 & Q3 are far more similar to each other and consistent across the study.  
+
 **Limitations**
 
 This only applies to English cricket. Differences in [Relative Age Effect](https://onemoresummer.co.uk/post/what-is-relative-age-effect/) profiles have been found [across the world](https://onemoresummer.co.uk/post/do-late-born-players-really-excel-in-elite-cricket-part-3-does-country-matter/) and further investigation is required to see if normal RAE exists, or if a Goldilocks or Underdog Effect is dominant. 
