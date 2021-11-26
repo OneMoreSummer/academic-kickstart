@@ -70,6 +70,6 @@ The Underdog Effect suggests later born reach the very highest levels more often
 
 An Overdog Effect is the opposite of an Underdog Effect, whereby early born have not been challenged enough during their development and then do not possess the required skills to reach the very highest levels. For batting it could be argued that there is an Overdog Effect for Q1s. They significantly under-perform at Test level, are second to Q2/Q3s in ODIs and only excel in T20I.
 
-Using David v Goliath as analogy, David is represented by the less developed/under represented Q4s in development pathways. Goliath is represented by the more developed and over represented Q1s. The Q4 Davids have had to struggle in the system and consequently may have had fewer opportunities
+Using David v Goliath as analogy, David is represented by the less developed/under represented Q4s in development pathways. Goliath is represented by the more developed and over represented Q1s. The Q4 Davids have had to struggle in the system and consequently may have had fewer opportunities. The Q1 Goliaths have been over-represented in the system and having had many opportunities have not developed enough through being constantly under challenged.
 
 But perhaps the real winners, in most instances, are the Q2 & Q3 players. They have had a 'just right' development journey with a balance between challenge and opportunity, a Goldilocks Effect.
