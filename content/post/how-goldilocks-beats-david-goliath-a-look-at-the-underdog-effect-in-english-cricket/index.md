@@ -9,6 +9,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nothirdman" />
+<meta name="twitter:title" content="How Goldilocks beats David & Goliath. A look at the Underdog Effect in English Cricket />
+<meta name="twitter:description" content="Q2 & Q3 reach higher levels overall in male English cricket" />
+<meta name="twitter:image" content="http://https://onemoresummer.co.uk/post/how-goldilocks-beats-david-goliath-a-look-at-the-underdog-effect-in-english-cricket/top-50-male-england-batters-by-runs-runs-.png" />
+
+Highlights:[](https://onemoresummer.co.uk/post/how-goldilocks-beats-david-goliath-a-look-at-the-underdog-effect-in-english-cricket/top-50-male-england-batters-by-runs-runs-.png)
+
 In international cricket, male English later borns DO NOT do better than early borns.
 
 In general middle born (Q2 & Q3) do better with the following exceptions:
