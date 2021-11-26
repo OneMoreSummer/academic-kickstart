@@ -30,7 +30,7 @@ Q4 equal to Q2/Q3 for ODI bowling
 Q4 equal to Q2/Q3 for Test batting
 
 **\
-What data have you used?**
+What data has been used?**
 
 An analysis of the [Birth Quarters](https://onemoresummer.co.uk/post/what-is-birth-quarter/) (BQ) of the Top 50 batters by runs and bowlers by wickets for each of the formats (Test, ODI & T20I) was undertaken.
 
