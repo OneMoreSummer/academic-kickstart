@@ -46,7 +46,7 @@ Analysis for ODI & T20I effectiveness could be carried out by Strike Rates for b
 
 Contrary to popular belief Q4s are under-represented in English national cricket teams for ODI batting & T20 batting and bowling. Q4s are equally represented in Test match batting and ODI bowling to Q2 & Q3 and only excel in Test match bowling.
 
-Two linear relationships appear. Q4s appear to be best at Test cricket and worst at T20I for both batting nad bowling. In contrst, Q1s appear to be best at T20I and worst at Test batting.
+Two linear relationships appear. Q4s appear to be best at Test cricket and worst at T20I for both batting and bowling. In contrst, Q1s appear to be best at T20I and worst at Test batting.
 
 Q2 & Q3 are the most consistent BQs. For batting they are the best for Tests & ODI. For bowling they are consistent performers while there seems to be a linear relationship whereby Q2 & Q3 are more appropriate for shorter formats.
 
