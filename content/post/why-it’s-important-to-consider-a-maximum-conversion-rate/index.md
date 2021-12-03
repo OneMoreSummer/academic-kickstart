@@ -22,6 +22,6 @@ The only outcome where Q1 could have a CR higher than Q4 is when there are zero 
 
 **CRs for uneven groups cannot be compared. Each group has its own maximum CR and different values for every player selected. In this example each Q1 player adds just 2% but each Q4 player 20%. They are different scales. Perhaps a better comparison would be percentage of Max CR?**
 
-Evidence for the [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/) is from showing higher CRs for later born players. This however isn't necessarily all down to the greater challenge experienced. Other factors are probably at play such as a natural [Selection Concentration Effect](https://onemoresummer.co.uk/post/is-the-selection-concentration-effect-a-large-part-of-the-underdog-effect/). 
+Thus, be very careful when comparing Conversion Rates with a starting imbalance in the cohort. 
 
-Thus, be very careful when comparing Conversion Rates with a starting imbalance in the cohort.
+Other factors are involved in the [Underdog Effect](https://onemoresummer.co.uk/post/what-is-the-underdog-effect/), other than challenge, such as a natural [Selection Concentration Effect](https://onemoresummer.co.uk/post/is-the-selection-concentration-effect-a-large-part-of-the-underdog-effect/).
