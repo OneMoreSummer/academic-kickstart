@@ -18,7 +18,7 @@ Q1 50, Q2 30, Q3 15, Q4 5
 
 If all 10 players were selected from just one BQ then the maximum CR% for each BQ would be 20, 33, 67, 100.
 
-The only outcome where Q1 could have a CR higher than Q4 is when there are zero Q4s. If just 1 Q4 is selected then that is a CR of **20%**. In this instance even if all the remaining players were all Q1, the CR% for Q1 would only be **18%**. For Q4:Q1 at 2:8 CR is then 40% & 16% respectively and so on. 
+The only outcome where Q1 could have a CR higher than Q4 is when there are zero Q4s. If just 1 Q4 is selected then that is a CR of **20%**. In this instance even if all the remaining players were all Q1, the CR% for Q1 would only be **18%**. For Q1:Q4 at 8:2 CR is then 16% & 40% respectively and so on. 
 
 **CRs for uneven groups cannot be compared. Each group has its own maximum CR and different values for every player selected. In this example each Q1 player adds just 2% but each Q4 player 20%. They are different scales. Perhaps a better comparison would be percentage of Max CR?**
 
