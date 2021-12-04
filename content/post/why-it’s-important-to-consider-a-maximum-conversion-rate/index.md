@@ -20,7 +20,7 @@ If we try to fill the 10 available spaces from just one BQ then the maximum CR% 
 
 The only outcome where Q1 could have a CR higher than Q4 is when there are zero Q4s. If just 1 Q4 is selected then that is a CR of **20%**. In this instance even if all the remaining players were all Q1, the CR% for Q1 would only be **18%**. For Q1:Q4 at 8:2 CR is then 16% & 40% respectively and so on. 
 
-**CRs for uneven groups cannot be compared. Each group has its own maximum CR and different values for every player selected. In this example each Q1 player adds just 2% but each Q4 player 20%. They are different scales. Perhaps a better comparison would be a percentage of Max CR?**
+**CRs for uneven groups cannot be compared. Each group has its own maximum CR and different values for every player selected. In this example each Q1 player adds just 2% but each Q4 player 20%. They are different scales.**
 
 Thus, be very careful when comparing Conversion Rates with a starting imbalance in the cohort. 
 
