@@ -16,7 +16,7 @@ In this CR example 10 players are selected from a cohort of 100 players who are 
 
 Q1 50, Q2 30, Q3 15, Q4 5
 
-If all 10 players were selected from just one BQ then the maximum CR% for each BQ would be 20, 33, 67, 100.
+If we try to fill the 10 available spaces from just one BQ then the maximum CR% for each BQ would be **20, 33, 67, 100**. (Obviously if all 5 Q4 are selected we would need 5 from other BQs.)
 
 The only outcome where Q1 could have a CR higher than Q4 is when there are zero Q4s. If just 1 Q4 is selected then that is a CR of **20%**. In this instance even if all the remaining players were all Q1, the CR% for Q1 would only be **18%**. For Q1:Q4 at 8:2 CR is then 16% & 40% respectively and so on. 
 
