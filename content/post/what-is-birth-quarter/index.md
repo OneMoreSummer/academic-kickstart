@@ -25,7 +25,7 @@ The academic year is also used for age grouping in UK cricket.
 Other countries around the world use different start dates for Quarter 1:
 
 January/February
-Australia, New Zealand, South Africa, Zimbabwe
+Australia, New Zealand, South Africa, Zimbabwe, Scotland
 
 April
 India
