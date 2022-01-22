@@ -31,6 +31,6 @@ April
 India
 
 September
-UK, Afghanistan, Bangladesh, Pakistan, Sri Lanka, West Indies, Ireland
+UK (not Scotland), Afghanistan, Bangladesh, Pakistan, Sri Lanka, West Indies, Ireland
 
 * This is part of a library of [What Is](https://onemoresummer.co.uk/post/the-what-is-series/) descriptions on this site.
