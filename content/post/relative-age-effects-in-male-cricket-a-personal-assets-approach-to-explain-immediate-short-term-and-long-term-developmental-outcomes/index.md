@@ -92,3 +92,5 @@ Participation: More younger players dropout/not selected in junior development. 
 
 **\
 For all coaches & administrators working in cricket: RAE is a development system error that is discriminatory against thousands of children and young adults each and every year.**
+
+**Full Paper:** [mdpi.com/2075-4663/10/3/39/htm](https://www.mdpi.com/2075-4663/10/3/39/htm) (Free access)
