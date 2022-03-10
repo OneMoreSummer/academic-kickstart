@@ -19,6 +19,8 @@ RAE highest at U15 but still high at U19 too. More likely to be Q1 than Q4 by 3.
 
 ![](https://lh6.googleusercontent.com/wQYz-fQa_3MCAfP91w0RURNtyCl5BiR76Q1CsLfzX6dnYuOAborrcLpuynKaQ6k8ElxCfVOkQBFXoNG5S8OCJLBl0iNc5FO2D_I-m4UWVtk1f3l80N_qHBS20yg7yJs8axCyzt-A)
 
+![](england-lions-t20-odi-test-teams-half-year-.png)
+
 **Short Term Timescale (PAF):**
 
 A higher % within the smaller groups of later born junior cricketers transition to senior levels. 
@@ -54,8 +56,6 @@ Test bowlers Q4 play most matches, 48%.
 
 When the three dynamic elements of the PAF (i.e., personal engagement in activities, appropriate settings and organizational structures, and quality social dynamics) interact with one another, an immediate sporting experience is created. This has a subsequent impact on developmental opportunities in youth cricket, and thus can help explain how RAEs occur during the immediate timescale.
 
-
-
 **Personal Engagement in Activities**
 
 RAEs are prevalent from early childhood in sport and are amplified in environments that favour practice over play, specialisation over sampling, and early selection based on immediate performance over long-term potential.
@@ -74,8 +74,6 @@ Quality Social Dynamics**
 
 Parents, coaches, and athletes (i.e., social agents) can amplify or mitigate RAEs in youth sports via the Matthew, Pygmalion & Galatea effects.
 
-
-
 **Short-Term Timescale: The 4Cs (Competence, Confidence, Connection & Character)**
 
 Early competence for older borns leads to more opportunities.
@@ -85,8 +83,6 @@ Limited opportunities for later born leads to reduced confidence,  dropout & de
 Coaches gravitate to more competent/confident older born.
 
 Increased leadership opportunities for older born.
-
-
 
 **Long-Term Timescale: The 3Ps (Performance, Participation & Player Development)**
 
