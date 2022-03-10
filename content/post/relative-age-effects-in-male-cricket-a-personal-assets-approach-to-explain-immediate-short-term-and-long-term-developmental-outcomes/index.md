@@ -25,7 +25,7 @@ RAE highest at U15 but still high at U19 too. More likely to be Q1 than Q4 by 3.
 
 A higher % within the smaller groups of later born junior cricketers transition to senior levels. 
 
-Q4 U15s more likely to reach international levels than Q1s by 3.9x for Lions, 3.1x for T20, 2.5x for ODI & 3.6x for Test.
+Q4 U15s more likely to reach international levels than Q1s by **3.9x** for Lions, **3.1x** for T20, **2.5x** for ODI & 3.6x for Test.
 
 **\
 Long Term Timescale (PAF)**
