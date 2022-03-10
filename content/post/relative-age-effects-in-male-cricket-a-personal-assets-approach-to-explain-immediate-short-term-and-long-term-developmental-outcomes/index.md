@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This is a longitudinal study (n=1800) of English male cricketers from Regional U15 thru to International with up to 20 years of data, using the Personal Assets Framework (PAF) to examine immediate, short-term and long term outcomes. 
+This was a longitudinal study (n=1800) of English male cricketers from Regional U15 thru to International with up to 20 years of data, using the Personal Assets Framework (PAF) to examine immediate, short-term and long term outcomes. 
 
 **Immediate Timescale (PAF):**
 
