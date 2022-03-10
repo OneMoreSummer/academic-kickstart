@@ -99,6 +99,6 @@ Performance: Relatively older batters outperforming relatively younger batters &
 Participation: More younger players dropout/not selected in junior development. Higher % younger players get to international level from those in the development cohort. 
 
 **\
-For all coaches & administrators working in cricket: RAE is a development system error that is discriminatory against thousands of children and young adults each and every year.**
+For all coaches & administrators working in cricket: RAE is a development system error that is discriminatory against thousands of children and young adults each and every year and has immediate, short-term & long-term outcome effects.**
 
 **Full Paper:** [mdpi.com/2075-4663/10/3/39/htm](https://www.mdpi.com/2075-4663/10/3/39/htm) (Free access)
