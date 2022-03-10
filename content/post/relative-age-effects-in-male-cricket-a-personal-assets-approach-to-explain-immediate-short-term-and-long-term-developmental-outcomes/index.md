@@ -52,9 +52,13 @@ ODI bowlers Q3 & Q4 play 67% of matches.
 
 Test bowlers Q4 play most matches, 48%.
 
+
+
 **Immediate Timescale: How Sport Experiences Are Shaped**
 
 When the three dynamic elements of the PAF (i.e., personal engagement in activities, appropriate settings and organizational structures, and quality social dynamics) interact with one another, an immediate sporting experience is created. This has a subsequent impact on developmental opportunities in youth cricket, and thus can help explain how RAEs occur during the immediate timescale.
+
+
 
 **Personal Engagement in Activities**
 
@@ -74,6 +78,8 @@ Quality Social Dynamics**
 
 Parents, coaches, and athletes (i.e., social agents) can amplify or mitigate RAEs in youth sports via the Matthew, Pygmalion & Galatea effects.
 
+
+
 **Short-Term Timescale: The 4Cs (Competence, Confidence, Connection & Character)**
 
 Early competence for older borns leads to more opportunities.
@@ -83,6 +89,8 @@ Limited opportunities for later born leads to reduced confidence,  dropout & de
 Coaches gravitate to more competent/confident older born.
 
 Increased leadership opportunities for older born.
+
+
 
 **Long-Term Timescale: The 3Ps (Performance, Participation & Player Development)**
 
