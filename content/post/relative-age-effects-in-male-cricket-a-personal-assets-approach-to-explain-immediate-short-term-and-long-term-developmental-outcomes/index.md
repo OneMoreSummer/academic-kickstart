@@ -9,6 +9,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nothirdman" />
+<meta name="twitter:title" content="Relative Age Effects in Male Cricket: A Personal Assets Approach to Explain Immediate, Short-Term, and Long-Term Developmental Outcomes" />
+<meta name="twitter:description" content="Relative Age Effect in male English cricket pathway" />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/relative-age-effects-in-male-cricket-a-personal-assets-approach-to-explain-immediate-short-term-and-long-term-developmental-outcomes/ecb-junior-pathway-half-year-%s-.png" />
+
 This was a longitudinal study (n=1800) of English male cricketers from Regional U15 thru to International with up to 20 years of data, using the Personal Assets Framework (PAF) to examine immediate, short-term and long term outcomes. 
 
 **Immediate Timescale (PAF):**
@@ -52,13 +58,9 @@ ODI bowlers Q3 & Q4 play 67% of matches.
 
 Test bowlers Q4 play most matches, 48%.
 
-
-
 **Immediate Timescale: How Sport Experiences Are Shaped**
 
 When the three dynamic elements of the PAF (i.e., personal engagement in activities, appropriate settings and organizational structures, and quality social dynamics) interact with one another, an immediate sporting experience is created. This has a subsequent impact on developmental opportunities in youth cricket, and thus can help explain how RAEs occur during the immediate timescale.
-
-
 
 **Personal Engagement in Activities**
 
@@ -78,8 +80,6 @@ Quality Social Dynamics**
 
 Parents, coaches, and athletes (i.e., social agents) can amplify or mitigate RAEs in youth sports via the Matthew, Pygmalion & Galatea effects.
 
-
-
 **Short-Term Timescale: The 4Cs (Competence, Confidence, Connection & Character)**
 
 Early competence for older borns leads to more opportunities.
@@ -89,8 +89,6 @@ Limited opportunities for later born leads to reduced confidence,  dropout & de
 Coaches gravitate to more competent/confident older born.
 
 Increased leadership opportunities for older born.
-
-
 
 **Long-Term Timescale: The 3Ps (Performance, Participation & Player Development)**
 
