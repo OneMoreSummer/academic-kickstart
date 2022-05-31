@@ -29,6 +29,8 @@ What level of RAE, if any, is required to optimise an underdog effect?
 
 What are the mechanisms of an underdog effect?
 
+
+
 If we have good answers to most/all of these questions then we may have a construct we can reference, the Underdog Effect. If the answers are weak or unsure then we don’t. What we do currently have is a **hypothesis**, the Underdog Hypothesis (UH), first offered by Gibbs, Jarvis & Dufur (2012) when studying ice hockey. They state ‘*relatively younger players are thought to benefit by more competitive play with their older counterparts*’
 
 These are things we know very little about, yet, the flimsy and highly questionable ‘evidence’ for the UH is often used as a reason for not addressing the RAE for which there is 40 years of solid evidence.
