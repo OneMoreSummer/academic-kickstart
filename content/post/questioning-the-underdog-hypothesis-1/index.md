@@ -19,7 +19,7 @@ Do relatively more later born become professional?
 
 Who do we mean when we say early born? Q1 only or Q1/Q2?
 
-Is it acceptable to call Q2 later born because we are comparing it with Q1? Or Q3 v Q4?
+Is it acceptable to call Q2 later born because we are comparing it with Q1? Or Q3 early born when comparing to Q4?
 
 Does maturation, as well as Relative Age Effect (RAE), play a role in rates of junior/senior transition and reaching the top of a sport? 
 
