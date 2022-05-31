@@ -54,3 +54,5 @@ Let’s look further:
 3. Career lengths in years were Q1 6.9 (-7%), Q2 7.6 (+3%), Q3 7.4 (0) & Q4 7.8 (+5%). Q2 is similar to Q4. Arguably it’s Q1 that is a weak standout. Gibbs et al state their findings were in contrast to findings from Wattie et al (2007).
 
 Do these findings support any answers to the questions at the beginning of the article???
+
+Can we say Q4 > Q3 > Q2 > Q1 in reaching the highest levels in ice hockey? Are there more Q4 professionals? Do relatively more Q4s become professional merely because a lot of already overselected Q1s don't? Food for thought.
