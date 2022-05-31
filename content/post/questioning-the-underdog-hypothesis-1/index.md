@@ -13,7 +13,7 @@ image:
 <meta name="twitter:site" content="@nothirdman" />
 <meta name="twitter:title" content="Questioning the Underdog Hypothesis 1" />
 <meta name="twitter:description" content="The first in a series of article questioning the Underdog Hypothesis starting with Gibbs et al 2012 investigation into ice hockey." />
-<meta name="twitter:image" content="http://onemoresummer.co.uk/post/\*\*questioning-the-underdog-hypothesis-1/\*\*(https://onemoresummer.co.uk/post/\*\*questioning-the-underdog-hypothesis-1\*\*/x.png" />
+<meta name="twitter:image" content="http://onemoresummer.co.uk/post/\*\*questioning-the-underdog-hypothesis-1/\*\*(https://onemoresummer.co.uk/post/\*\*questioning-the-underdog-hypothesis-1\*\*/gibbsfigure1-.png" />
 
 Do later born benefit more from the development process than early born?
 
