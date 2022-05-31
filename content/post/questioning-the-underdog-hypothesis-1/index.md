@@ -54,3 +54,5 @@ Let’s look further:
 Do these findings support any answers to the questions at the beginning of the article???
 
 Can we say Q4 > Q3 > Q2 > Q1 in reaching the highest levels in ice hockey? Are there more Q4 professionals? Do relatively more Q4s become professional merely because a lot of already overselected Q1s don't? Food for thought.
+
+[Full Paper (Open Access)](https://www.researchgate.net/publication/257333561_The_Rise_of_the_Underdog_The_Relative_Age_Effect_Reversal_Among_Canadian-born_NHL_Hockey_Players_A_Reply_to_Nolan_and_Howell)
