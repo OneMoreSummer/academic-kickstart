@@ -13,7 +13,7 @@ image:
 <meta name="twitter:site" content="@nothirdman" />
 <meta name="twitter:title" content="Questioning the Underdog Hypothesis 1" />
 <meta name="twitter:description" content="The first in a series of article questioning the Underdog Hypothesis starting with Gibbs et al 2012 investigation into ice hockey." />
-<meta name="twitter:image" content="http://onemoresummer.co.uk/post/**questioning-the-underdog-hypothesis-1/**(https://onemoresummer.co.uk/post/**questioning-the-underdog-hypothesis-1**/x.png" />
+<meta name="twitter:image" content="http://onemoresummer.co.uk/post/\*\*questioning-the-underdog-hypothesis-1/\*\*(https://onemoresummer.co.uk/post/\*\*questioning-the-underdog-hypothesis-1\*\*/x.png" />
 
 Do later born benefit more from the development process than early born?
 
@@ -44,6 +44,8 @@ This is the first in a series of articles that examine the research that is ofte
 **Gibbs, Jarvis & Dufur (2012)**
 
 A study of RAE in male Canadian born National (Ice) Hockey League (NHL) professionals and those (the best) that played for the annual All Stars team and Olympic squads.
+
+![](gibbsfigure1.png)
 
 Main findings:
 
