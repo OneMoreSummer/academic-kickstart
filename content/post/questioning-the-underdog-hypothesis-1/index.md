@@ -9,6 +9,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nothirdman" />
+<meta name="twitter:title" content="Questioning the Underdog Hypothesis 1" />
+<meta name="twitter:description" content="The first in a series of article questioning the Underdog Hypothesis starting with Gibbs et al 2012 investigation into ice hockey." />
+<meta name="twitter:image" content="http://onemoresummer.co.uk/post/**questioning-the-underdog-hypothesis-1/**(https://onemoresummer.co.uk/post/**questioning-the-underdog-hypothesis-1**/x.png" />
+
 Do later born benefit more from the development process than early born?
 
 Do later born reach the highest levels of a sport more than early born?
