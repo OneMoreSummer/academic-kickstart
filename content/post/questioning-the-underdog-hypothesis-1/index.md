@@ -15,7 +15,7 @@ Do later born reach the highest levels of a sport more than early born?
 
 Do more later born become professional?
 
-Do relatively more later born become professionals?
+Do relatively more later born become professional?
 
 Who do we mean when we say early born? Q1 only or Q1/Q2?
 
