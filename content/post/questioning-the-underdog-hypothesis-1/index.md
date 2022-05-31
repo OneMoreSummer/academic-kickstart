@@ -51,4 +51,4 @@ Let’s look further:
 2. Again no other BQ%s are stated. Average career length in the NHL according to Gibbs is 7.4 years but some players play into their 40s. So a lot of players are released before 7 years and a gradual number of players retire after 7 years. We know RAE declines slowly. Players selected for the All Stars and Olympic teams that Gibbs looked at were probably selected from players in their prime. It is likely that the RAE profile for this age group is different (lower?) than that for the entire professional cohort. 17% Q1 at the highest levels is then less of a surprise when compared to this source population (prime). 
 3. Career lengths in years were Q1 6.9 (-7%), Q2 7.6 (+3%), Q3 7.4 (0) & Q4 7.8 (+5%). Q2 is similar to Q4. Arguably it’s Q1 that is a weak standout. Gibbs et al state their findings were in contrast to findings from Wattie et al (2007).
 
-Do these findings support any answers to the questions at the beginning of the article?
+Do these findings support any answers to the questions at the beginning of the article???
