@@ -23,7 +23,7 @@ Is it acceptable to call Q2 later born because we are comparing it with Q1? Or Q
 
 Does maturation, as well as Relative Age Effect (RAE), play a role in rates of junior/senior transition and reaching the top of a sport? 
 
-When does tan underdog effect begin? Is it relative to RAE levels?
+When does the underdog effect begin? Is it relative to RAE levels?
 
 What level of RAE, if any, is required to optimise an underdog effect?
 
