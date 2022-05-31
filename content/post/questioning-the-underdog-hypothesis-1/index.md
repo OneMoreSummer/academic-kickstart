@@ -35,7 +35,7 @@ If we have good answers to most/all of these questions then we may have a constr
 
 These are things we know very little about yet. Surprisingly, the highly questionable ‘evidence’ for the UH is often used as a reason for not addressing the RAE for which there is 40 years of solid evidence.
 
-This is first in a series of articles that examine the research that is often quoted for the UH. Recent research has begun to assume the UH as a proven finding. Quick heads up, it’s not.
+This is the first in a series of articles that examine the research that is often quoted for the UH. Recent research has begun to assume the UH as a proven finding. Quick heads up, it’s not.
 
 **Gibbs, Jarvis & Dufur (2012)**
 
