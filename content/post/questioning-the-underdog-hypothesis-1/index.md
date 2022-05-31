@@ -44,7 +44,7 @@ A study of RAE in male Canadian born National (Ice) Hockey League (NHL) professi
 Main findings:
 
 1. a lower level of Q1 (28%) in professional ice hockey than the levels in junior ice hockey (40%).
-2. a lower level of Q1 (17%) in the very highest level teams than in both junior ice hockey (40%) and (probably) compared to Q2, Q3 & Q4 in the professional league.
+2. a lower level of Q1 (17%) in the very highest level teams, All Stars & Olympic squads, than in both junior ice hockey (40%) and (probably) compared to Q2, Q3 & Q4 in the professional league.
 3. Higher career length for later born.
 
 Let’s look further:
