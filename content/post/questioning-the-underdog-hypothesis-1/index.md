@@ -17,7 +17,7 @@ image:
 
 [What is the Underdog Hypothesis and why question it?](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-an-introduction/)
 
-**Gibbs, Jarvis & Dufur (2012)**
+**\#1 Gibbs, Jarvis & Dufur (2012)**
 
 A study of RAE in male Canadian born National (Ice) Hockey League (NHL) professionals and those (the best) that played for the annual All Stars team and Olympic squads.
 
