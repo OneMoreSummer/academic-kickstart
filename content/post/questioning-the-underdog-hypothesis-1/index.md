@@ -1,6 +1,6 @@
 ---
-title: Questioning the Underdog Hypothesis 1.
-subtitle: Gibbs, Jarvis & Dufur (2012)
+title: "Questioning the Underdog Hypothesis #1 Gibbs, Jarvis & Dufur (2012) "
+subtitle: ""
 date: 2022-05-31T10:45:41.212Z
 draft: false
 featured: false
