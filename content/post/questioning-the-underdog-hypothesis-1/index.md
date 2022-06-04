@@ -15,31 +15,7 @@ image:
 <meta name="twitter:description" content="The first in a series of article questioning the Underdog Hypothesis starting with Gibbs et al 2012 investigation into ice hockey." />
 <meta name="twitter:image" content="https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/gibbsfigure1.png" />
 
-Do later born benefit more from the development process than early born?
-
-Do later born reach the highest levels of a sport more than early born?
-
-Do more later born become professional?
-
-Do relatively more later born become professional?
-
-Who do we mean when we say early born? Q1 only or Q1/Q2?
-
-Is it acceptable to call Q2 later born because we are comparing it with Q1? Or Q3 early born when comparing to Q4?
-
-Does maturation, as well as Relative Age Effect (RAE), play a role in rates of junior/senior transition and reaching the top of a sport? 
-
-When does the underdog effect begin? Is it relative to RAE levels?
-
-What level of RAE, if any, is required to optimise an underdog effect?
-
-What are the mechanisms of an underdog effect?
-
-If we have good answers to most/all of these questions then we may have a construct we can reference, the Underdog Effect. If the answers are weak or unsure then we don’t. What we do currently have is a **hypothesis**, the Underdog Hypothesis (UH), first offered by Gibbs, Jarvis & Dufur (2012) when studying ice hockey. They state ‘*relatively younger players are thought to benefit by more competitive play with their older counterparts*’
-
-These are things we know very little about yet. Surprisingly, the highly questionable ‘evidence’ for the UH is often used as a reason for not addressing the RAE for which there is 40 years of solid evidence.
-
-This is the first in a series of articles that examine the research that is often quoted for the UH. Recent research has begun to assume the UH as a proven finding. Quick heads up, it’s not.
+[What is the Underdog Hypothesis and why question it?](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-an-introduction/)
 
 **Gibbs, Jarvis & Dufur (2012)**
 
