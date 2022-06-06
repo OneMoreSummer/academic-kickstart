@@ -24,7 +24,9 @@ A study, by birth quarter, of scores and salaries of National (Ice) Hockey Leagu
 
 ![](ice-hockey.jpg "Hockey player photo created by master1305 - www.freepik.com")
 
-Main findings:
+[(Hockey player photo created by master1305 - www.freepik.com)](https://www.freepik.com/photos/hockey-player)
+
+[](https://www.freepik.com/photos/hockey-player)Main findings:
 
 1. Q4 score more and command higher salaries than Q1.
 2. This difference is more pronounced within the 90% percentile. +9 points/season and +51% of salary.
@@ -39,7 +41,9 @@ BQ Avg: Q1 16.7 (-15%), Q2 19.2 (-3%), Q3 21.8 (+10%), Q4 21.3 (+8%). So much lo
 
 Salaries:
 
-So what they really found over-selected Q1 not as good as the other Birth Quarters. Perhaps the Fall of the Top Dog rather than Rise of the Underdog?
+
+
+So what they really found was over-selected Q1 and to a lesser extent over-selected Q2 were not as good as the other under-selected Birth Quarters. Perhaps the Fall of the Top Dog rather than Rise of the Underdog?
 
 [Full Paper (Open Access)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182827)
 
