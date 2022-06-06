@@ -33,7 +33,7 @@ A study, by birth quarter, of scores and salaries of National (Ice) Hockey Leagu
 
 Let’s look further:
 
-1. Only differences in Scores & Salaries between Q4 and Q1 were found. No differences significant between Q4 and Q2/Q3 were found and for scores Q3 was the highest.
+Only differences in Scores & Salaries between Q4 and Q1 were found. No differences significant between Q4 and Q2/Q3 were found and for scores Q3 was the highest.
 
 Scores:
 
