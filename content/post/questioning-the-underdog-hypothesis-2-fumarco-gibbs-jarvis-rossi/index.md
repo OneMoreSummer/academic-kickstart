@@ -16,7 +16,7 @@ image:
 
 [What is the Underdog Hypothesis and why question it?](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-an-introduction/)
 
-\#1 Gibbs, Jarvis & Dufur (2012)
+[\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)
 
 **Fumarco, Gibbs, Jarvis, & Rossi (2017)**
 
