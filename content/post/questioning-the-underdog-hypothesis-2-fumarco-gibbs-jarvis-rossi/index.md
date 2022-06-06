@@ -8,6 +8,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nothirdman" />
+<meta name="twitter:title" content="Questioning the Underdog Hypothesis 2" />
+<meta name="twitter:description" content="The second in a series of article questioning the Underdog Hypothesis starting with Fumarco et al 2017 investigation into ice hockey." />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/ice-hockey.jpg" />
+
 [What is the Underdog Hypothesis and why question it?](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-an-introduction/)
 
 \#1 Gibbs, Jarvis & Dufur (2012)
@@ -29,8 +35,6 @@ Let’s look further:
 
 So what they really found over-selected Q1 not as good as the other Birth Quarters.
 
-
-
 Scores:
 
 % of Player-season observations:
@@ -39,10 +43,8 @@ Scores:
 
 BQ Avg score: 16.7 (-15%), 19.2 (-3%), 21.8 (+10%), 21.3 (+8%)
 
-
-
 Fall of the Top Dog rather than Rise of the Underdog?
 
-[Full Paper (Open Access)](<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182827>)
+[Full Paper (Open Access)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182827)
 
-[](<https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182827>)
+[](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182827)
