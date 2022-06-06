@@ -45,7 +45,9 @@ BQ Avg: Q1 **13.9**, Q2 14, Q3 14.1, Q4 14.1. So very little difference with Q1 
 
 \* the difference in average season scores between Q1 and Q4 at the 90th percentile appears to be +6 and not +9.
 
-So what was really found was over-selected Q1 and to a lesser extent over-selected Q2 were not as good as the other under-selected Birth Quarters. Perhaps the Fall of the Top Dog rather than Rise of the Underdog?
+So what was really found was over-selected Q1 and to a lesser extent over-selected Q2 were not as good as the other under-selected Birth Quarters.
+
+Perhaps the relationship between percentage of over or under selection is the main determinant of the outcome, in this case scores and salaries, rather than the development process of enhanced challenge for later born. Perhaps the Fall of the Top Dog rather than Rise of the Underdog?
 
 [Full Paper (Open Access)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182827)
 
