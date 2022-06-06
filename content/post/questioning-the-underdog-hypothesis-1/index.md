@@ -37,10 +37,6 @@ Let’s look further:
 
 Fall of the Top Dog rather than Rise of the Underdog?[](https://www.researchgate.net/publication/257333561_The_Rise_of_the_Underdog_The_Relative_Age_Effect_Reversal_Among_Canadian-born_NHL_Hockey_Players_A_Reply_to_Nolan_and_Howell)
 
-[Full Paper (Open Access)](https://www.researchgate.net/publication/257333561_The_Rise_of_the_Underdog_The_Relative_Age_Effect_Reversal_Among_Canadian-born_NHL_Hockey_Players_A_Reply_to_Nolan_and_Howell)[](<[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
+[Full Paper (Open Access)](https://www.researchgate.net/publication/257333561_The_Rise_of_the_Underdog_The_Relative_Age_Effect_Reversal_Among_Canadian-born_NHL_Hockey_Players_A_Reply_to_Nolan_and_Howell)[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
 
-[\#2 Fumarco, Gibbs, Jarvis & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)>)
-
-[Next> #2 Fumarco, Gibbs, Jarvis & Rossi (2017)](<[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
-
-[\#2 Fumarco, Gibbs, Jarvis & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)>)
+[\#2 Fumarco, Gibbs, Jarvis & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
