@@ -39,7 +39,7 @@ Scores:
 
 BQ Avg: Q1 16.7 (-15%), Q2 19.2 (-3%), Q3 21.8 (+10%), Q4 21.3 (+8%). So much lower Q1, average Q2 and a higher but similar Q3 and Q4. (nb. % of Player-season observations: Q1 30, Q2 28, Q3 22, Q4 20)
 
-Salaries:
+Salaries (Log values, OLS):
 
 BQ Avg: Q1 13.9 (-1%), Q2 14 (0%), Q3 14.1 (+1%), Q4 14.1 (+1%). So very little difference with Q1 being the lowest. Even when looking at the 90th percentile: Q1 15.5, Q2 15.7, Q3 15.8, Q4 15.7.
 
