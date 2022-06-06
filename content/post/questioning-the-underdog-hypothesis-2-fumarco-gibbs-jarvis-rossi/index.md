@@ -31,15 +31,13 @@ Main findings:
 
 Let’s look further:
 
-1. Only differences in Scores & Salaries between Q4 and Q1 were found. No differences between Q4 and Q2/Q3. In some cases Q2 or Q3 were the highest!
+1. Only differences in Scores & Salaries between Q4 and Q1 were found. No differences significant between Q4 and Q2/Q3 were found and for scores Q3 was the highest.
 
 Scores:
 
-% of Player-season observations:
+BQ Avg: Q1 16.7 (-15%), Q2 19.2 (-3%), Q3 21.8 (+10%), Q4 21.3 (+8%). So much lower Q1, average Q2 and a higher but similar Q3 and Q4. (nb. % of Player-season observations: Q1 30, Q2 28, Q3 22, Q4 20)
 
-30:28:22:20 (58:42) 38% more H1 than H2
-
-BQ Avg score: 16.7 (-15%), 19.2 (-3%), 21.8 (+10%), 21.3 (+8%)
+Salaries:
 
 So what they really found over-selected Q1 not as good as the other Birth Quarters. Perhaps the Fall of the Top Dog rather than Rise of the Underdog?
 
