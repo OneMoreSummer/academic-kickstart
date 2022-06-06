@@ -24,4 +24,6 @@ It is argued that perhaps the ‘Rise of the Underdog’ is actually the ‘Fall
 
 Examining the UH, for which there is perhaps weak evidence, is important in the player ID and development space because the UH is often used as a reason for not addressing RAE, for which there is 40 years of strong evidence.
 
-[\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)
+[\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
+
+[\#2 Fumarco, Gibbs, Jarvis & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
