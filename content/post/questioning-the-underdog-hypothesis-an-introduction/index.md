@@ -20,7 +20,7 @@ For junior/senior transition the series suggests that relatively higher later bo
 
 The series also questions what evidence there is that relatively later born reach the highest levels in sport. If this is questionable or even a myth.
 
-It is argued that perhaps the ‘Rise of the Underdog’ is actually the ‘Fall of the Top Dog’.
+Perhaps the relationship between percentage of over or under selection is the main determinant of the outcome, in this case scores and salaries, rather than the development process of enhanced challenge for later born. Perhaps this is the ‘Fall of the Top Dog’ and not the ‘Rise of the Underdog’.
 
 Examining the UH, for which there is perhaps weak evidence, is important in the player ID and development space because the UH is often used as a reason for not addressing RAE, for which there is 40 years of strong evidence.
 
