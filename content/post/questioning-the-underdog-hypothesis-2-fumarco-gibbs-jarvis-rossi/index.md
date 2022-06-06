@@ -41,7 +41,7 @@ BQ Avg: Q1 16.7 (-15%), Q2 19.2 (-3%), Q3 21.8 (+10%), Q4 21.3 (+8%). So much lo
 
 Salaries:
 
-
+BQ Avg: Q1 13.9 (-1%), Q2 14 (0%), Q3 14.1 (+1%), Q4 14.1 (+1%). So very little difference with Q1 being the lowest. Even when looking at the 90th percentile: Q1 15.5, Q2 15.7, Q3 15.8, Q4 15.7.
 
 So what they really found was over-selected Q1 and to a lesser extent over-selected Q2 were not as good as the other under-selected Birth Quarters. Perhaps the Fall of the Top Dog rather than Rise of the Underdog?
 
