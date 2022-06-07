@@ -33,7 +33,7 @@ A study, by birth quarter, of scores and salaries of drafted Canadian and USA Na
 
 Let’s look further:
 
-Only differences in Scores & Salaries between Q4 and Q1 were found. No differences between Q4 and Q2/Q3 were found and for salaries and for scores no difference between Q4 and Q3. Q3 was the highest for scores.
+Only differences in Scores & Salaries between Q4 and Q1 were found. No differences between Q4 and Q2/Q3 were found for salaries and for scores no difference between Q4 and Q3. Q3 was the highest for scores and salaries.
 
 Scores:
 
