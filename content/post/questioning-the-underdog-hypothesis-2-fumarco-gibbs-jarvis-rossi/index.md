@@ -33,15 +33,11 @@ A study, by birth quarter, of scores and salaries of drafted Canadian and USA Na
 
 Let’s look further:
 
-Not only do Q4 score more and command higher salaries than Q1 but so do Q2, and Q3 with Q3 being higher than Q4 for scores and salaries.
+Not only do Q4 score more and command higher salaries than Q1 but so do Q2, and Q3 with Q3 being higher than Q4 for scores. Q3 and Q4 salaries are similar with Q3 higher than Q4 at the 90th percentile.
 
 Scores:
 
 BQ Avg: Q1 **16.7 (-15%)**, Q2 19.2 (-3%), Q3 21.8 (+10%), Q4 21.3 (+8%). So much lower Q1, average Q2 and a higher but similar Q3 and Q4. (nb. % of Player-season observations: **Q1 30, Q2 28**, Q3 22, Q4 20)
-
-Salaries (Log values, OLS):
-
-BQ Avg: Q1 **13.9**, Q2 14, Q3 14.1, Q4 14.1. So very little difference with Q1 being the lowest. Even when looking at the 90th percentile: Q1 15.5, Q2 15.7, Q3 15.8, Q4 15.7.
 
 \* the difference in average season scores between Q1 and Q4 at the 90th percentile appears to be +6 and not +9.
 
