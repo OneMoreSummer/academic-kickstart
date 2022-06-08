@@ -43,6 +43,8 @@ BQ Avg: Q1 **16.7 (-15%)**, Q2 19.2 (-3%), Q3 21.8 (+10%), Q4 21.3 (+8%). So muc
 
 So what was really found was over-selected Q1 and to a lesser extent over-selected Q2 were not as good as the other under-selected Birth Quarters.
 
+There is evidence here of later born performing better than early born especially at the highest level. However, performance data in cricket for example shows a more mixed level of evidence with both early born or later born performing better depending on country, format (Test, ODI, T20) and role (batters or bowlers). Further investigation into a number of sports and aspects within those sports, is required, to confirm the Underdog Effect. Alongside that further work is needed to show that this effect is due entirely/mostly to the challenge effects for later born in development.
+
 Perhaps the relationship between percentage of over or under selection is the main determinant of the outcome, in this case scores and salaries, rather than the development process of enhanced challenge for later born. Perhaps the Fall of the Top Dog rather than Rise of the Underdog?
 
 [Full Paper (Open Access)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182827)
