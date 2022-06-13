@@ -16,7 +16,7 @@ It is used to explain two things, a. when relatively more later born players tra
 
 This series examines UH research.
 
-For junior/senior transition the series suggests that relatively higher later born become professional because this transition is part of a slow RAE decline that begins when early RAE advantage no longer exists and that the over-selected early born start to be deselected at a greater rate than the early born, rather than via the UH.
+For junior/senior transition the series suggests that relatively higher later born become professional because this transition is part of a slow RAE decline that begins when early RAE advantage no longer exists and that the over-selected early born start to be deselected at a greater rate than the late born, rather than via the UH.
 
 The series also questions what evidence there is that relatively later born reach the highest levels in sport. If this is questionable or even a myth.
 
