@@ -26,7 +26,7 @@ A study of 205 award winning (e.g. MVP, Ballon D’Or) male athletes from footba
 
 Main findings:
 
-1. When award winning athletes were compared to the source professional cohorts there were significant (p<0.5) differences between Birth Quartiles with Q3&Q4 higher than expected and Q1&Q2 lower than expected.
+1. When award winning athletes were compared to the source professional cohorts there were significant (p<0.5) differences between Birth Quartiles with Q3 & Q4 higher than expected and Q1 & Q2 lower than expected.
 2. Actual %s were Q1 (21%), Q2 (24%), Q3 (29%), Q4 (25%), (H1 45%, H2 36%).
 
 Let’s look further:
