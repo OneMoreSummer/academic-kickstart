@@ -27,3 +27,5 @@ Examining the UH, for which there is perhaps weak evidence, is important in the 
 [\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
 
 [\#2 Fumarco, Gibbs, Jarvis & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
+
+[\#3 Ford & Williams (2011)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/)
