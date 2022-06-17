@@ -31,7 +31,7 @@ Main findings:
 
 Let’s look further:
 
-For me, two problems exist with this study in how the results are interpreted. Firstly, that the entire professional cohort is treated as a single entity (Q1 (31%), Q2 (27%), Q3 (23%), Q4 (19%)), both in terms of mixing the four sports but more importantly by age (an 18 yr old is the same as a 35 yr old). Secondly, the fact that RAEs can continue to decline during professional careers (which may not have been known in 2011).
+For me, two problems exist with this study in how the results are interpreted. Firstly, that the entire professional cohort is treated as a single entity (Q1 (31%), Q2 (27%), Q3 (23%), Q4 (19%)), both in terms of mixing the four sports but more importantly by age (an 18 yr old is the same as a 35 yr old). Secondly, the fact that RAEs can continue to decline during professional careers (which may not have been considered in 2011).
 
 1. The average age at first award was 25.6 (SD 3.7). It is likely that the RAE profile of 22 to 29 yr olds differs from those in the 18-22 and 30+ age profiles. RAE can decline in the latter years of junior sport. It can continue this decline in the early years of senior sport. As no significant difference was found compared to the general population it is possible no significant difference would be found when comparing 
 2. We shouldn’t really be surprised when underrepresented quartiles provide more award winners as they are less likely to be diluted by poorer quality/potential players in overrepresented quartiles. 
