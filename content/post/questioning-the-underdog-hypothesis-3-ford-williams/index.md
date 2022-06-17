@@ -11,7 +11,7 @@ image:
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@nothirdman" />
 <meta name="twitter:title" content="Questioning the Underdog Hypothesis 3" />
-<meta name="twitter:description" content="The third in a series of articles questioning the Underdog Hypothesis with this Ford & Williams 2011 investigation into award winners in football, ice hockey, baseball and Aussie rules football." />
+<meta name="twitter:description" content="The third in a series of articles questioning the Underdog Hypothesis with this Ford and Williams 2011 investigation into award winners in football, ice hockey, baseball and Aussie rules football." />
 <meta name="twitter:image" content="https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/trophy.png" />
 
 [What is the Underdog Hypothesis and why question it?](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-an-introduction/)
