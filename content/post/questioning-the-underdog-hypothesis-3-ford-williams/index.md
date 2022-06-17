@@ -16,6 +16,10 @@ image:
 
 A study of 205 award winning (e.g. MVP, Ballon D’Or) male athletes from football (FIFA & UEFA), ice hockey (NHL), baseball (MLB) and Aussie rules football (AFL), from between 1987 and 2007.
 
+![](trophy.png)
+
+<a href='https://www.freepik.com/photos/crossed-arms'>Crossed arms photo created by creativeart - www.freepik.com</a>
+
 Main findings:
 
 1. When award winning athletes were compared to the source professional cohorts there were significant (p<0.5) differences between Birth Quartiles with Q3&Q4 higher than expected and Q1&Q2 lower than expected.
