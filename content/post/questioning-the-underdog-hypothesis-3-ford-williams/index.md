@@ -12,20 +12,13 @@ image:
 
 [What is the Underdog Hypothesis and why question it?](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-an-introduction/)
 
-[\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)
-
-[\#2 Fumarco, Gibbs, Jarvis & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
-
-\#3 Ford & Williams (2011)
-
-**Ford & Williams (2011)**
+[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)**Ford & Williams (2011)**
 
 A study of 205 award winning (e.g. MVP, Ballon D’Or) male athletes from football (FIFA & UEFA), ice hockey (NHL), baseball (MLB) and Aussie rules football (AFL), from between 1987 and 2007.
 
 Main findings:
 
 1. When award winning athletes were compared to the source professional cohorts there were significant (p<0.5) differences between Birth Quartiles with Q3&Q4 higher than expected and Q1&Q2 lower than expected.
-
 2. Actual %s were Q1 (21%), Q2 (24%), Q3 (29%), Q4 (25%), (H1 45%, H2 36%).
 
 Let’s look further:
@@ -50,4 +43,10 @@ Relatively small sample size.
 
 [Paper](https://www.tandfonline.com/doi/abs/10.1080/02701367.2011.10599790)
 
-[](https://www.tandfonline.com/doi/abs/10.1080/02701367.2011.10599790)
+Series:
+
+[\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)
+
+[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)[\#2 Fumarco, Gibbs, Jarvis, & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
+
+[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)[\#3 Ford & Williams (2011)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/)
