@@ -12,7 +12,7 @@ image:
 <meta name="twitter:site" content="@nothirdman" />
 <meta name="twitter:title" content="Questioning the Underdog Hypothesis 3" />
 <meta name="twitter:description" content="The third in a series of articles questioning the Underdog Hypothesis with this Ford and Williams 2011 investigation into award winners in football, ice hockey, baseball and Aussie rules football." />
-<meta name="twitter:image" content="https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/trophy.png" />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/trophy.jpg" />
 
 [What is the Underdog Hypothesis and why question it?](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-an-introduction/)
 
@@ -20,7 +20,7 @@ image:
 
 A study of 205 award winning (e.g. MVP, Ballon D’Or) male athletes from football (FIFA & UEFA), ice hockey (NHL), baseball (MLB) and Aussie rules football (AFL), from between 1987 and 2007.
 
-![](trophy.png)
+![](trophy.jpg)
 
 <a href='https://www.freepik.com/photos/crossed-arms'>Crossed arms photo created by creativeart - www.freepik.com</a>
 
