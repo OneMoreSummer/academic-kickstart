@@ -39,7 +39,7 @@ For me, two problems exist with this study in how the results are interpreted. F
 
 The authors suggest that younger players have developed more skill during their development due to the higher challenge of playing/training with relatively older players, namely the Underdog Hypothesis.
 
-However Q4 don’t outperform Q3 and perhaps Q2,Q3 & Q4 are similar and Q1 make these Birth Quarters appear to outperform by it underperforming instead. Perhaps this is the Fall of the Top Dog (a continued RAE profile decline) rather than the Rise of the Underdog?
+However Q4 don’t outperform Q3 and perhaps Q2,Q3 & Q4 are similar and Q1 make these Birth Quarters appear to outperform it by underperforming itself instead. Perhaps this is the Fall of the Top Dog (a continued RAE profile decline) rather than the Rise of the Underdog?
 
 Notes:
 
