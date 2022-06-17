@@ -10,7 +10,7 @@ image:
 ---
 **Why are we questioning the Underdog Hypothesis**
 
-The Underdog Hypothesis (UH) suggests that later born players benefit from greater challenge during development because they are training/playing with relatively older peers. Gibbs, Jarvis & Dufur (2012) when studying ice hockey stated ‘relatively younger players are thought to benefit by more competitive play with their older counterparts’.
+The Underdog Hypothesis (UH) suggests that later born players benefit from greater challenge during development because they are training/playing with relatively older peers. Gibbs, Jarvis & Dufur (2012) when studying ice hockey stated *‘relatively younger players are thought to benefit by more competitive play with their older counterparts’*.
 
 It is used to explain two things, a. when relatively more later born players transition from junior sport into senior sport and b. if relatively more later born reach the highest levels in sport.
 
