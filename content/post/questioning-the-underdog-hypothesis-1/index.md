@@ -17,12 +17,6 @@ image:
 
 [What is the Underdog Hypothesis and why question it?](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-an-introduction/)
 
-\#1 Gibbs, Jarvis & Dufur (2012)
-
-[\#2 Fumarco, Gibbs, Jarvis, & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
-
-[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)[\#3 Ford & Williams (2011)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/)
-
 **\#1 Gibbs, Jarvis & Dufur (2012)**
 
 A study of RAE in male Canadian born National (Ice) Hockey League (NHL) professionals and those (the best) that played for the annual All Stars team and Olympic squads.
@@ -43,6 +37,12 @@ Let’s look further:
 
 Fall of the Top Dog rather than Rise of the Underdog?[](https://www.researchgate.net/publication/257333561_The_Rise_of_the_Underdog_The_Relative_Age_Effect_Reversal_Among_Canadian-born_NHL_Hockey_Players_A_Reply_to_Nolan_and_Howell)
 
-[Full Paper (Open Access)](https://www.researchgate.net/publication/257333561_The_Rise_of_the_Underdog_The_Relative_Age_Effect_Reversal_Among_Canadian-born_NHL_Hockey_Players_A_Reply_to_Nolan_and_Howell)[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
+[Full Paper (Open Access)](https://www.researchgate.net/publication/257333561_The_Rise_of_the_Underdog_The_Relative_Age_Effect_Reversal_Among_Canadian-born_NHL_Hockey_Players_A_Reply_to_Nolan_and_Howell)
 
-[\#2 Fumarco, Gibbs, Jarvis & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
+Series:
+
+\#1 Gibbs, Jarvis & Dufur (2012)
+
+[\#2 Fumarco, Gibbs, Jarvis, & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
+
+[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)[\#3 Ford & Williams (2011)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/)
