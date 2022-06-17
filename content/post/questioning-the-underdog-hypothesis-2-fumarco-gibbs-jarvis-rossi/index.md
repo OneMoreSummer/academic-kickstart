@@ -18,6 +18,8 @@ image:
 
 [\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)
 
+[\#3 Ford & Williams (2011)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/)
+
 **Fumarco, Gibbs, Jarvis, & Rossi (2017)**
 
 A study, by birth quarter, of scores and salaries of drafted Canadian and USA National (Ice) Hockey League (NHL) professionals (not goalies), from the 2008–2009 season to the 2015–2016 season.
