@@ -16,13 +16,7 @@ image:
 
 [What is the Underdog Hypothesis and why question it?](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-an-introduction/)
 
-[\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)
-
-\#2 Fumarco, Gibbs, Jarvis, & Rossi (2017)
-
-[\#3 Ford & Williams (2011)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/)
-
-**Fumarco, Gibbs, Jarvis, & Rossi (2017)**
+[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)**Fumarco, Gibbs, Jarvis, & Rossi (2017)**
 
 A study, by birth quarter, of scores and salaries of drafted Canadian and USA National (Ice) Hockey League (NHL) professionals (not goalies), from the 2008–2009 season to the 2015–2016 season.
 
@@ -53,4 +47,10 @@ Perhaps the relationship between percentage of over or under selection is the ma
 
 [Full Paper (Open Access)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182827)
 
-[](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182827)
+Series:
+
+[\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)
+
+[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)[\#2 Fumarco, Gibbs, Jarvis, & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
+
+[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)[\#3 Ford & Williams (2011)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/)
