@@ -1,5 +1,5 @@
 ---
-title: Questioning the Underdog Hypothesis 2# Fumarco, Gibbs, Jarvis, & Rossi
+title: "Questioning the Underdog Hypothesis #2 Fumarco, Gibbs, Jarvis, & Rossi"
 date: 2022-06-06T07:47:02.733Z
 draft: false
 featured: false
