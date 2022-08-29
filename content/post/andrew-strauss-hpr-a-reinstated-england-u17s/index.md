@@ -8,9 +8,17 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nothirdman" />
+<meta name="twitter:title" content="  Andrew Strauss, HPR & a reinstated England U17s?" />
+<meta name="twitter:description" content="Is it a good idea to reinstate the England U17s cricket programme? Will problems of Relative Age effects and maturation bias mean a lot of resources will be wasted on players who are less likely to play for the full international side and are in fact more likely to drop out of professional cricket.." />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/andrew-strauss-hpr-a-reinstated-england-u17s/x.jpg" />
+
 One proposal in Andrew Strauss’s High Performance Review is to reinstate the England U17 programme to provide ‘early international benchmarking’. While this will provide increased opportunities to experience overseas conditions, selecting and investing resources into players at this age does come with some drawbacks. Early player identification/selection is problematic due to Relative Age Effect (RAE), maturation bias and differences in training age (experience) for example.
 
+![](3d-render-batsman-playing-cricket-design.jpg)
 
+<a href="https://www.freepik.com/free-photo/3d-render-batsman-playing-cricket-design_23550231.htm#query=cricket%20sport&position=7&from_view=search">Image by Rochak Shukla</a> on Freepik
 
 **Background:**
 
