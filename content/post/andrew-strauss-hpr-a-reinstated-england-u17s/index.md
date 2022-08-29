@@ -12,7 +12,7 @@ image:
 <meta name="twitter:site" content="@nothirdman" />
 <meta name="twitter:title" content="  Andrew Strauss, HPR & a reinstated England U17s?" />
 <meta name="twitter:description" content="Is it a good idea to reinstate the England U17s cricket programme? Will problems of Relative Age effects and maturation bias mean a lot of resources will be wasted on players who are less likely to play for the full international side and are in fact more likely to drop out of professional cricket.." />
-<meta name="twitter:image" content="https://onemoresummer.co.uk/post/andrew-strauss-hpr-a-reinstated-england-u17s/x.jpg" />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/andrew-strauss-hpr-a-reinstated-england-u17s/.jpg" />
 
 One proposal in Andrew Strauss’s High Performance Review is to reinstate the England U17 programme to provide ‘early international benchmarking’. While this will provide increased opportunities to experience overseas conditions, selecting and investing resources into players at this age does come with some drawbacks. Early player identification/selection is problematic due to Relative Age Effect (RAE), maturation bias and differences in training age (experience) for example.
 
@@ -27,7 +27,7 @@ Currently the men’s England Development Pathway consists of annual regional to
 **\
 Concerns:**
 
-The latest England U19 squad against Sri Lanka this summer (2022) has a strong Relative Age Effect bias. 70% of the squad were born in the first half of the year. Only one player is born in Birth Quarter 4 (Jun-Aug) while 4 players are born in September alone. These RAE levels are a bit higher than the average level for all Eng U19 World Cup squads since 1998 (1)
+The latest England U19 squad against Sri Lanka this summer (2022) has a strong Relative Age Effect bias. 70% of the squad were born in the first half of the year. Only one player is born in Birth Quarter 4 (Jun-Aug) while 4 players are born in September alone. These RAE levels are a bit higher than the average level for all Eng U19 World Cup squads since 1998 (1).
 
 We know that RAE levels are higher at earlier developmental ages. In the English development pathway, U17* (Super 4s) are higher than U19 and U15 (Bunbury) are higher than U17 (1). Therefore it is likely that a reinstated England U17 team will have higher levels of RAE than currently found in U19 cricket.
 
