@@ -18,7 +18,7 @@ One proposal in Andrew Strauss’s High Performance Review is to reinstate the E
 
 ![](3d-render-batsman-playing-cricket-design.jpg)
 
-<a href="https://www.freepik.com/free-photo/3d-render-batsman-playing-cricket-design_23550231.htm#query=cricket%20sport&position=7&from_view=search">Image by Rochak Shukla</a> on Freepik
+(<a href="https://www.freepik.com/free-photo/3d-render-batsman-playing-cricket-design_23550231.htm#query=cricket%20sport&position=7&from_view=search">Image by Rochak Shukla</a> on Freepik)
 
 **Background:**
 
