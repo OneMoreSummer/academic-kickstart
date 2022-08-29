@@ -14,7 +14,7 @@ image:
 <meta name="twitter:description" content="Is it a good idea to reinstate the England U17s cricket programme? Will problems of Relative Age effects and maturation bias mean a lot of resources will be wasted on players who are less likely to play for the full international side and are in fact more likely to drop out of professional cricket." />
 <meta name="twitter:image" content="https://onemoresummer.co.uk/post/andrew-strauss-hpr-a-reinstated-england-u17s/england-cricket-u17.jpg" />
 
-One proposal in Andrew Strauss’s High Performance Review is to reinstate the England U17 programme to provide ‘early international benchmarking’. While this will provide increased opportunities to experience overseas conditions, selecting and investing resources into players at this age does come with some drawbacks. Early player identification/selection is problematic due to Relative Age Effect (RAE), maturation bias and differences in training age (experience) for example.
+One proposal in Andrew Strauss’s High Performance Review is to reinstate the England U17 programme to provide ‘early international benchmarking’. While this will provide increased opportunities to experience overseas conditions, selecting and investing resources into players at this age does come with some drawbacks. Early player identification/selection is problematic due to Relative Age Effects (RAE), maturation bias and differences in training age (experience) for example.
 
 ![](england-cricket-u17.jpg)
 
@@ -22,10 +22,10 @@ One proposal in Andrew Strauss’s High Performance Review is to reinstate the E
 
 **Background:**
 
-Currently the men’s England Development Pathway consists of annual regional tournaments at U15 (Bunbury) and at U18 (Super 4s) which precede selection for the Young Lions (U19s) and England Lions. England have previously played internationals at U17 as recently as 2017 and used to have an U15 team as well as a development programme for players as young as U12. These elements have been removed either due to RAE concerns and/or cost concerns. 
+Currently the men’s England Development Pathway consists of annual regional tournaments at U15 (Bunbury) and at U18 (Super 4s) which precede selection for the Young Lions (U19s) and England Lions. England have previously played internationals at U17 as recently as 2017 and used to have an U15 team as well as a development programme for players as young as U12. These elements have been removed either due to RAE concerns and/or to make cost savings. 
 
 **\
-Concerns:**
+Relative Age Effect Issues:**
 
 The latest England U19 squad against Sri Lanka this summer (2022) has a strong Relative Age Effect bias. 70% of the squad were born in the first half of the year. Only one player is born in Birth Quarter 4 (Jun-Aug) while 4 players are born in September alone. These RAE levels are a bit higher than the average level for all Eng U19 World Cup squads since 1998 (1).
 
