@@ -33,7 +33,7 @@ We know that RAE levels are higher at earlier developmental ages. In the English
 
 RAE bias in senior England teams however is not significant (1). Therefore the development phase ‘over’ selects, and invests time into, early born players who proportionately are less likely to progress to senior level.
 
-Is there also a danger that investing in valuable international experience, for a relatively small number of players at early ages, is a self-fulfilling prophecy for those players to be more likely to be selected for higher honours? Perhaps the best players in senior cricket are not the earliest born? There is evidence, for example, that Q1 (Sep-Nov) born Test batters perform significantly worse than all other birth quarters. 
+Is there also a danger that investing in valuable international experience, for a relatively small number of players at early ages, is a self-fulfilling prophecy for those players to be more likely to be selected for higher honours? Perhaps the best players in senior cricket are not the earliest born? There is evidence, for example, that [Q1 (Sep-Nov) born Test batters perform significantly worse than all other birth quarters](https://onemoresummer.co.uk/post/what-format-do-q1-english-male-batters-excel-at-the-shorter-the-better/). 
 
 Perhaps a better use of limited resources would be to:
 
