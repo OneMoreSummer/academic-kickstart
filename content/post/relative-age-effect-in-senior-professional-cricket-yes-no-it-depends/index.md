@@ -23,7 +23,7 @@ If you measure the entire senior cohort of professional cricketers in England & 
 
 No, there is a gradual reset. Relatively more BQ1 & BQ2s enter as Rookies but by the time players reach their Prime at age 25, of those players more later born are still playing and more early born have left the professional game.
 
-Using the players released/retired for the last two years* the first half of year versus the last half of year is thus::
+Using the players released/retired for the last two years* the first half of year versus the last half of year is thus:
 
 U18-24 70:30 n=10
 
