@@ -11,11 +11,13 @@ image:
 ---
 **Highlights**
 
-RAE is carried over from junior pathways into (18+) professional cricket
+*RAE is carried over from junior pathways into (18+) professional cricket*
 
-RAE quickly declines through the Rookie phase (18-24)
+*RAE quickly declines through the Rookie phase (18-24)*
 
-RAE has disappeared at the Prime phase (25-29)
+*RAE has disappeared at the Prime phase (25-29)*
+
+
 
 How does Relative Age Effect disappear as players transition into professional cricket and through their careers in English & Welsh Cricket?
 
