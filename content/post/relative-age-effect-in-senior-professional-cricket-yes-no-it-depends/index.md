@@ -37,7 +37,7 @@ U25-29 H1 **50,** H2 **50** n=14
 
 30+H1 **57,** H2 **43** n=11
 
-ALL H1 **57,** H2 **43** n=35
+ALL H1 **55,** H2 **45** n=35
 
 An analysis of the 2020 county squads found the following age RAE profile breakdown:
 
