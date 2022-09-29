@@ -61,4 +61,4 @@ A higher level of RAE in those released during the Rookie phase than that found 
 
 RAEs are carried over into professional cricket from junior cricket. They don’t disappear at the junior/senior transition point. It takes a further 6/7 years until early/late born parity is reached. Perhaps this is simply a ‘regression to the mean’ where overselected early born are slowly lost to the system and the underselected later born are retained at a relatively higher rate.
 
-* Thanks to Dan Kingdom @DanKingdom96 for the list of released/retired players for 2021 and 2022.
+* Thanks to [@DanKingdom96](https://twitter.com/DanKingdom96) for the list of released/retired players for 2021 and 2022.
