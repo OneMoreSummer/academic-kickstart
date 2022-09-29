@@ -21,7 +21,7 @@ image:
 
 *RAE quickly declines through the Rookie phase (18-24)*
 
-*RAE has disappeared at the Prime phase (25-29)*
+*RAE has reversed at the Prime phase (25-29)*
 
 If you measure the entire senior cohort of professional cricketers in England & Wales there is no overall Relative Age Effect, i.e. no Birth Quarter is dominant. However, we know that the development pathway, pre age18, produces more BQ1s and BQ2s than their later born peers. So does RAE magically disappear from age 19?
 
