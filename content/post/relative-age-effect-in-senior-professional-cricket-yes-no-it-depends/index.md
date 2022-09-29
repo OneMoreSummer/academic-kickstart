@@ -23,37 +23,37 @@ If you measure the entire senior cohort of professional cricketers in England & 
 
 No, there is a gradual reset. Relatively more BQ1 & BQ2s enter as Rookies but by the time players reach their Prime at age 25, of those players more later born are still playing and more early born have left the professional game.
 
-Using the players released/retired for the last two years* the first half of year versus the last half of year is thus:
+Using the players released/retired for the last two years*, the first half of year (H1) versus the last half of year (H2) is thus:
 
-U18-24 70:30 n=10
+U18-24 H1 **70**, H2 **30** n=10 
 
-U25-29 50:50 n=14
+U25-29 H1 **50,** H2 **50** n=14
 
-30+ 57:43 n=11
+30+H1 **57,** H2 **43** n=11
 
-ALL 57:43 n=35
+ALL H1 **57,** H2 **43** n=35
 
 An analysis of the 2020 county squads found the following age RAE profile breakdown:
 
-U21 64:36 n=20
+U21 H1 **64,** H2 **36** n=20
 
-21-23 54:46 n=78
+21-23 H1 **54,** H2 **46** n=78
 
-24-35 49:51 n=65
+24-35 H1 **49,** H2 **51** n=65
 
-26-30 46:54 n=129
+26-30 H1 **46,** H2 **54** n=129
 
-30+ 53:48 n=119[](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/)
+30+ H1 **53,** H2 **48** n=119[](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/)
 
 [How RAE affects a county career](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/)
 
 A similar analysis, using three phases of Rookie, Prime and Veteran (as used by REF) of the 2022 county squads found the following age RAE profile breakdown:
 
-Rookie 19-24 54:46 n=173
+Rookie 19-24 H1 **54,** H2 **46** n=173
 
-Prime 25-30 46:54 n=119
+Prime 25-30 H1 **46,** H2 **54** n=119
 
-Veteran 31-44 53:47 n=72
+Veteran 31-44 H1 **53,** H2 **47** n=72
 
 **Discussion**
 
