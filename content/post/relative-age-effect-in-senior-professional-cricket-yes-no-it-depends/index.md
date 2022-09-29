@@ -19,8 +19,6 @@ image:
 
 
 
-How does Relative Age Effect disappear as players transition into professional cricket and through their careers in English & Welsh Cricket?
-
 If you measure the entire senior cohort of professional cricketers in England & Wales there is no overall Relative Age Effect, i.e. no Birth Quarter is dominant. However, we know that the development pathway, pre 18, produces more BQ1s and BQ2s than their later born peers. So does RAE magically disappear from age 19?
 
 No, there is a gradual reset. Relatively more BQ1 & BQ2s enter as Rookies but by the time players reach their Prime at age 25, of those players more later born are still playing and more early born have left the professional game.
