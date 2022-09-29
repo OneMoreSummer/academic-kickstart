@@ -45,7 +45,7 @@ U21 H1 **64,** H2 **36** n=20
 
 [How RAE affects a county career](https://onemoresummer.co.uk/post/how-rae-affects-a-county-career/)
 
-A similar analysis, using three phases of Rookie, Prime and Veteran (as used by REF) of the 2022 county squads found the following age RAE profile breakdown:
+A similar analysis, using three phases of Rookie, Prime and Veteran (Bryson, Gomez & Zhang, 2017**)** of the 2022 county squads found the following age RAE profile breakdown:
 
 Rookie 19-24 H1 **54,** H2 **46** n=173
 
