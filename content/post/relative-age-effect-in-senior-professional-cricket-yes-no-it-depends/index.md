@@ -9,6 +9,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nothirdman" />
+<meta name="twitter:title" content="How do Relative Age Effects in Junior Pathways change into the absence of RAEs in Senior Professional Cricket?" />
+<meta name="twitter:description" content="RAEs are carried over into professional cricket from junior cricket. They don’t disappear at the junior/senior transition point. It takes a further 6/7 years until early/late born parity is reached. Perhaps this is simply a ‘regression to the mean’ where overselected early born are slowly lost to the system and the underselected later born are retained at a relatively higher rate." />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/relative-age-effect-in-senior-professional-cricket-yes-no-it-depends/scales.jpg" />
+
 **Highlights**
 
 *RAE is carried over from junior pathways into (18+) professional cricket*
