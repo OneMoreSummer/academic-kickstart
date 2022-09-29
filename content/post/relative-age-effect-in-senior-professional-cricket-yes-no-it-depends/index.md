@@ -13,7 +13,7 @@ image:
 <meta name="twitter:site" content="@nothirdman" />
 <meta name="twitter:title" content="How do Relative Age Effects in Junior Pathways change into the absence of RAEs in Senior Professional Cricket?" />
 <meta name="twitter:description" content="RAEs are carried over into professional cricket from junior cricket. They don’t disappear at the junior/senior transition point. It takes a further 6/7 years until early/late born parity is reached. Perhaps this is simply a ‘regression to the mean’ where overselected early born are slowly lost to the system and the underselected later born are retained at a relatively higher rate." />
-<meta name="twitter:image" content="https://onemoresummer.co.uk/post/relative-age-effect-in-senior-professional-cricket-yes-no-it-depends/scales.jpg" />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/relative-age-effect-in-senior-professional-cricket-yes-no-it-depends/scales.png" />
 
 **Highlights**
 
@@ -25,7 +25,7 @@ image:
 
 If you measure the entire senior cohort of professional cricketers in England & Wales there is no overall Relative Age Effect, i.e. no Birth Quarter is dominant. However, we know that the development pathway, pre age18, produces more BQ1s and BQ2s than their later born peers. So does RAE magically disappear from age 19?
 
-![](scales.jpg)
+![](scales.png)
 
 No, there is a gradual reset. Relatively more BQ1 & BQ2s enter as Rookies but by the time players reach their Prime at age 25, of those players more later born are still playing and more early born have left the professional game.
 
