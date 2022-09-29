@@ -63,7 +63,7 @@ Veteran 31-44 H1 **53,** H2 **47** n=72
 
 **Discussion**
 
-A higher level of RAE in those released during the Rookie phase than that found in the Rookie phase is expected. This is how the RAE profile of the Prime phase becomes a weak Reverse RAE. During the Prime phase a balanced RAE profile of released players leads to a slow return of RAE into the Veteran phase. 
+A higher level of RAE in those released during the Rookie phase than that found in the Rookie phase is expected. This is how the RAE profile of the Prime phase becomes a Reverse RAE. During the Prime phase a balanced RAE profile of released players leads to a slow return of RAE into the Veteran phase. 
 
 **Conclusion**
 
