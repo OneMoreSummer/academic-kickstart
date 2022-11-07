@@ -79,6 +79,6 @@ The under performance of Q1 (and perhaps Q4) could explain their relative under 
 
 **C﻿onclusions**
 
-The mechanisms of RAE decline are unproven. Natural regression from over selection is probably highly likely. Other factors such as peer effects are probably also at play. The power of each (and other effects) are currently only speculative. The Underdog Effect and other related ‘mechanisms’ such as the Reversal of RAE Advantage are, IMO, not yet accepted in the literature. For every paper that finds evidence for them there are equal numbers of other papers that are against. 
+The mechanisms of RAE decline are unproven. Natural regression from over selection is probably highly likely. Other factors such as peer effects are probably also at play. The power of each (and other effects) are currently only speculative. The Underdog Effect and other related ‘mechanisms’ such as the Reversal of RAE Advantage are, IMO, not yet accepted in the literature. For every paper that finds evidence for them there are equal numbers of papers that are against. 
 
 This data suggests while Q1 are less likely to reach elite levels of performance relative to the other BQs it also shows that Q4, to a lesser extent, are not likely to reach those levels either. Both Q2 & Q3 are shown to be more likely to be selected at Olympic level but only Q3 show a reason for this in terms of both Games Played/Points Score and a higher retention through to a Veteran phase of the NHL.
