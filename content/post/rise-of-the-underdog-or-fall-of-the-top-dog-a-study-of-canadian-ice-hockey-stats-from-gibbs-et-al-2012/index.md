@@ -13,13 +13,9 @@ Gibbs’s hypothesis, from 2012, of an underdog effect is often referenced in ma
 
 This study looks at the data for the four Olympic squads studied by Gibbs and the source population of players from whom they were selected. Namely the Olympic years 1998, 2002, 2006 & 2010 (n=64). Source population data was consequently collected for seasons 1997-1998, 2001-2002, 2005-2006 & 2009-2010 (n=1179).
 
-
-
 **What did Gibbs find?**
 
 Q1 %s were 40% in junior hockey. Q1 %s were only 28% in the NHL. Q1 %s were lower again at 17% for Canadian Olympic and All Star teams. A peer effects hypothesis for this decline was offered.
-
-
 
 **What are some of the problems with these findings and the underdog hypothesis?**
 
@@ -33,15 +29,11 @@ Olympic %s Q1 **19**, Q2 **36**, Q3 **28**, Q4 **17**
 
 Difference -10, +6, +6, -2
 
-
-
 Q1 produces far fewer (-30%) Olympic players than the source population would suggest. But surprisingly Q4 produces less than expected too, in fact more than 10% less than its original population. Both Q2 and Q3 perform better with +20% and +27% respectively. Perhaps this is more of a Goldilocks Effect?
-
-
 
 **What else is happening in this data?**
 
-RAEs don’t disappear overnight from junior to senior transition. Instead they continue to decline. We can see this in these Canadian ice hockey data. Splitting the source NHL population into tertiles.
+RAEs don’t disappear overnight from junior to senior transition. Instead they continue to decline. We can see this in these Canadian ice hockey data by splitting the source NHL population into tertiles by age.
 
 Rookie (age 18-22) Q1 **28**, Q2 **34**, Q3 **21**, Q4 **17**.
 
@@ -52,8 +44,6 @@ Veteran (age 26-38) Q1 **29**, Q2 **27**, Q3 **24**, Q4 **21**.
 Difference (Rookie->Veteran) Q1 +1, Q2 -7, Q3 +3, Q4 +4.
 
 \* only for skaters (goalies excluded).
-
-
 
 Over a senior career RAE often changes/declines. In the NHL the trend is for Q2 to decline, Q3 & Q4 to rise and Q1 to remain fairly static. Presumably (de)selections are made using a combination of factors, such as (perceived) performance, fitness/injury and toughness/character/leadership for example?
 
@@ -71,8 +61,6 @@ Lowest  Q1 **31**, Q2 **31**, Q3 **18**, Q4 **19**
 
 Diff (Highest-Lowest) Q1 +5, Q2 +1, Q3 -8, Q4 0
 
-
-
 **Points Scored**
 
 Highest Q1 **25**, Q2 **30**, Q3 **26**, Q4 **19**
@@ -84,8 +72,6 @@ Highest Q1 **25**, Q2 **30**, Q3 **26**, Q4 **19**
 Lowest  Q1 **30**, Q2 **31**, Q3 **21**, Q4 **18**
 
 Diff (Highest-Lowest) Q1 +5, Q2 +1, Q3 -5, Q4 -1
-
-
 
 There appears to be similar ‘performance’ by BQ using both Games Played and Points Scored for skaters. Q1s are more likely to appear in lower quartiles. Q2 and Q4 are fairly equally spread, whereas Q3 appear more likely to be in the highest quartile. So these data could explain why Q3 are retained during a career but not explain why Q4 are retained. Equally these data could explain a decrease in Q1 career length, but they don’t decline significantly. Equally again it doesn’t explain the -7% decline in Q2. (Please remember the base RAE of the source population is Q1 29, Q2 30, Q3 22, Q4 19).
 
