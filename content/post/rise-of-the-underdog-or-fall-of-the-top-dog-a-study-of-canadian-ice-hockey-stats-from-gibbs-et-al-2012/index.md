@@ -9,6 +9,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nothirdman" />
+<meta name="twitter:title" content="Rise of the underdog or fall of the top dog? A study of Canadian Ice Hockey stats from Gibbs et al, 2012" />
+<meta name="twitter:description" content="An investigation into the RAE profile of the Olympic Canadian Ice Hockey teams and their source population used by Gibbs et al, 2012, to publish the Underdog Hypothesis." />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/rise-of-the-underdog-or-fall-of-the-top-dog-a-study-of-canadian-ice-hockey-stats-from-gibbs-et-al-2012/ice-hockey.png" />
+
 Gibbs’s hypothesis, from 2012, of an underdog effect is often referenced in many papers relating to investigations into Relative Age Effects (RAEs). The hypothesis is used to explain how levels of RAE fall over time from a peak during adolescence to either a lower RAE, parity, or a RAE reversal at some point in a senior career. Gibbs et al, 2012 offered a peer effect as a reason for the reduced level of Q1 (born Jan-Mar) players found in Olympic and All Star Canadian hockey teams, whereby later born players benefit from higher challenge during development through playing/training with very high numbers of early born.
 
 This study looks at the data for the four Olympic squads studied by Gibbs and the source population of players from whom they were selected. Namely the Olympic years 1998, 2002, 2006 & 2010 (n=64). Source population data was consequently collected for seasons 1997-1998, 2001-2002, 2005-2006 & 2009-2010 (n=1179).
