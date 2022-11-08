@@ -37,7 +37,7 @@ Olympic %s Q1 **19**, Q2 **36**, Q3 **28**, Q4 **17**
 
 Difference -10, +6, +6, -2
 
-Q1 produces far fewer (-30%) Olympic players than the source population would suggest. But surprisingly Q4 produces less than expected too, in fact more than 10% less than its original population. Both Q2 and Q3 perform better with +20% and +27% respectively. Perhaps this is more of a Goldilocks Effect?
+Q1 produces far fewer (-34%) Olympic players than the source population would suggest. But surprisingly Q4 produces less than expected too, in fact more than 10% less than its original population. Both Q2 and Q3 perform better with +20% and +27% respectively. Perhaps this is more of a Goldilocks Effect?
 
 **What else is happening in this data?**
 
