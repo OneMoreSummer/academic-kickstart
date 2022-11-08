@@ -87,7 +87,7 @@ The under performance of Q1 (and perhaps Q4) could explain their relative under 
 
 **Influence of A﻿ge on Olympic Selection**
 
-T﻿he difference between RAE profiles of Olympic teams and the NHL source population may in reality be more extreme. Olympic players debut on average at age 28. Including multi-Olympians this rise to 29. would be selected from the Prime and Veteran phases of the NHL rather than the Rookie phase. Only 4 Rookies were Olympians, while 19 were in the Prime phase. The vast majority (41 players) were Veterans who have a more equitable RAE profile.
+T﻿he difference between RAE profiles of Olympic teams and the NHL source population may in reality be more extreme. Olympic players debut on average at age 28. Including multi-Olympians this rise to 29. Only 4 Rookies were Olympians, while 19 were in the Prime phase. The vast majority (41 players) were Veterans who have a more equitable RAE profile.
 
 Veteran (age 26-38) Q1 **29**, Q2 **27**, Q3 **24**, Q4 **21**.
 
