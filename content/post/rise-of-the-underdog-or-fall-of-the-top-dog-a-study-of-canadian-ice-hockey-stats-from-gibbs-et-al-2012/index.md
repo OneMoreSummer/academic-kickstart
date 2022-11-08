@@ -85,7 +85,7 @@ There appears to be similar ‘performance’ by BQ using both Games Played and 
 
 The under performance of Q1 (and perhaps Q4) could explain their relative under selection at Olympic level and the performance of Q3 for the over selection of Q3 BUT perhaps doesn’t explain the over selection of Q2.
 
-**Influence of A﻿ge of Olympic Selection**
+**Influence of A﻿ge on Olympic Selection**
 
 T﻿he difference between RAE profiles of Olympic teams and the NHL source population may in reality be more extreme. Arguably more Olympic players would be selected from the Prime and Veteran phases of the NHL rather than the Rookie phase.
 
