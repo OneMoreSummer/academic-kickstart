@@ -19,7 +19,7 @@ Gibbs’s hypothesis, from 2012, of an underdog effect is often referenced in ma
 
 This study looks at the data for the four Olympic squads studied by Gibbs and the source population of players from whom they were selected. Namely the Olympic years 1998, 2002, 2006 & 2010 (n=64). Source population data was consequently collected for seasons 1997-1998, 2001-2002, 2005-2006 & 2009-2010 (n=1179).
 
-![](ice-hockey.png)
+![]()
 
 **What did Gibbs find?**
 
