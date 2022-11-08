@@ -85,6 +85,22 @@ There appears to be similar ‘performance’ by BQ using both Games Played and 
 
 The under performance of Q1 (and perhaps Q4) could explain their relative under selection at Olympic level and the performance of Q3 for the over selection of Q3 BUT perhaps doesn’t explain the over selection of Q2.
 
+**Influence of A﻿ge of Olympic Selection**
+
+T﻿he difference between RAE profiles of Olympic teams and the NHL source population may in reality be more extreme. Arguably more Olympic players would be selected from the Prime and Veteran phases of the NHL rather than the Rookie phase.
+
+Rookie (age 18-22) Q1 **28**, Q2 **34**, Q3 **21**, Q4 **17**.
+
+D﻿ifference (Olympic-Rookie) -9, +2, +7, 0
+
+Prime (age 23-25) Q1 **31**, Q2 **29**, Q3 **21**, Q4 **19**.
+
+D﻿ifference (Olympic-Prime) -12, +7, +7, -2
+
+Veteran (age 26-38) Q1 **29**, Q2 **27**, Q3 **24**, Q4 **21**.
+
+Difference (Rookie->Veteran) -10, +9, +4, -4
+
 **C﻿onclusions**
 
 The mechanisms of RAE decline are unproven. Natural regression from over selection is probably highly likely. Other factors such as peer effects are probably also at play. The power of each (and other effects) are currently only speculative. The Underdog Effect and other related ‘mechanisms’ such as the Reversal of RAE Advantage are, IMO, not yet accepted in the literature. For every paper that finds evidence for them there are equal numbers of papers that are against. 
