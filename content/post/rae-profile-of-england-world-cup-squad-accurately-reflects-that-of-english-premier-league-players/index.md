@@ -9,11 +9,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:card" content="summary_large\_image" />
 <meta name="twitter:site" content="@nothirdman" />
 <meta name="twitter:title" content="RAE profile of England World Cup squad accurately reflects that of English Premier League players." />
 <meta name="twitter:description" content="The RAE profile of the England football (soccer) squad at the World Cup 2022 is the same as the cohort of players from where they are selected, the English Premier League." />
-<meta name="twitter:image" content="https://onemoresummer.co.uk/post/rae-profile-of-england-world-cup-squad-accurately-reflects-that-of-english-premier-league-players/[English EPL Players & World Cup Squad 2022_ Birth Quarter%](https://docs.google.com/spreadsheets/u/0/d/1lPs11vNmqVaSZGdWBGb2IIL3mJ_pTfN-t-bUDsjyeso/embed/oimg?id=1lPs11vNmqVaSZGdWBGb2IIL3mJ_pTfN-t-bUDsjyeso&oid=472163325&disposition=ATTACHMENT&bo=false&filetype=png&zx=o498m41f205o).png" />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/rae-profile-of-england-world-cup-squad-accurately-reflects-that-of-english-premier-league-players/\[English EPL Players & World Cup Squad 2022\_ Birth Quarter%](https://docs.google.com/spreadsheets/u/0/d/1lPs11vNmqVaSZGdWBGb2IIL3mJ_pTfN-t-bUDsjyeso/embed/oimg?id=1lPs11vNmqVaSZGdWBGb2IIL3mJ_pTfN-t-bUDsjyeso&oid=472163325&disposition=ATTACHMENT&bo=false&filetype=png&zx=o498m41f205o).png" />
 
 The Relative Age Effect (RAE) profile of professional team sports is often assumed to be even (i.e. all 4 Birth Quarters are more or less level) and that RAE is only found in youth development. But in many sports, especially those with high levels of junior RAE, it ‘knocks on’ into senior level.
 
@@ -44,11 +44,11 @@ In agreement with Yague et al (2018) higher levels of RAEs were found in Midfiel
 
 **Conclusion**
 
-Perhaps this analysis indicates a. no evidence that later born players reach higher levels (Underdog Hypothesis) and b. The under-representation of Q4 players is maintained right through junior development, professional status and the full England team (Knock-on effects).
+Perhaps this analysis indicates a. no evidence that later born players reach higher levels (Underdog Hypothesis) and b. the under-representation of Q4 players is maintained right through junior development, professional status and the full England team (knock-on effects).
 
 There is also evidence of knock-on effects and RAE continuing its slow decline from it’s peak in the junior environment, right through 10 or 11 years of the professional senior environment.
 
-Further evidence is found for positional effects on RAE, with Midfielders and Defenders showing selection preferences for early born players. Perhaps English players populate the Defensive and Midfielder roles more than non-English players within the EPL?
+Further evidence is found for positional effects on RAE, with Midfielders and Defenders showing selection preferences for early born players. Perhaps English players populate the Defensive and Midfielder roles relatively more than non-English players within the EPL?
 
 Data:
 
