@@ -42,6 +42,8 @@ Perhaps this analysis indicates a. no evidence that later born players reach hig
 
 There is also evidence of knock-on effects and RAE continuing its slow decline from it’s peak in the junior environment, right through 10 or 11 years of the professional senior environment.
 
+Further evidence is found for positional effects on RAE, with Midfielders and Defenders showing preferences for early born players. Perhaps English players populate the Defensive and Midfielder roles more than non-English players within the EPL?
+
 Data:
 
 As at 29.11.2022.
