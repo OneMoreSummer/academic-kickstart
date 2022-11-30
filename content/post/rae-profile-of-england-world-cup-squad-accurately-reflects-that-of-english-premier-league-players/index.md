@@ -9,6 +9,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nothirdman" />
+<meta name="twitter:title" content="RAE profile of England World Cup squad accurately reflects that of English Premier League players." />
+<meta name="twitter:description" content="The RAE profile of the England football (soccer) squad at the World Cup 2022 is the same as the cohort of players from where they are selected, the English Premier League." />
+<meta name="twitter:image" content="https://onemoresummer.co.uk/post/rae-profile-of-england-world-cup-squad-accurately-reflects-that-of-english-premier-league-players/[English EPL Players & World Cup Squad 2022_ Birth Quarter%](https://docs.google.com/spreadsheets/u/0/d/1lPs11vNmqVaSZGdWBGb2IIL3mJ_pTfN-t-bUDsjyeso/embed/oimg?id=1lPs11vNmqVaSZGdWBGb2IIL3mJ_pTfN-t-bUDsjyeso&oid=472163325&disposition=ATTACHMENT&bo=false&filetype=png&zx=o498m41f205o).png" />
+
 The Relative Age Effect (RAE) profile of professional team sports is often assumed to be even (i.e. all 4 Birth Quarters are more or less level) and that RAE is only found in youth development. But in many sports, especially those with high levels of junior RAE, it ‘knocks on’ into senior level.
 
 \
@@ -56,4 +62,4 @@ Jude Bellingham plays in the German Bundesliga.
 
 R﻿eference:
 
-[José M. Yagüe, Alfonso de la Rubia, Joaquín Sánchez-Molina, Sergio Maroto-Izquierdo and Olga Molinero (2018). The Relative Age Effect in the 10 Best Leagues of Male Professional Football of the Union of European Football Associations (UEFA). Journal of Sports Science & Medicine, 17(3):409-416.](<https://www.researchgate.net/publication/327102179_The_Relative_Age_Effect_in_the_10_Best_Leagues_of_Male_Professional_Football_of_the_Union_of_European_Football_Associations_UEFA>)
+[José M. Yagüe, Alfonso de la Rubia, Joaquín Sánchez-Molina, Sergio Maroto-Izquierdo and Olga Molinero (2018). The Relative Age Effect in the 10 Best Leagues of Male Professional Football of the Union of European Football Associations (UEFA). Journal of Sports Science & Medicine, 17(3):409-416.](https://www.researchgate.net/publication/327102179_The_Relative_Age_Effect_in_the_10_Best_Leagues_of_Male_Professional_Football_of_the_Union_of_European_Football_Associations_UEFA)
