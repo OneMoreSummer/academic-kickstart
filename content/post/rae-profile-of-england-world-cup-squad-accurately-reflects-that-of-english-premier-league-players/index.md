@@ -41,8 +41,6 @@ Perhaps this analysis indicates a. no evidence that later born players reach hig
 
 There is also evidence of knock-on effects and RAE continuing its slow decline from it’s peak in the junior environment, right through 10 or 11 years of the professional senior environment.
 
-
-
 Data:
 
 As at 29.11.2022.
@@ -55,4 +53,4 @@ Jude Bellingham plays in the German Bundesliga.
 
 R﻿eference:
 
-José M. Yagüe, Alfonso de la Rubia, Joaquín Sánchez-Molina, Sergio Maroto-Izquierdo and Olga Molinero (2018). The Relative Age Effect in the 10 Best Leagues of Male Professional Football of the Union of European Football Associations (UEFA). Journal of Sport Science & Medicine, 17(3):409-416. <https://www.researchgate.net/publication/327102179_The_Relative_Age_Effect_in_the_10_Best_Leagues_of_Male_Professional_Football_of_the_Union_of_European_Football_Associations_UEFA>
+José M. Yagüe, Alfonso de la Rubia, Joaquín Sánchez-Molina, Sergio Maroto-Izquierdo and Olga Molinero (2018). The Relative Age Effect in the 10 Best Leagues of Male Professional Football of the Union of European Football Associations (UEFA). Journal of Sports Science & Medicine, 17(3):409-416. <https://www.researchgate.net/publication/327102179_The_Relative_Age_Effect_in_the_10_Best_Leagues_of_Male_Professional_Football_of_the_Union_of_European_Football_Associations_UEFA>
