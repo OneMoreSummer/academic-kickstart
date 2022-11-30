@@ -21,7 +21,7 @@ In this analysis, it is found that the RAE profile of English players in the EPL
 **\
 The Senior RAE Timeline**
 
-The age range of English EPL players in 2022 is 19-39 years. A tertile analysis shows how the RAE profile currently (2022) looks different for Rookie (19-25), Prime (25-29) and Veteran (29-39) English EPL players, with higher levels of RAE at the Rookie & Prime stages with RAE only appearing to ‘even out’ from age 29. Only 8 England World Cup players are in the Veteran group with 9 players in both Rookie and Prime groups.
+The age range of English EPL players in 2022 is 19-39 years. A tertile analysis shows how the RAE profile currently (2022) looks different for Rookie (19-25 yrs), Prime (25-29 yrs) and Veteran (29-39 yrs) English EPL players, with higher levels of RAE at the Rookie & Prime stages with RAE only appearing to ‘even out’ from age 29. Only 8 England World Cup players are in the Veteran group with 9 players in both Rookie and Prime groups.
 
 ![](english-epl-players-by-age-tertiles-rookie-prime-veteran-_-birth-quarter-.png)
 
