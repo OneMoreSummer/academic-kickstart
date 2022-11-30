@@ -9,8 +9,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The Relative Age Effect (RAE) profile of professional team sports is often assumed to be level (i.e. all 4 Birth Quarters are more or less level) and that RAE is only found in youth development. But in many sports, especially those with high levels of junior RAE, it ‘knocks on’ into senior level.
+The Relative Age Effect (RAE) profile of professional team sports is often assumed to be even (i.e. all 4 Birth Quarters are more or less level) and that RAE is only found in youth development. But in many sports, especially those with high levels of junior RAE, it ‘knocks on’ into senior level.
 
+\
 Yague et al (2018) found significant RAE in 9 of 10 European football (soccer) leagues with only Belgium not significant. The English Premier League (EPL) had a significant RAE (p=0.39) but with a small effect size (V=0.12, n=573), Q1 29%, Q2 21%, Q3 23%, Q4 27%. It is worth noting that this includes all EPL players, not just English players.
 
 In this analysis, it is found that the RAE profile of English players in the EPL is different with far fewer Q4 and more Q2 players, namely, Q1 28%, Q2 30%, Q3 26%, Q4 16% (n=154). Interestingly this accurately matches the England World Cup squad 2022 RAE profile, Q1 27%, Q2 31%, Q3 27%, Q4 15% (n=26).
