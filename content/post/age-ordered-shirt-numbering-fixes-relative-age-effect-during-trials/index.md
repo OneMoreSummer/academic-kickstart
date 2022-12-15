@@ -31,4 +31,11 @@ UPDATE 25.4.2021:
 
 Some as yet unpublished research repeated the age ordered shirts technique but with maturity rather than relative age and it worked equally well in countering coach evaluation biases. Dr. Sean Cumming, Department for Health, University of Bath.
 
-[Relative Age Effect and Maturation biases are two separate constructs.](https://onemoresummer.co.uk/post/relative-age-and-maturation-effects-are-separate-constructs/)
+U﻿PDATE 15.12.2022
+
+T﻿his research is now published.
+
+[Dennis Lüdin, Lars Donath, Stephen Cobley, David Mann & Michael Romann
+(2022) Player-labelling as a solution to overcome maturation selection biases in youth football, Journal of Sports Sciences, 40:14, 1641-1647, DOI: 10.1080/02640414.2022.2099077](https://doi.org/10.1080/02640414.2022.2099077)
+
+[](https://doi.org/10.1080/02640414.2022.2099077)[Relative Age Effect and Maturation biases are two separate constructs.](https://onemoresummer.co.uk/post/relative-age-and-maturation-effects-are-separate-constructs/)
