@@ -8,8 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
 ![](2drs3rq.jpg)
 
 Discrimination is defined as the unjust or prejudicial treatment of different categories of people, especially on the grounds of race, age, sex, or disability.
@@ -34,7 +32,7 @@ Can it be argued that the systemic Relative Age Effect found throughout the cric
 
 Participants include all County Cricket Boards, First Class Counties, the National Counties, leagues, clubs and other organisations under the jurisdiction of the ECB.
 
-Could an individual use the code as well as current legislation such as the Equality Act 2020 to take a club, county, or the ECB itself to court?
+Could an individual use the code as well as current legislation such as the Equality Act 2010 to take a club, county, or the ECB itself to court?
 
 [ECB Anti-Discrimination Code](https://resources.ecb.co.uk/ecb/document/2022/03/17/36918e2a-b649-489a-9295-ea3bb6b5d433/ECB_Anti-Discrimination_Code_2022_v5-1-.pdf) (2022)
 
