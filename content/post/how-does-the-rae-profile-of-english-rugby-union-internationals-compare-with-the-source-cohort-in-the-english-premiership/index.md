@@ -89,9 +89,9 @@ No differences were found in RAE between Forwards and Backs within EP players an
 
 [(1) Adam L. Kelly, Daniel T. Jackson, Donald Barrell, Kate Burke & Kevin Till (2021): The relative age effect in male and female English age-grade rugby union: Exploring the gender-specific mechanisms that underpin participation, Science and Medicine in Football.](https://doi.org/10.1080/24733938.2021.1955145)
 
-[](https://doi.org/10.1080/24733938.2021.1955145)[(2) Adam L. Kelly, Kevin Till, Daniel Jackson, Donald Barrell, Kate Burke and Jennifer Turnnidge (2021): Talent Identification and Relative Age Effects in English Male Rugby Union Pathways: From Entry to Expertise, Frontiers in Sports and Active Living.](https://doi.org/10.3389/fspor.2021.64060)
+[](https://doi.org/10.1080/24733938.2021.1955145)[(2) Adam L. Kelly, Kevin Till, Daniel Jackson, Donald Barrell, Kate Burke and Jennifer Turnnidge (2021): Talent Identification and Relative Age Effects in English Male Rugby Union Pathways: From Entry to Expertise, Frontiers in Sports and Active Living.](https://www.frontiersin.org/articles/10.3389/fspor.2021.640607/full)
 
-[](https://doi.org/10.1080/02640414.2017.1332420)[(3) P. E. Kearney (2017) Playing position influences the relative age effect in senior rugby union, Science & Sports (2017) 32, 114—116](https://www.sciencedirect.com/science/article/pii/S0765159717300230)
+[](https://www.frontiersin.org/articles/10.3389/fspor.2021.640607/full)[(3) P. E. Kearney (2017) Playing position influences the relative age effect in senior rugby union, Science & Sports (2017) 32, 114—116](https://www.sciencedirect.com/science/article/pii/S0765159717300230)
 
 [](https://doi.org/10.3389/fspor.2021.64060)[(4) Benjamin D. Jones, Gavin P. Lawrence & Lew Hardy (2018) New evidence of relative age effects in “super-elite” sportsmen: a case for the survival and evolution of the fittest, Journal of Sports Sciences, 36:6, 697-703, DOI: 10.1080/02640414.2017.1332420](https://doi.org/10.1080/02640414.2017.1332420)
 
