@@ -98,4 +98,4 @@ No differences were found in RAE between Forwards and Backs within EP players an
 [](https://www.sciencedirect.com/science/article/pii/S0765159717300230)**\
 Data**
 
-\* Dates of birth were collected from the itsrugby.com website for a. all English players who were part of an English Premiership rugby union club squad on 26.12.2021. Players not in the first list or who did not go through the English development system were excluded.
+\* Dates of birth were collected from the itsrugby.com website for all English players who were part of an English Premiership rugby union club squad on 26.12.2021. Players who did not go through the English development system were excluded.
