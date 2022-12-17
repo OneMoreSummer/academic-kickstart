@@ -23,7 +23,9 @@ Higher later born in England internationals than EP especially in the Backs 
 
 Q4 Backs (10) play far less career internationals than other BQ Backs (20-24)
 
+![](rugby-union.png)
 
+[Image by Freepik](https://www.freepik.com/free-photo/front-view-male-rugby-player-holding-ball-hip-with-copy-space_11619958.htm#query=rugby&from_query=rugby%20union&position=35&from_view=search&track=sph)
 
 **RAE in the English Premiership but no RAE for English Internationals**
 
