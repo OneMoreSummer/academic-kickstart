@@ -61,7 +61,7 @@ However, this difference in numbers of players selected isn’t reflected in the
 
 Matches per player for Forwards is relatively even whereas there is a lower level for Q4 Backs. This is reflected in the average number of matches played where there is little difference in the Forwards and the first three birth quarters for the backs but a marked difference in the Q4 backs (Q1 24, Q4 10).
 
-I﻿MG
+![](eng-2003-2022_-matches-per-player-by-birth-quarter-forwards_backs.png)
 
 **The Senior RAE Timeline**
 
@@ -69,11 +69,11 @@ The RAE profile of professional team sports is often assumed to be even (i.e. al
 
 The age range of EP players as at 26.12.2021 was 18-38 years with an average age of 26. A tertile analysis shows how the RAE profile looks different for Rookie (18-23 yrs), Prime (23-27 yrs) and Veteran (27-38 yrs) English EP players, with higher levels of RAE at the Rookie & Prime stages with RAE only appearing to ‘even out’ at the Veteran stage. The England 6 Nations squad for 2022 had an even distribution across these three age profiles with Rookie (10), Prime (11) & Veteran (11).
 
-I﻿MG
+![](english-premiership-2021_2022-half-year-s-by-rookie-prime-veteran-stages.png)
 
 By splitting the data into six groups a decline is further visible until age 30 where those born in the later half of the year are higher.
 
-I﻿MG
+![](half-year-effects-of-english-premiership-rugby-union-2021-2022_-semester-1-sep-feb-semester-2-mar-aug-.png)
 
 **Conclusion**
 
