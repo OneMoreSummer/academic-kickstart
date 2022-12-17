@@ -59,7 +59,7 @@ However, this difference in numbers of players selected isn’t reflected in the
 
 ![](eng-2003-2022_-player-matches-matches-for-forwards-backs.png)
 
-Matches per player for Forwards is relatively even whereas there is a lower level for Q4 Backs. This is reflected in the average number of matches played where there is little difference in the Forwards and the first three birth quarters for the backs but a marked difference in the Q4 backs (Q1 24, Q4 10).
+Matches per player for Forwards is relatively even whereas there is a lower level for Q4 Backs. This is reflected in the average number of matches played where there is little difference in the Forwards and the first three birth quarters for the backs but a marked difference in the Q4 backs (Q1 24, Q2 20, Q3 22, **Q4 10** matches).
 
 ![](eng-2003-2022_-matches-per-player-by-birth-quarter-forwards_backs.png)
 
