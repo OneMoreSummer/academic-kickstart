@@ -51,7 +51,7 @@ Table 2
 
 ![](table-2.png)
 
-Similar half-year levels were found for EP Backs, EP Forwards and England Forwards. However a difference was found between S1 and S2 for England Backs with a 42:58 split in favour of later born.
+Similar half-year levels were found for EP Backs, EP Forwards and England Forwards. However a difference was found for England Backs with a 42:58 split in favour of later born.
 
 ![](english-premiership-2021_2022-england-internationals-2003-2022_-forwards-backs-half-year-s.png)
 
