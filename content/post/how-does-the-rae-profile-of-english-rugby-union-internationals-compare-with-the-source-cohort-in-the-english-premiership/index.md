@@ -19,7 +19,7 @@ RAE continues its decline in senior Rugby Union (EP) until age 30
 
 No significant difference in Forwards & Backs for RAE in EP & England Internationals
 
-Higher later born in England internationals than EP especially in the Backs 
+Higher later born in England internationals than EP principally in the Backs 
 
 Q4 Backs (10) play far less career internationals than other BQ Backs (20-24)
 
