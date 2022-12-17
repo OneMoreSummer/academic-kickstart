@@ -29,11 +29,11 @@ Q4 Backs (10) play far less career internationals than all other Backs (20-24)
 
 **RAE in the English Premiership but no RAE for English Internationals**
 
-In rugby union in the English Premiership (EP) the Relative Age Effect (RAE) profile is Q1 31%, Q2 22%, Q3 25%, Q4 21% (χ2=8.883 p=0.03, n=393*). This is similar to the profile found by Kelly et al 2021 (1) in junior rugby union for U18s (Q1 29%, Q2 26%, Q3 24%, Q4 21%).
+In rugby union in the English Premiership (EP) the Relative Age Effect (RAE) profile is **Q1 31%, Q2 22%, Q3 25%, Q4 21%** (χ2=8.883 p=0.03, n=393*). This is similar to the profile found by Kelly et al 2021 (1) in junior rugby union for U18s (Q1 29%, Q2 26%, Q3 24%, Q4 21%).
 
-Whereas no RAE exists for England internationals 2003-2022, Q1 25%, Q2 21%, Q3 27%, Q4 27% (χ2=1.848 p=0.60, n=180). This is similar to the profile found by Kelly, Till et al (2021) (2) in England internationals (Q1 25%, Q2 12.5%, Q3 35%, Q4 27%, n=48).
+Whereas no RAE exists for England internationals 2003-2022, **Q1 25%, Q2 21%, Q3 27%, Q4 27%** (χ2=1.848 p=0.60, n=180). This is similar to the profile found by Kelly, Till et al (2021) (2) in England internationals (Q1 25%, Q2 12.5%, Q3 35%, Q4 27%, n=48).
 
-For a comparison, the England 6 Nations squad for 2022 was also examined as they were directly selected from the EP cohort. Birth Quarter %s were similar to the EP cohort Q1 28%, Q2 25%, Q3 28%, Q4 19% (χ2=0.75 p=0.86, n=32).
+For a comparison, the England 6 Nations squad for 2022 was also examined as they were directly selected from the EP cohort. Birth Quarter %s were similar to the EP cohort **Q1 28%, Q2 25%, Q3 28%, Q4 19%** (χ2=0.75 p=0.86, n=32).
 
 Table 1
 
