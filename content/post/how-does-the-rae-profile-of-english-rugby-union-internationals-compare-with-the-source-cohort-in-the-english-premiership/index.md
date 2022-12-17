@@ -45,7 +45,7 @@ A change from significant RAE in the EP to no RAE at the England international l
 
 **Positional Effects**
 
-This study found no significant RAE in Forwards or Backs (Table 2). Kearney, 2014 (3) in his study of the top 3 tiers of French rugby union found RAE in the Forwards but no RAE in the Backs. This is in contrast to Jones et al, 2018 (4) who found a Q1 bias in Backs and a Q4 bias in Forwards from the top 10 internationally ranked teams (including England).
+This study found no significant RAE in Forwards or Backs (Table 2). Kearney, 2014 (3) in his study of the top 3 tiers of French rugby union found RAE in the Forwards but no RAE in the Backs. This is in contrast to Jones et al, 2018 (4) who found a Q1 bias in Backs and a Q4 bias in Forwards from the top 10 internationally ranked teams.
 
 Table 2
 
