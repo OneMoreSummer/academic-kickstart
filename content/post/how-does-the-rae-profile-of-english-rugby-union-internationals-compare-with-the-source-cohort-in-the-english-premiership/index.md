@@ -21,7 +21,7 @@ No significant difference in Forwards & Backs for RAE in EP & England Internatio
 
 Higher later born in England internationals than EP principally in the Backs 
 
-Q4 Backs (10) play far less career internationals than other BQ Backs (20-24)
+Q4 Backs (10) play far less career internationals than all other Backs (20-24)
 
 ![](rugby-union.png)
 
