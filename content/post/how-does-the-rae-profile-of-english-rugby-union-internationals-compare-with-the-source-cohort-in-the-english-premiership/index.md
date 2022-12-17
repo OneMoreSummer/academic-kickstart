@@ -43,7 +43,7 @@ Table 1
 
 A change from significant RAE in the EP to no RAE at the England international level appears to be from a fall in Q1 (31%->25%) and a rise in Q4 (21%-27%).
 
-Positional Effects
+**Positional Effects**
 
 This study found no significant RAE in Forwards or Backs (Table 2). This is in contrast to Jones et al, 2018 (3) who found a Q1 bias in Backs and a Q4 bias in Forwards from the top 10 internationally ranked teams (including England). Kearney, 2014 (4) in his study of the top 3 tiers of French rugby union found 
 
