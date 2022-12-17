@@ -45,7 +45,7 @@ A change from significant RAE in the EP to no RAE at the England international l
 
 **Positional Effects**
 
-This study found no significant RAE in Forwards or Backs (Table 2). This is in contrast to Jones et al, 2018 (3) who found a Q1 bias in Backs and a Q4 bias in Forwards from the top 10 internationally ranked teams (including England). Kearney, 2014 (4) in his study of the top 3 tiers of French rugby union found 
+This study found no significant RAE in Forwards or Backs (Table 2). Kearney, 2014 (3) in his study of the top 3 tiers of French rugby union found RAE in the Forwards but no RAE in the Backs. This is in contrast to Jones et al, 2018 (4) who found a Q1 bias in Backs and a Q4 bias in Forwards from the top 10 internationally ranked teams (including England).
 
 Table 2
 
@@ -91,9 +91,9 @@ No evidence is found for differences in RAE between Forwards and Backs within EP
 
 [](https://doi.org/10.1080/24733938.2021.1955145)[(2) Adam L. Kelly, Kevin Till, Daniel Jackson, Donald Barrell, Kate Burke and Jennifer Turnnidge (2021): Talent Identification and Relative Age Effects in English Male Rugby Union Pathways: From Entry to Expertise, Frontiers in Sports and Active Living.](https://doi.org/10.3389/fspor.2021.64060)
 
-[](https://doi.org/10.3389/fspor.2021.64060)[(3) Benjamin D. Jones, Gavin P. Lawrence & Lew Hardy (2018) New evidence of relative age effects in “super-elite” sportsmen: a case for the survival and evolution of the fittest, Journal of Sports Sciences, 36:6, 697-703, DOI: 10.1080/02640414.2017.1332420](https://doi.org/10.1080/02640414.2017.1332420)
+[](https://doi.org/10.1080/02640414.2017.1332420)[(3) P. E. Kearney (2017) Playing position influences the relative age effect in senior rugby union, Science & Sports (2017) 32, 114—116](https://www.sciencedirect.com/science/article/pii/S0765159717300230)
 
-[](https://doi.org/10.1080/02640414.2017.1332420)[(4) P. E. Kearney (2017) Playing position influences the relative age effect in senior rugby union, Science & Sports (2017) 32, 114—116](https://www.sciencedirect.com/science/article/pii/S0765159717300230)
+[](https://doi.org/10.3389/fspor.2021.64060)[(4) Benjamin D. Jones, Gavin P. Lawrence & Lew Hardy (2018) New evidence of relative age effects in “super-elite” sportsmen: a case for the survival and evolution of the fittest, Journal of Sports Sciences, 36:6, 697-703, DOI: 10.1080/02640414.2017.1332420](https://doi.org/10.1080/02640414.2017.1332420)
 
 [](https://www.sciencedirect.com/science/article/pii/S0765159717300230)**\
 Data**
