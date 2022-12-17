@@ -83,7 +83,7 @@ However this is not reflected in the 6 Nations squad of 2022 which had a similar
 
 Knock on effects of RAE from junior into senior professional rugby union were found and a slow decline continued until age 30.
 
-No differences were found in RAE between Forwards and Backs within EP players and Forwards for England international but a RAE reversal (non-significant) was found for England Backs.
+No differences were found in RAE between Forwards and Backs within EP players and Forwards for England internationals but a RAE reversal (non-significant) was found for England Backs.
 
 **References**
 
