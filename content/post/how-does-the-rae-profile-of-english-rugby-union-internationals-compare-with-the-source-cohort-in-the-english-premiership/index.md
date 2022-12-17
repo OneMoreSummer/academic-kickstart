@@ -11,7 +11,7 @@ image:
 ---
 **Highlights**
 
-Junior RAE knocks on to the English Premiership 2021/2022 (EP) in Rugby Union
+Junior RAE knocks on to the English Premiership 2021/22 (EP) in Rugby Union
 
 No RAE in England Internationals (2003-2022)
 
