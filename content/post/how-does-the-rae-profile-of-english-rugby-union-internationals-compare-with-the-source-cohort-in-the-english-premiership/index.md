@@ -79,7 +79,7 @@ By splitting the data into six groups a decline is further visible until age 30 
 
 This analysis shows no significant evidence that later born players reach higher levels (Underdog Hypothesis) in Rugby Union. However RAE was found in the source cohort of professionals (EP) but not in a level above (England internationals). This was mainly due to an increase of Q4 players and a decrease in Q1 specifically.
 
-However this is not reflected in the 6 Nations squad of 2022 which had a similar RAE profile to the EP of 2021/2022. Further when looking at actual matches played by England internationals over the 20 year period, Q4 Backs were found to play far fewer career matches than any other Birth Quarter. 
+However this is not reflected in the 6 Nations squad of 2022 which had a similar RAE profile to the EP of 2021/2022. Further, when looking at actual matches played by England internationals over the 20 year period, Q4 Backs were found to play far fewer career matches than any other Birth Quarter. 
 
 Knock on effects of RAE from junior into senior professional rugby union were found and a slow decline continued until age 30.
 
