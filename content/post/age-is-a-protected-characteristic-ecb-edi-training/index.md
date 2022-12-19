@@ -21,6 +21,6 @@ So it is **unlawful** to discriminate because of **age** indirectly through rule
 
 Every year the ECB hold an event for Regional U15s. This **arrangement** forms the first stage of the ECB international pathway. The ECB has a **rule** that players are only allowed to play if they are 14 or under on the 31st August of the previous year. This is a chosen cut-off date.
 
-If you are born in the first three months of this administrative year (i.e. September, October and November) you are **4x more likely** to be selected for the Regional U15s than if you are born at the end of the administrative year (June, July & August) (Kelly et al, 2021). This, to me, seems like **a particular disadvantage** and **treating someone less favourably because of their age**. These figures are known and quoted by the ECB yet they have a **policy** of ignoring them.
+If you are born in the first three months of this administrative year (i.e. September, October and November) you are **4x more likely** to be selected for the Regional U15s than if you are born at the end of the administrative year (June, July & August) (Kelly et al, 2021). This seems like **a particular disadvantage** and **treating someone less favourably because of their age**. These figures are known and quoted by the ECB yet they have a **policy** of ignoring them.
 
 Is this therefore unlawful? Is it, at the very least, a breach of the ECB Anti-Discrimination Code (2022)?
