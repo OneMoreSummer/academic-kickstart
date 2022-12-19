@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The ECB have produced an excellent EDI online training module for recreational cricket. This is, in part, a response to recent findings of racism in cricket as discussed by the DCMS committee for example. 
+The ECB have produced an excellent [EDI online training module for recreational cricket](https://antidiscriminationrecreationalgame.ecb.co.uk/). This is, in part, a response to recent findings of racism in cricket as discussed by the DCMS committee for example. 
 
 The module explains that age is one of the protected characteristics within the [ECB Anti-Discrimination Code (2022)](https://resources.ecb.co.uk/ecb/document/2022/03/17/36918e2a-b649-489a-9295-ea3bb6b5d433/ECB_Anti-Discrimination_Code_2022_v5-1-.pdf).
 
