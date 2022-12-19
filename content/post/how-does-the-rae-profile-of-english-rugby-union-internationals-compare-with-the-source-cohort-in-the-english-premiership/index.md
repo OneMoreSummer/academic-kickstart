@@ -81,6 +81,9 @@ This analysis shows no significant evidence that later born players reach higher
 
 However this is not reflected in the 6 Nations squad of 2022 which had a similar RAE profile to the EP of 2021/2022. Further, when looking at actual matches played by England internationals over the 20 year period, Q4 Backs were found to play far fewer career matches than any other Birth Quarter. 
 
+The RAE profile of England internationals was not significant against national norms (χ2=1.848 p=0.60, n=180) or against the source cohort, the EP (χ2=5.305 p=0.15).
+
+\
 Knock on effects of RAE from junior into senior professional rugby union were found and a slow decline continued until age 30.
 
 No differences were found in RAE between Forwards and Backs within EP players and Forwards for England internationals but a RAE reversal (non-significant) was found for England Backs.
