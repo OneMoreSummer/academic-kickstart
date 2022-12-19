@@ -15,7 +15,7 @@ The module explains that age is one of the protected characteristics within the 
 The module also includes the following statements:
 
 1. **It is unlawful to treat someone less, or more, favourably because of their age.**
-2. **Indirect discrimination is putting rules, policies or arrangments in place that apply to everyone but put someone with a protected characteristic at a particular disadvantage.**
+2. **Indirect discrimination is putting rules, policies or arrangements in place that apply to everyone but put someone with a protected characteristic at a particular disadvantage.**
 
 So it is **unlawful** to discriminate because of **age** indirectly through rules, policies or arrangements.
 
