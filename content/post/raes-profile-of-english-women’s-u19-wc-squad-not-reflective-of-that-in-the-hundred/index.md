@@ -9,7 +9,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-93%* of the English Women’s U19 World Cup squad 2023 (n=15) are born in the first half of the year.No RAEs are found across the women players in the eight teams of The Hundred 2022 (n=91).
+93%* of the English Women’s U19 World Cup squad 2023 (n=15) are born in the first half of the year.
+
+No RAEs are found across the women players in the eight teams of The Hundred 2022 (n=91).
 
 ![](women-s-the-hundred-players-2022-n-91-u19-world-cup-squad-2023-n-15-by-birth-quarter.png)
 
