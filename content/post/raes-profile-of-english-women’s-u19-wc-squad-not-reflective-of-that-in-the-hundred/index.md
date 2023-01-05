@@ -23,4 +23,4 @@ Only 5% of sport research is for female participants. Research into the developm
 
 Potentially the professionalisation of regional EPP & Academy girls programmes could create similar issues around RAEs and Maturation selection bias found in the boys development pathway. 
 
-\* One date of Birth was unavailable.
+\* One date of birth was unavailable.
