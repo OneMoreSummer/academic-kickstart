@@ -124,6 +124,6 @@ Today’s simple chronological age groupings, which ignore RAEs and maturation b
 
 Relative age effects are not inevitable. Maturation effects are measurable. The evidence largely exists. Making the necessary adjustments to compensate for these biases is not only fairer for the individual player in the short-term, but also better for the professional game in the long-term.
 
-By Dr. Adam Kelly, Senior Lecturer and Course Leader for Sports Coaching and Physical Education, Birmingham City University,  Dr. Sean Cumming, Professor in Paediatric Exercise Science, University of Bath and Rob Reed, RAE researcher.
+By Dr. Adam Kelly, Senior Lecturer and Course Leader for Sports Coaching and Physical Education, Birmingham City University,  Prof. Sean Cumming, Professor in Paediatric Exercise Science, University of Bath and Rob Reed, RAE researcher.
 
 Adam [@AdamKelly07](https://twitter.com/AdamKelly07), Sean [@phd_sean](https://twitter.com/phd_sean), Rob [@nothirdman](https://twitter.com/NoThirdMan)
