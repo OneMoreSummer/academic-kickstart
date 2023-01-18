@@ -47,19 +47,11 @@ Peak Height Velocity (PHV) and percentage of predicted adult height are commonly
 
 There are a number of hypotheses as to how RAEs occur. One is the effects of interactions between players and coaches, parents, and/or peers. Early born players performing better are more often selected for county age groups for example, where they will benefit from more coaching and practice. This increases their ‘training age’ and furthers their advantage. 
 
-
-
 In a county age group environment, coaches are naturally drawn to the more competent, confident players who are higher in self-esteem and social/emotional skills. These are more likely to be early born. Coaches show faith in these players and encourage them. This often means the player succeeds more than they otherwise would.
-
-
 
 Players themselves are more likely to succeed if they believe in themselves. Coaches and/or parents' belief, as well as the belief of peers, in a player can lead to higher levels of self-belief. A ‘I can and I will’ attitude can become a self-fulfilling prophecy for early born players. These three effects are suggested mechanisms for RAEs.
 
-
-
-What are the mechanisms of maturation bias?
-
-
+**What are the mechanisms of maturation bias?**
 
 When significant physical advantages also begin to appear in the adolescent years through maturation, performance differences are more obvious. Coaches make selection decisions mainly on performance and thus a bias for early maturers begins. Coaches may also have a ‘type’ of player in mind that has a minimum requirement of height/weight/athleticism. Later maturers often are at a disadvantage in these respects.  
 
