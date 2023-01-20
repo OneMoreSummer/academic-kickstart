@@ -28,6 +28,6 @@ Unlike the boys county pathway whereby squads exist for every year group from U1
 
 Also there are only eight regional academies and not eighteen county academies as in the men’s game. We know that increased levels of competition for places/selection can lead to higher levels of RAEs. 
 
-A recent article revealed that there is no RAE for English players across the eight teams of The Hundred. However the 91 players in this cohort range in age from x to 37. Perhaps many of these players were developed before recent cash injections into the development of new professional pathways?
+A recent article revealed that there is [no RAE for English players across the eight teams of The Hundred](https://onemoresummer.co.uk/post/raes-profile-of-english-womens-u19-wc-squad-not-reflective-of-that-in-the-hundred/). However the 91 players in this cohort range in age from 16 to 37. Perhaps many of these players were developed before recent cash injections into the development of new professional pathways?
 
 The recently published ECB Talent Development Framework ‘Unleashing Potential’ contains nothing about addressing Relative Age or Maturation bias. Is the women and girls game making the same mistakes as those of the men and boys?
