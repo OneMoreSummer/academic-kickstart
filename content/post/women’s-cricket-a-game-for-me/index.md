@@ -14,6 +14,10 @@ Relative Age Effects (RAEs) are found at U15, U17 and U19 levels in male English
 
 ![](birth-quarters-of-school-games-2021_2022-players-n-49_-and-england-u19s-wc-squad-2022-n-15-.png)
 
+**These are quite extraordinary levels of RAEs.**
+
+
+
 More professional players have to come from somewhere and the introduction of county and  regional emerging player programmes (EPP) and academies is the source.
 
 EPPs start at age 13 and purposefully are small in number (5-10) and are another layer of development between County Age Group (CAG) squads and Regional Academies of which there are eight.
