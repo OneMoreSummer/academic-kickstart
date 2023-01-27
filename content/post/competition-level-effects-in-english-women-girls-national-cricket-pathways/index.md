@@ -46,9 +46,9 @@ Women’s cricket is almost all white ball. The School Games are T20 only and th
 
 In English male cricket Q1 players appear more suited to shorter formats. We have seen the dominance of [Q1s in T10 cricket](https://onemoresummer.co.uk/post/what-format-do-q1-english-male-batters-excel-at-the-shorter-the-better/). When analysing the top 50 IT20 batters by runs, Q1s only make up 20% of selected players but a massive 36% of all runs scored. Within the top 50 run scorers in Test cricket however, Q1s perform significantly worse than all other Birth Quarters.
 
-The current England Women senior squad of contracted players (n=18) has 66% of players born in the second half of the year. This is not typical. From 2004-2021 the split was in favour of early born (56% for first half of year) in IT20s. These selection rates are not reflected in [career length (# of matches)](https://onemoresummer.co.uk/post/why-do-later-born-players-have-longer-careers-for-england-women-in-t20-cricket/), to a surprising degree (Q1 14.7, Q2 30.2, Q3 47.7, Q4 45.7).
+The current England Women senior squad of contracted players (n=18) has 66% of players born in the second half of the year. This is not typical. From 2004-2021 the split was in favour of early born (56% for first half of year) in IT20s. However, these selection rates are not reflected in [career length (# of matches)](https://onemoresummer.co.uk/post/why-do-later-born-players-have-longer-careers-for-england-women-in-t20-cricket/), to a surprising degree (Q1 14.7, Q2 30.2, Q3 47.7, Q4 45.7). 
 
-So, much as the men’s pathway does, the women’s pathway is providing too many early born players who will inevitably be lost from the game at the highest levels. In conjunction not enough later born are being given enough opportunities to develop. These systemic issues, all too familiar in the men’s game, are being replicated with short-term thinking, as the women’s game expands.
+So, much as the men’s pathway, the women’s pathway is providing too many early born players who will inevitably be lost from the game at the highest levels. In conjunction not enough later born are being given enough opportunities to develop. These systemic issues, all too familiar in the men’s game, are being replicated with short-term thinking, as the women’s game expands.
 
 **\
 L﻿imitations**
