@@ -26,6 +26,9 @@ F﻿igure 2
 
 ![](birth-quarter-of-the-england-women-girls-national-pathway.png)
 
+Often in the research literature, RAEs are shown to increase with competition level such as County to Region and Region to National as appears to be the case here.
+
+\
 **Mechanisms**
 
 How does this happen? Do later born players receive fewer opportunities?
