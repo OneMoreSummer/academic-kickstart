@@ -10,8 +10,6 @@ image:
 ---
 **Highlights**
 
-
-
 Extraordinary levels of RAEs within the women’s national pathway
 
 RAEs increase with every stage of the women’s national pathway
@@ -20,13 +18,9 @@ RAE Reversal in current national senior squad 
 
 Perhaps, shorter formats (T20) favour early born.
 
-Professionalisation, player pool concentration, early selection, double age groups may also contribute.
-
-
+Professionalisation, player pool concentration, early selection and double age groups may also contribute.
 
 Is it more important to win an U19 World Cup or develop players for the senior national team? Figures 1 and 2 below show how the national player pathway is developing far more early born players, yet the current England Women’s squad of contracted players has a completely different RAE profile.
-
-
 
 Figure 1
 
