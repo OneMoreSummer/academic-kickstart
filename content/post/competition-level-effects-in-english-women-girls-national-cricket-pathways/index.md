@@ -65,3 +65,5 @@ School Games 7 from 39 (20%)
 Regional Festivals 60 from 169 (36%)
 
 Alice Capsey and Freya Kemp, who are contracted players for England Women 2022/2023, are qualified and could have played in the U19 WC had they not been injured. But even then the Half Year split would only be 12:3.
+
+D﻿ata also from nvplay.com
