@@ -9,7 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In a recent podcast students from the University of Pennsylvania took part in an interesting experiment. In answering a spurious questionnaire about the factors that may have helped them to the Ivy League, the students inadvertently provided the single most important data point at the top of the page. They had to write their date of birth.
+Students from the University of Pennsylvania recently took part in an interesting experiment. In answering a spurious questionnaire about the factors that may have helped them to the Ivy League, the students inadvertently provided the single most important data point at the top of the page. They had to write their date of birth.
 
 Later all is revealed and they are amazed that ‘all’ of them are old for their cohort. What happens next is even more revealing. Upon being given an easy way to ‘fix’ this problem, the Relative Age Effect, literally no-one is very keen to support it.
 
