@@ -17,6 +17,8 @@ Why? They didn’t want their achievements to be devalued. Perhaps it is just hu
 
 ![](leadership.jpg)
 
+[Image by Freepik](https://www.freepik.com/free-photo/still-life-business-roles-with-various-pawns_24749587.htm#query=leader&position=10&from_view=search&track=popular")
+
 Relative Age Effects are found in both boys and girls English cricket. This is a phenomenon that has been well known for about 40 years. Why has nothing been done about it? Perhaps we need to examine who is in charge?
 
 Being the oldest in your year at school & in your age group for sport has an effect. From an early age you are likely to have more neural development and be more cognitively, socially and emotionally aware. This affects competence, confidence and your ability to lead. Coaches too perhaps have a bias to give older kids more opportunities for leadership.
