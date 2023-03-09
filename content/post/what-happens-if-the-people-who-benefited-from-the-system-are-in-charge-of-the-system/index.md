@@ -21,8 +21,9 @@ Why? They didn’t want their achievements to be devalued. Perhaps it is just hu
 
 **W﻿ho is in charge?**
 
-Relative Age Effects are found in both boys and girls English cricket. This is a phenomenon that has been well known for about 40 years. Why has nothing been done about it? Perhaps we need to examine who is in charge?
+Relative Age Effect is a phenomenon that has been well known for about 40 years and is found in both boys and girls English cricket. Why has nothing been done about it? Perhaps we need to examine who is in charge?
 
+\
 Being the oldest in your year at school & in your age group for sport has an effect. From an early age you are likely to have more neural development and be more cognitively, socially and emotionally aware. This affects competence, confidence and your ability to lead. Coaches too perhaps have a bias to give older kids more opportunities for leadership.
 
 The Cricketer magazine recently, quite rightly, highlighted the incredible work done by members of the England Women cricket team from the 2000s, who now in administrative roles, are building a new landscape of opportunity for girls to play cricket for fun as well as being professional players. What was also interesting about the list of 15 leaders was that two thirds of them were born in the first half of the year with many born in September alone.    
