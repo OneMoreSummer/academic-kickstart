@@ -30,6 +30,6 @@ The Cricketer magazine recently, quite rightly, highlighted the incredible work 
 
 Are these leaders less inclined to recognise the issues of RAEs in girls cricket and take action?
 
-The last 3 England Women captains, Knight, Edwards & Connor are all born in the first 4 months of the year. Grace Scrivens who led the inaugural England Women U19 World Cup team is too. In the first 4 men’s U19 World Cups every English captain was born Sept-Nov.
+The last 3 England Women captains, Knight, Edwards & Connor are all born in the first 4 months of the year. The captain of the inaugural England Women’s U19 World Cup team is too, as well as the first 4 men’s U19 World Cup captains.
 
 The most influential person on the list is Claire Conner. As MD of English women’s cricket since 2007 she, as Charlotte Edwards puts it, ‘has driven all of what is happening today’. Born on September 1st, where would she be & where would the system be if she had been born just 24 hours earlier?
