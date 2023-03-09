@@ -13,7 +13,7 @@ Students from the University of Pennsylvania recently took part in an interestin
 
 Later all is explained and they are amazed that ‘all’ of them are old for their cohort. What happens next is even more revealing. Upon being given an easy way to ‘fix’ this problem, the Relative Age Effect, literally no-one is very keen to support it.
 
-Why? They didn’t want their achievements to be devalued. Perhaps it is just human nature to struggle to come to terms with recognizing a system that had worked in their favour. What begins as arbitrary advantage hardens into privilege and when you’re accustomed to privilege, equality feels like oppression.
+Why? They didn’t want their achievements to be devalued. Perhaps it is just human nature to struggle to come to terms with recognizing a system that has worked in your favour. What begins as arbitrary advantage hardens into privilege and when you’re accustomed to privilege, equality feels like oppression.
 
 ![](leadership.jpg)
 
