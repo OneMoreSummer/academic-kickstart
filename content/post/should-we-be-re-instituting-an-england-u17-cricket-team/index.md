@@ -40,7 +40,7 @@ Of 32 players 60% were born in the first half of the year*
 
 4 players went on to play for England (any format)
 
-2 of those players played 1 match only
+2 of those players played 1 Test match only
 
 1 player is realistically, currently in contention for England
 
@@ -52,6 +52,6 @@ Is it worth it? Are we throwing valuable resources at the wrong players? 
 
 Measure & monitor maturation and birth quarter to be more aware of selection biases.
 
-Use age-ordered bibs for all coach/players observations.
+Use age-ordered bibs for all coach observations of players.
 
 Institute a Futures U19 programme instead of going backwards for national team age groups.
