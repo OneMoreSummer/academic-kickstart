@@ -10,7 +10,7 @@ image:
 ---
 HEADLINES
 
-ECB run trial matches for 15s/16s at Loughborough this month
+ECB run matches for 15s/16s at Loughborough this month
 
 Maturational selection bias and Relative Age Effect are high at these ages
 
