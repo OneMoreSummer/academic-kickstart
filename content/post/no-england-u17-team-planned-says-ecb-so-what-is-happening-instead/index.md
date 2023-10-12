@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In a recent article I questioned the risk/benefits of reintroducing an England U17 programme, a recommendation of Andrew Strauss’s High Performance Review. Issues of growth & maturation bias, return on investment and alternative options such as an U19 Futures team were discussed.
+In a recent article I questioned the [risk/benefits of reintroducing an England U17 programme](https://onemoresummer.co.uk/post/should-we-be-re-instituting-an-england-u17-cricket-team/), a recommendation of Andrew Strauss’s High Performance Review. Issues of growth & maturation bias, return on investment and alternative options such as an U19 Futures team were discussed.
 
 The article was prompted by what I, mistakenly, described as recent ‘trial’ matches played at Loughborough for mainly U15 & U16 players as part of the Young Lions programme. 
 
@@ -25,8 +25,6 @@ So these invitational matches are designed to provide benefits for players and t
 5. Provide ‘England pathway’ events for players either too old/not selected for Bunbury (U15) or too young/not selected for Super 4s (U18). 
 
 Whilst these objectives are highly commendable will growth & maturation issues distort the benchmarking process as they have historically at U15 through to U19? [We know Relative Age Effect (RAE) is significant at these age groups.](https://onemoresummer.co.uk/post/relative-age-effects-in-male-cricket-a-personal-assets-approach-to-explain-immediate-short-term-and-long-term-developmental-outcomes/) We suspect maturation selection bias is also strong, with competition level effects (i.e. national level in this case) compounding both of these [two constructs, RAE & maturation](https://onemoresummer.co.uk/post/unnatural-selection-the-myths-and-misconceptions-of-relative-age-effects-and-maturation-biases/).
-
-
 
 **What is being done to address Relative Age Effect & maturation issues?**
 
@@ -48,8 +46,6 @@ Maturation**
 No recent & reliable published evidence exists of maturation bias in English cricket yet,  however the ECB are now acknowledging this is a problem and are taking steps to address it.
 
 *‘This year we have requested all counties to provide maturation data for all Bunbury players who are in contention for selection. Our science and medicine team record maturation status of all players at Bunbury and Super 4s.’* David Court
-
-
 
 **Conclusions**
 
