@@ -63,4 +63,6 @@ Perhaps an England U19 Futures programme, similar to that benefiting Belgium foo
 
 
 
-**References**1. Kelly, A.L.; Brown, T.; Reed, R.; Côté, J.; Turnnidge, J. Relative Age Effects in Male Cricket: A Personal Assets Approach to Explain Immediate, Short-Term, and Long-Term Developmental Outcomes. Sports 2022, 10, 39. <https://doi.org/10.3390/sports10030039>
+**References**
+
+1. Kelly, A.L.; Brown, T.; Reed, R.; Côté, J.; Turnnidge, J. Relative Age Effects in Male Cricket: A Personal Assets Approach to Explain Immediate, Short-Term, and Long-Term Developmental Outcomes. Sports 2022, 10, 39. <https://doi.org/10.3390/sports10030039>
