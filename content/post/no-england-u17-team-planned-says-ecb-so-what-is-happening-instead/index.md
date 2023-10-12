@@ -60,3 +60,7 @@ RAE remains a problem as we can see from the last England U19 squad and the leve
 We know from sports literature that junior selection doesn’t always/often lead to senior success, especially at younger and younger age groups. Until the England Young Lions pathway fully addresses both RAE and maturation selection bias then the desire to provide development & benchmarking opportunities for ‘the (current) best’ players at 15 through to 19 will continue to favour some over others. 
 
 Perhaps an England U19 Futures programme, similar to that benefiting Belgium football, could help later maturing and/or later born players from being lost to the system?
+
+
+
+**References**1. Kelly, A.L.; Brown, T.; Reed, R.; Côté, J.; Turnnidge, J. Relative Age Effects in Male Cricket: A Personal Assets Approach to Explain Immediate, Short-Term, and Long-Term Developmental Outcomes. Sports 2022, 10, 39. <https://doi.org/10.3390/sports10030039>
