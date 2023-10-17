@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-If you are one of the 21 man squad for the upcoming England Lions training camp how did you get there?
+If you are one of the 21 man squad for the [upcoming England Lions training camp](https://www.ecb.co.uk/news/3740217/england-lions-announce-group-for-winter-training-camp) how did you get there?
 
 The 3 week camp for red ball skills is a mix of players, from Rehan Ahmed at age 19 to Brydon Carse at 28. 10 players are younger than 23 with 11 players older with more bowlers than batters.
 
