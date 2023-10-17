@@ -36,7 +36,7 @@ Discounting those players with South African and Northern Irish upbringing, of 1
 
 19s 47%
 
-So perhaps quite a mixture of journeys, with only a few obvious ‘talents’ on a linear path. Most of these players have had moments of non-selection and some are only just reaching these levels at around 25 years of age, bowlers and batters alike. 
+So perhaps quite a mixture of journeys, with only very few obvious ‘talents’ on a linear path. Most of these players have had moments of non-selection and some are only just reaching these levels at around 25 years of age, bowlers and batters alike. 
 
 \* Until recently the Super 4s was an U17 competition (with some over age U18s playing) but has recently changed to U18.
 
