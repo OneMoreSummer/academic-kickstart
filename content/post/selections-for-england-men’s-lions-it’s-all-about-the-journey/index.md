@@ -20,7 +20,7 @@ Q1 19%, Q2 38%, Q3 24%, Q4 19% (S1 57%, S2 43%), n=21
 
 This is more S1 biassed than the 48:52 average from 2011 to 2020 (Ref 1), mainly from a S1 (first half of the year) bias within the older half of the group, 64:36, compared to a 50:50 split in the younger half. This may be influenced by the batter/bowler ratio. For batters RAE is 40:60 and for bowlers 63:38.
 
-The RAE profile is lower than that found at England U19s but higher than that found within the full England team (Tests from 2000-2020) of Q1 21%, Q2 28%, Q3 28%, Q4 21%, and reflects the slow decline of RAE as players age. Players from over-selected birth quarters fade from the system at a higher rate than the under-selected birth quarters. 
+The RAE profile is lower than that found at England U19s but higher than that found within the full England team and reflects the slow decline of RAE as players age. Players from over-selected birth quarters fade from the system at a higher rate than the under-selected birth quarters. 
 
 **It’s all about the journey.**
 
