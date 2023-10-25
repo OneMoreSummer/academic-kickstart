@@ -57,6 +57,8 @@ Football had significant RAEs at the Prime (χ2=3.99, p=0.05) and All (χ2=4.11,
 
 36+ 1.9
 
+![](weighted-numbers-per-age-for-cricket-rugby-union-rugby-league-and-football-1-.png)
+
 DISCUSSION
 
 For all sports combined, the tertile analysis found a decline over time of RAEs by semester, but with the Rookie and Prime stages fairly similar and only at the Veteran stage do the semesters even out.
