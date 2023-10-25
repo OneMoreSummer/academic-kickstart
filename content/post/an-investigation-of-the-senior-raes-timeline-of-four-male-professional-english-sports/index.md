@@ -29,11 +29,11 @@ Birth quarter analysis for all sports combined showed more variability for Q2 an
 
 Rookie Q1 30%, Q2 26%, Q3 21%, Q4 23% (S1 56% S2 44%) Age 17-24 (Avg 21.4)
 
-Prime 27, 29, 22, 22 (56:44) 24-28 (25.7)
+Prime Q1 27%, Q2 29%, Q3 22%, Q4 22% (S1 56% S2 44%) Age 24-28 (Avg 25.7)
 
-Veteran 30, 20, 28, 23 (49.6:50.4) 28-45 (31.5)
+Veteran Q1 30%, Q2 20%, Q3 28%, Q4 23% (S1 49.6% S2 50.4%) Age 28-45 (Avg 31.5)
 
-All 29, 25, 23, 23 (54:46) 17-45 (26.2)
+All Q1 29%, Q2 25%, Q3 23%, Q4 23% (S1 54% S2 46%) Age 17-45 (Avg 26.2)
 
 ![](senior-timeline-for-all-sports-by-birth-quarter-.png)
 
