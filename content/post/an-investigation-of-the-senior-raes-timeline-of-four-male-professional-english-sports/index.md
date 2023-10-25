@@ -35,6 +35,8 @@ Veteran 30, 20, 28, 23 (49.6:50.4) 28-45 (31.5)
 
 All 29, 25, 23, 23 (54:46) 17-45 (26.2)
 
+![](senior-timeline-for-all-sports-by-birth-quarter-.png)
+
 Within the sports, cricket almost had significant RAEs at the Rookie stage (χ2=3.59, p=0.06), by semester, but none at either Prime or Veteran as well as declining Cramers V values by birth quarter as players aged (Rookie=0.134, Prime=0.088, Veteran=0.075).
 
 RU had significant RAEs at the Veteran stage (χ2=7.86, p=0.05) by birth quarter as well as overall (χ2=9.06, p=0.03) due to particularly low numbers of Q2s.  Almost significant RAEs were observed at the Rookie stage (χ2=6.70, p=0.08). Semester effects were not significant but a decline was observed at the Veteran stage.
