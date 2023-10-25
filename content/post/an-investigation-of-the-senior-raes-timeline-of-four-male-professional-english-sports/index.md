@@ -27,11 +27,11 @@ Significant RAEs were found for the Rookie & Veteran tertile stages of the timel
 
 Birth quarter analysis for all sports combined showed more variability for Q2 and Q3 with a particular effect at the Veteran stage showing a decline in Q2 and a rise in Q3. Both Q1 and Q4 remained fairly consistent across age tertiles.
 
-Rookie Q1 30%, Q2 26%, Q3 21%, Q4 23% (S1 56% S2 44%) Age 17-24 (Avg 21.4)
+Rookie Q1 30%, Q2 26%, Q3 21%, Q4 23% (S1 56% S2 44%) Age 17-24
 
-Prime Q1 27%, Q2 29%, Q3 22%, Q4 22% (S1 56% S2 44%) Age 24-28 (Avg 25.7)
+Prime Q1 27%, Q2 29%, Q3 22%, Q4 22% (S1 56% S2 44%) Age 24-28
 
-Veteran Q1 30%, Q2 20%, Q3 28%, Q4 23% (S1 49.6% S2 50.4%) Age 28-45 (Avg 31.5)
+Veteran Q1 30%, Q2 20%, Q3 28%, Q4 23% (S1 49.6% S2 50.4%) Age 28-45
 
 All Q1 29%, Q2 25%, Q3 23%, Q4 23% (S1 54% S2 46%) Age 17-45 (Avg 26.2)
 
