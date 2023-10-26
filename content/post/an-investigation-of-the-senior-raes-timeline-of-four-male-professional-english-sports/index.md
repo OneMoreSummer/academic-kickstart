@@ -53,7 +53,7 @@ Football had significant RAEs at the Prime (χ2=3.99, p=0.05) and All (χ2=4.11,
 
 ![](english-football-premiership-2021_2022-senior-timeline-by-semester-n-154-.png)
 
-% no of players in each age band all four sports combined:
+**% no of players in each age band all four sports combined**
 
 17-20 12.2
 
