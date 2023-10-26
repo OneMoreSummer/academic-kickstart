@@ -39,11 +39,19 @@ All Q1 29%, Q2 25%, Q3 23%, Q4 23% (S1 54% S2 46%) Age 17-45 (Avg 26.2)
 
 Within the sports, cricket almost had significant RAEs at the Rookie stage (χ2=3.59, p=0.06), by semester, but none at either Prime or Veteran as well as declining Cramers V values by birth quarter as players aged (Rookie=0.134, Prime=0.088, Veteran=0.075).
 
+![](english-cricket-2021_2022-senior-timeline-by-semester-n-364-.png)
+
 RU had significant RAEs at the Veteran stage (χ2=7.86, p=0.05) by birth quarter as well as overall (χ2=9.06, p=0.03) due to particularly low numbers of Q2s.  Almost significant RAEs were observed at the Rookie stage (χ2=6.70, p=0.08). Semester effects were not significant but a decline was observed at the Veteran stage.
+
+![](english-rugby-union-premiership-2021_2022-senior-timeline-by-semester-n-393-.png)
 
 RL had significant RAEs overall (χ2=4.48, p=0.03) by semester and a decrease in χ2 from Rookie (1.6) to Prime (0.6), but an increase at the Veteran stage (2.6).
 
+![](english-rugby-league-super-league-2021_2022-senior-timeline-by-semester-n-209-.png)
+
 Football had significant RAEs at the Prime (χ2=3.99, p=0.05) and All (χ2=4.11, p=0.04) stages by semester and an almost significant RAE at the Rookie (χ2=3.52, p=0.06) stage.
+
+![](english-football-premiership-2021_2022-senior-timeline-by-semester-n-154-.png)
 
 % no of players in each age band all four sports combined:
 
