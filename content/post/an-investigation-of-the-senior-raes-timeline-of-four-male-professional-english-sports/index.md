@@ -85,7 +85,7 @@ These findings may have an impact on research into the underdog hypothesis, much
 
 LIMITATIONS
 
-This is a snapshot of a single season whereas a longitudinal study would offer more validity. This study does not compare for levels of performance. For example, it counts squad players equally, whereas regardless of how many matches have been played.
+This is a snapshot of a single season whereas a longitudinal study would offer more validity. This study does not compare for levels of performance. For example, it counts squad players equally regardless of how many matches have been played.
 
 CONCLUSION
 
