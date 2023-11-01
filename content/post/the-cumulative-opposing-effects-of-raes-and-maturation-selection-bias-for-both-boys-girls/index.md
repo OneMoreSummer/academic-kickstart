@@ -27,7 +27,7 @@ As the girls pathways grow, they currently have higher levels of RAE than the al
 
 Another dimension to add to the selection bias matrix above is Training Age.
 
-For both boys and girls, players who have independent education (7% of UK population) are likely to have had more training/playing opportunities. If a player is at a top 100 cricketing school* (0.3% of population) then these opportunities and resources are considerably higher still.
+For both boys and girls, players who have independent education (7% of UK population) are likely to have had more training/playing opportunities. If a player is at a top 100 cricketing school\*\* (0.3% of population) then these opportunities and resources are considerably higher still.
 
 Players with any of the following are also likely to have a higher training age: older sibling, parent (professional) coach, good club facilities/resources, & being from afamily in a higher socioeconomic group. 
 
@@ -35,4 +35,6 @@ Players with any of the following are also likely to have a higher training age:
 
 Pre-adolescence i.e before the growth spurt starts will not have any maturation selection bias and only RAE will be present. The level of RAE will probably be lower at very early ages and slowly accumulate to its highest point around mid teens. Thereafter it will decline very slowly as the bias is ‘baked in’ to the system even though the reasons for it are long over.
 
-Maturation selection bias can start from around age 9 for girls and 11 for boys. The average age for being at the height of the growth spurt is 12 for girls and 14 for boys but there is large variance between individuals.
+Maturation selection bias can start from around age 9 for girls and 11 for boys. The average age for being at the height of the growth spurt is 12 for girls and 14 for boys but there is large variance between individuals. 
+
+\*﻿\* Based on the top 100 cricketing schools published by The Cricketer magazine.
