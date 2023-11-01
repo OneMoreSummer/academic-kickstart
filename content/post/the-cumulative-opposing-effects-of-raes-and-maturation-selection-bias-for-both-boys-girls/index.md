@@ -32,3 +32,5 @@ Players with any of the following are also likely to have a higher training age:
 **Stage of Pathway Effects**
 
 Pre-adolescence i.e before the growth spurt starts will not have any maturation selection bias and only RAE will be present. The level of RAE will probably be lower at very early ages and slowly accumulate to its highest point around mid teens. Thereafter it will decline very slowly as the bias is ‘baked in’ to the system even though the reasons for it are long over.
+
+Maturation selection bias can start from around age 9 for girls and 11 for boys. The average age for being at the height of the growth spurt is 12 for girls and 14 for boys but there is large variance between individuals.
