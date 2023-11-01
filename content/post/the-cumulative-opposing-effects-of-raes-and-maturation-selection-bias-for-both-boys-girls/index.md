@@ -9,17 +9,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
 [Relative Age Effects 101](https://onemoresummer.co.uk/post/what-is-relative-age-effect/); [Maturation selection bias 101](https://onemoresummer.co.uk/post/what-is-maturity-status/) 
 
 Who are the most overly selected groups in cricket pathways and who are the most under selected? Does it differ for boys and girls?
 
-Boys:
-
 ![](boys-maturity-timing-rae.jpg)
-
-Girls:
 
 ![](girls-maturity-timing-rae.jpg)
 
