@@ -21,6 +21,8 @@ Who are the most overly selected groups in cricket pathways and who are the most
 
 Research in football and netball have shown maturation selection bias for late maturers in girls. In boys early maturation increases physical strength through more muscle mass, whereas in girls it can reduce athletic attributes through an increase in fat mass. 
 
+As the girls pathways grow, they currently have higher levels of RAE than the already high levels found in the boys pathways.
+
 **Training Age Effects**
 
 Another dimension to add to the selection bias matrix above is Training Age.
