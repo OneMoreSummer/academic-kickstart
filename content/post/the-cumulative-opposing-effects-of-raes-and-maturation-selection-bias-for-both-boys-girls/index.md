@@ -25,7 +25,7 @@ Research in football and netball have shown maturation selection bias for late m
 
 Another dimension to add to the selection bias matrix above is Training Age.
 
-For both boys and girls players who have independent education (7% of UK population) are likely to have had more training/playing opportunities. If a player is at a top 100 cricketing school* (0.3% of population) then these opportunities and resources are considerably higher still.
+For both boys and girls, players who have independent education (7% of UK population) are likely to have had more training/playing opportunities. If a player is at a top 100 cricketing school* (0.3% of population) then these opportunities and resources are considerably higher still.
 
 Players with any of the following are likely to have a higher training age also: older sibling, parent (professional) coach, good club facilities/resources, & being from afamily in a higher socioeconomic group. 
 
