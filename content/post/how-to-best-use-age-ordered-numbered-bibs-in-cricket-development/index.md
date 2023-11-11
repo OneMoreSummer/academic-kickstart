@@ -40,4 +40,4 @@ Can the ECB urgently measure how maturation selection bias works in the girls pa
 
 
 
-Age Ordered Numbered and/or Coloured Bibs offer a way to show the level of (dis)advantage context to your context, when comparing player performance. It could be for Relative Age Effect, maturation status, training age or a weighted combination of all 3, or indeed anything
+**Age Ordered Numbered and/or Coloured Bibs offer a way to show the level of (dis)advantage context to your context, when comparing player performance. It could be for Relative Age Effect, maturation status, training age or a weighted combination of all 3, or indeed anything.**
