@@ -16,7 +16,7 @@ The ECB recently teased two videos on the coach development platform @icoachcric
 
 David Court, Men’s Player Identification and Talent Pathway Lead at the ECB, recently confirmed:
 
- ‘... we have begun some research into the effectiveness of using age ordered bibs in relation to RAE this year. We have 4 counties on board and they are using it throughout their selection process and hope to compare the numbers to their previous years data and in comparison to the rest of the country.’ 
+ *‘... we have begun some research into the effectiveness of using age ordered bibs in relation to RAE this year. We have 4 counties on board and they are using it throughout their selection process and hope to compare the numbers to their previous years data and in comparison to the rest of the country.’* 
 
 No other details are known other than they are also using a different colour for each [birth quarter](https://onemoresummer.co.uk/post/what-is-birth-quarter/) to add further context. Testing AONBs has never been done in cricket before, as far as I am aware, so some teething problems may be encountered.
 
@@ -37,7 +37,5 @@ There may be options for how biological age ordering is done with AONBs. This ne
 Should AONB biological age ordering for boys from the earliest age groups as maturation selection bias can start from U9?
 
 Can the ECB urgently measure how maturation selection bias works in the girls pathway?
-
-
 
 **Age Ordered Numbered and/or Coloured Bibs offer a way to show the level of (dis)advantage context to your context, when comparing player performance. It could be for Relative Age Effect, maturation status, training age or a weighted combination of all 3, or indeed anything.**
