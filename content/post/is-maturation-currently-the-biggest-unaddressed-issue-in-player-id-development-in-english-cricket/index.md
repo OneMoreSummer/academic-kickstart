@@ -19,7 +19,7 @@ Also unlike RAE which decreases slightly at higher age groups, the influence of 
 
 **So what has this got to do with cricket?**
 
-The ECB (cricket’s National Governing Body in England & Wales) seem to be basing their policy on addressing maturation effects, in cricket, on two PhD studies they funded in 2015 and 2019. The first looked at ‘Relative Age Effects throughout a Talent Development Pathway: A Chronological and Biological Analysis of English Cricket’ (3).
+The ECB (cricket’s National Governing Body in England & Wales) seem to be basing their policy on addressing maturation effects, in cricket, on two PhD studies they funded, published in 2015 and 2019. The first looked at ‘Relative Age Effects throughout a Talent Development Pathway: A Chronological and Biological Analysis of English Cricket’ (3).
 
 It found no significant difference in maturity status across U12 (n=119) and U14 (n=118) male cricketers. Maturity status was calculated as Skeletal Age (SA) - Chronological Age (CA). SA was found using the TW3 method.
 
