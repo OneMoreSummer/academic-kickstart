@@ -42,7 +42,7 @@ But isn’t the ECB looking to make cricket the most inclusive team sport in Eng
 
 **Don’t the NCs develop young cricketers to play at the FCCs and maybe for England?**
 
-Not really. What they tend to offer are matchplay opportunities for players who are already at FCC Academies. It is worth noting here that virtually all professional players are signed from FCC Academies.
+Not really. What they tend to offer are matchplay opportunities for young players who are already at FCC Academies. It is worth noting here that virtually all professional players are signed from FCC Academies.
 
 **Could this type of money & maybe other elements of the £330m budget, be redirected purely to help state school kids reach the professional game?**
 
