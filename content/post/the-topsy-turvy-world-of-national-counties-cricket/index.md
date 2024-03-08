@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-2023 saw a fabulous victory for Buckinghamshire over Devon in the National Counties Championship final. This historic competition, first played in 1895, is as English as cake and Alice in Wonderland. But through the Looking Glass, via the scorer’s laptop, we can see a different world, a new upside down world, of systemic privilege. Thirteen of the fourteen top 7 batters, 93%, went to independent schools. But only 7% of the population go to independent schools and the rest, the 93%, go to state schools. Welcome to the topsy-turvy world of National Counties cricket.
+2023 saw a fabulous victory for Buckinghamshire over Devon in the National Counties Championship final. This historic competition, first played in 1895, is as English as cake and Alice in Wonderland. But through the Looking Glass, via the scorer’s laptop, we can see a different world, a new upside down world of systemic privilege. Thirteen of the fourteen top 7 batters, 93%, went to independent schools. But only 7% of the population go to independent schools and the rest, the 93%, go to state schools. Welcome to the topsy-turvy world of National Counties cricket.
 
 To be fair some of the bowlers did go to state school and four players were of unknown schooling. Even if these four all went to state schools, for every state player in the match there would be two independent school players. This percentage is higher than the professional game.
 
@@ -40,8 +40,6 @@ Well looking at their website you would immediately say yes.
 **\
 But isn’t the ECB looking to make cricket the most inclusive team sport in England and Wales? Why are they funding something for mainly independently schooled men who often have already had a chance at professional cricket?**
 
-
-
 **Don’t the NCs develop young cricketers to play at the FCCs and maybe for England?**
 
 Not really. What they tend to offer are matchplay opportunities for players who are already at FCC Academies. It is worth noting here that virtually all professional players are signed from FCC Academies.
@@ -50,12 +48,8 @@ Not really. What they tend to offer are matchplay opportunities for players who 
 
 Well, yes, central funding could be withdrawn or reduced and counties expected to fund it themselves, perhaps via a charity in the same way state primary school cricket is part funded through the Chance to Shine charity.
 
-
-
 The ICEC’s report ‘Holding up a mirror to cricket’ recommended that the ECB re-examine how they ‘slice the cake’ of their £330m budget. Cindy Butts, the ICEC chair, implored parliament’s DCMS committee to do whatever they can to put pressure on the ECB to do this. But it seems the ECB are happy to give £s to NC cricket, even though it is dominated by independent school cricketers, while asking for a £ from charity for every £ budgeted for state school cricket? Perhaps the ECB cake is a topsy-turvy one?
 
 This article shouldn’t be viewed as picking on NC cricket. I am using it as an example, and I suspect there are other areas, where current ECB funding isn’t targeted at achieving publicly stated equity goals.  
-
-
 
 \* To be clear we are not talking about junior players in NC pathways here, just the senior (men’s) teams.
