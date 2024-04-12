@@ -46,6 +46,8 @@ Late maturers that were able to be selected and survive the U11s and U13s may po
 
 **Notes**
 
+Both studies (2) & (3) use the Mirwald Maturity Offset method which has been shown to overpredict age at PHV at older adolescent ages. More research is required with other methods (e.g. Khamis Roche) or for longitudinal measurement to show that these are not findings from methodological effects.
+
 We don’t know what the level of maturation selection bias is in English/Welsh girls cricket because it’s not been studied. We only know that no late maturers and 2x expected early maturers were selected for the boys regional U15 festival of 2023 (Bunbury). We also know there are very high levels of Relative Age Effects in English/Welsh girls cricket.
 
 Studies (1) & (2) were cross sectional and not longitudinal.
