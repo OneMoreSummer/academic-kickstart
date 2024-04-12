@@ -9,9 +9,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Recent evidence has shown that maturation in girls may have a different and more complicated 
-
-narrative than boys.
+Recent evidence has shown that maturation in girls may have a different and more complicated narrative than boys.
 
 For boys, earlier maturation increases muscle mass, giving significant advantages of power, speed and endurance over later maturers. From the age of 12 the growth spurt becomes increasingly important in determining ongoing selection (1). But is it the same for girls?
 
@@ -21,15 +19,11 @@ The growth spurt in girls can initially give a physical advantage through extra 
 
 With fast growing limbs comes challenges with movement control, with agility and coordination suddenly more difficult. This ‘Adolescent Awkwardness’ can negatively affect performance and  players are at a heightened risk of deselection during this phase. 
 
-
-
 **How does this map onto girls age group cricket?**
 
 Although some progressive counties are starting to introduce single year age groups for girls, many still have just four age groups, U11, U13, U15 & U18.
 
 The growth spurt lasts around 2 years with peak height being attained on average age at 11.9. So, for normal distribution, around 70% of girls will be 1 year either side of this (10.9-12.9). 15% will be early, before age 10.9 and 15% will be late, after age 12.9. So, in theory for normal distribution, most girls will go through the growth spurt during the U13s and the last year of U11s, assuming the experience of Australian swimmers & netballers maps to English/Welsh cricket (not a given).
-
-
 
 **How do we get to an U15 cohort with more late maturers? Some possible explanations:**
 
@@ -43,16 +37,12 @@ Perhaps when players are older (14 or 15) they are able to ‘mask’ the inevit
 
 Late maturers that were able to be selected and survive the U11s and U13s may possess some other ‘counterbalancing’ factor such as being relatively older within the year group (Relative Age). or have genetic advantages, or more experience (Training Age). 
 
-
-
 **Practical implications.**
 
 1. Measure growth to know where each player is in their natural physical development otherwise comparing apples and oranges.
 2. Pay special attention to early maturers within the younger age groups. They may need some ‘leeway’ to be retained in the pathway.
 3. Potentially look for less physically developed players at younger age group selection.
 4. Maturation selection bias is highly likely to NOT be the same as for boys.
-
-
 
 **Notes**
 
