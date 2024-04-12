@@ -35,7 +35,7 @@ Early maturers will go through the growth spurt in the U11s and may not reach th
 
 Perhaps when players are older (14 or 15) they are able to ‘mask’ the inevitable changes brought about by the growth spurt because they are a. naturally stronger and b. have more developed skills by this stage. In contrast, for early maturers, in say the U11s, these changes have more relative impact.
 
-Late maturers that were able to be selected and survive the U11s and U13s may possess some other ‘counterbalancing’ factor such as being relatively older within the year group (Relative Age). or have genetic advantages, or more experience (Training Age). 
+Late maturers that were able to be selected and survive the U11s and U13s may possess some other ‘counterbalancing’ factor such as being relatively older within the year group (Relative Age), or have genetic advantages, or more experience (Training Age). 
 
 **Practical implications.**
 
