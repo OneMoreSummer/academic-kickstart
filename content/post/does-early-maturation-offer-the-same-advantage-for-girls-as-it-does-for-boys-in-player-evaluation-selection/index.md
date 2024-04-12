@@ -42,7 +42,7 @@ Late maturers that were able to be selected and survive the U11s and U13s may po
 1. Measure growth to know where each player is in their natural physical development otherwise comparing apples and oranges.
 2. Pay special attention to early maturers within the younger age groups. They may need some ‘leeway’ to be retained in the pathway.
 3. Potentially look for less physically developed players at younger age group selection.
-4. Maturation selection bias is highly likely to NOT be the same as for boys.
+4. Maturation selection bias for girls is highly likely to NOT be the same as for boys.
 
 **Notes**
 
