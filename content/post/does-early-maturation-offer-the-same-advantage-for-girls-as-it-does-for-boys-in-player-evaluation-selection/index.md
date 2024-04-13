@@ -50,7 +50,7 @@ Both studies (2) & (3) use the Mirwald Maturity Offset method which has been sho
 
 We don’t know what the level of maturation selection bias is in English/Welsh girls cricket because it’s not been studied. We only know that no late maturers and 2x expected early maturers were selected for the boys regional U15 festival of 2023 (Bunbury). We also know there are very high levels of Relative Age Effects in English/Welsh girls cricket.
 
-Studies (1) & (2) were cross sectional and not longitudinal.
+Studies (2) & (3) were cross sectional and not longitudinal.
 
 Issues around maturation selection bias mainly relate to physicality and motor control. Other body components such as the neurological system develop at different times. This may partly explain why RAE is a large issue for girls cricket and it increases (like boys maturation bias) as you go up through the age groups and competitive levels.
 
