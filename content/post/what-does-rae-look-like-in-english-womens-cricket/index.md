@@ -11,3 +11,7 @@ image:
 Not significant RAE overall (n=108) BUT...
 
 ![](rhf-trophy-women-s-regional-squads-birth-quarter-n-108-.png)
+
+RAE starts high as young players enter professional cricket and then RAE declines...
+
+![](rhf-trophy-women-s-regional-squads-half-year-birth-date-by-age-tertiles.png)
