@@ -24,7 +24,7 @@ There are RAE differences across the Regional teams...
 
 ![](rhf-trophy-women-s-regional-squads-half-year-birth-date-s.png)
 
-And just for fun, The Goldilocks Effect, where we compare the squad % of Q2 & Q3 players and current position in the RHF Trophy table.  Perhaps Q1s have too little development challenge & Q4s have too much?
+And just for fun, The Goldilocks Effect, where we compare the squad % of Q2 & Q3 players and current position in the RHF Trophy table (5/5/2024).  Perhaps Q1s have too little development challenge & Q4s have too much?
 
 ![](rhf-trophy-women-s-regional-squads-december-may-birth-date-s-in-table-position-order-l-r-1st-8th-1-.png)
 
