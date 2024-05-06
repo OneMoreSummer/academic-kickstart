@@ -19,3 +19,7 @@ RAE starts high as young players enter professional cricket and then RAE decline
 Over the first 10 years of a senior career, Q1 & Q2 appear to decrease with an increase in Q4 occurring...
 
 ![](rhf-trophy-women-s-regional-squads-birth-quarter-by-age-tertiles.png)
+
+There are RAE differences across the Regional teams...
+
+![](rhf-trophy-women-s-regional-squads-half-year-birth-date-s.png)
