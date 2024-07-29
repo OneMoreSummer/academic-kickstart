@@ -1,5 +1,5 @@
 ---
-title: All you ever need to know about the Underdog Hypothesis in 2 minutes
+title: All you ever need to know about the Underdog Hypothesis in 4 minutes
 date: 2024-07-29T10:07:52.418Z
 draft: false
 featured: false
@@ -59,7 +59,7 @@ Further, no or very little account is taken of other contextual factors in these
 
 **Why is this dangerous?**
 
-Apart from a lot of very clever academic people wasting their time on endless reporting of RAE decline and attributing it to the ‘Underdog Hypothesis’, the dangerous part is the effect on policy of National Governing Bodies. They become ‘scared’ to address RAE bias because of ‘unintended consequences’ that may affect the development of supposed late born super-athletes. While there is some evidence for this phenomenon in the literature there is probably equal evidence of its non-occurrence.
+Apart from a lot of very clever academic people wasting their time on endless reporting of RAE decline and attributing it to the ‘Underdog Hypothesis’, the dangerous part is the effect on policy of National Governing Bodies. They become ‘scared’ to address RAE bias because of ‘unintended consequences’ that may affect the development of supposed late born super-athletes. While there is some evidence for this phenomenon in the literature there is a lot (probably at least equal amounts) of evidence of its non-occurrence.
 
 Also, please remember that, actual RAE often persists into senior sport especially in football/soccer for example. Because of all the talk around ‘RAE Reversals’ people assume a level of parity and fairness has been restored, but that is usually far from correct.
 
