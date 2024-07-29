@@ -36,7 +36,7 @@ THIS IS A NATURAL ‘REGRESSION TO THE MEAN’ EFFECT.
 
 The problem is this ‘regression to the mean’ reason is virtually IGNORED in the literature and instead most studies attribute ‘mechanisms’ relating to late born only, citing the ‘Underdog Hypothesis’.
 
-Hundreds of studies, using Odds Ratios and Conversion/Transition Rate %s, show more later born reach senior and/or international levels than early born. But this shouldn’t be a surprise, right? RAE declines as it becomes less relevant and more early born than late born are deselected. Also it is likely that more late born, previously ignored, are selected for the first time at later stages in the pathway, sometimes not until the senior level.
+Hundreds of studies, using Odds Ratios and Conversion/Transition Rate %s, show more later born reach senior and/or international levels than early born. But this shouldn’t be a surprise, right? We are comparing the highest point of RAE with a point much later on the timeline. **RAE declines as it becomes less relevant and more early born than late born are deselected.** Also it is likely that more late born, previously ignored, are selected for the first time at later stages in the pathway, sometimes not until the senior level.
 
 Within these many studies of Odds Ratios & Transition %s the ‘unexpected’ effect they find seems to appropriate a MYSTCIAL meaning. How is this thing happening? Weirdly they say it MUST be that something is happening to the LATER BORN only!
 
