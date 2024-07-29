@@ -32,6 +32,8 @@ THIS IS A NATURAL ‘REGRESSION TO THE MEAN’ EFFECT.
 
 ![](rae-selection-bias.png)
 
+(﻿Ref: Bryson, Gomez & Zhang (2017))
+
 **So what’s the problem?**
 
 The problem is this ‘regression to the mean’ reason is virtually IGNORED in the literature and instead most studies attribute ‘mechanisms’ relating to late born only, citing the ‘Underdog Hypothesis’.
