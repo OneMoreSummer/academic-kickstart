@@ -1,5 +1,5 @@
 ---
-title: All you ever need to know about the Underdog Hypothesis in 4 minutes
+title: All you ever need to know about the Underdog Hypothesis in 2 minutes
 date: 2024-07-29T10:07:52.418Z
 draft: false
 featured: false
