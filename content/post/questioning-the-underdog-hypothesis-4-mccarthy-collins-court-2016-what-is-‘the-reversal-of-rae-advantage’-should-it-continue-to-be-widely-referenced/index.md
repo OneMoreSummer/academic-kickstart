@@ -62,7 +62,7 @@ The RAE profile of these cohorts:
 
 The 2016 Paper Q1 25%, Q2 17%, Q3 29%, Q4 29% (HY 42:58%)
 
-The 24 identified here (2002-2011) Q1 17%, Q2 25%, Q3 33%, Q4 25% (HY 42:58%)*
+The 24 identified (2002-2011) Q1 17%, Q2 25%, Q3 33%, Q4 25% (HY 42:58%)*
 
 The 80 identified (2000-2020) Q1 19%, Q2 31%, Q3 26%, Q4 24% (HY 50:50%)
 
