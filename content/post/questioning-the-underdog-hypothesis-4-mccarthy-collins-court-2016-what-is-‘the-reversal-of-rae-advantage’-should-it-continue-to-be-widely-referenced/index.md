@@ -120,7 +120,7 @@ If we assume that potential high quality players are evenly distributed across t
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcN8H4TCwT-CE_eJNrQ1egZQlrEaCPMi0KkFpfwpzU0BiRx0ctwUdHZNABv-f4S6MvX4mau9Bl0Cm9e0XF5rIdAXkHA7aXsKEGWkyKRFTo8RJW8y5Skm3E7OqiooKS1WHXM2ObZk_r2ZugbYnghYLEfxUw?key=3QCbgi81-nhNjZIdY4BDAQ)
 
-Therefore the average quality/potential/ability of later born players is greater than early born. Hence later born are more likely to be retained as further selections and reductions in cohort numbers occur.
+Therefore the average quality of later born players is greater than early born. Hence later born are more likely to be retained as further selections and reductions in cohort numbers occur.
 
 Bryson, Gomez & Zhang (2017), who found performance advantages (points scored & matches played) in ice hockey for those born May-Dec over those born Jan-Apr, state *‘We therefore expect that owing to this selection pressure, any later born entrant into the NHL will be of better than average quality than early born counterparts.’*
 
