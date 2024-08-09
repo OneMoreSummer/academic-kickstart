@@ -151,18 +151,18 @@ However this paper is continuing to be referenced in new research, including the
 
 - - -
 
-\* Addendum covering the 3 papers referenced from RAE studies in business and education that are used to support the 2016 paper hypothesis:
+*\* Addendum covering the 3 papers referenced from RAE studies in business and education that are used to support the 2016 paper hypothesis:*
 
-This is the final paragraph in the conclusion of ‘Dhuey, E., & Lipscomb, S. (2008). What makes a leader? Relative age and high school leadership. Economics of Education Review, 27, 173–183… ‘Based on the current state of the research, we believe the most appropriate policy 
+*This is the final paragraph in the conclusion of ‘Dhuey, E., & Lipscomb, S. (2008). What makes a leader? Relative age and high school leadership. Economics of Education Review, 27, 173–183… ‘Based on the current state of the research, we believe the most appropriate policy* 
 
-recommendation is to better inform parents of the effects associated with being relatively 
+*recommendation is to better inform parents of the effects associated with being relatively* 
 
-young. In addition, to the extent possible, educators should pay closer attention to the 
+*young. In addition, to the extent possible, educators should pay closer attention to the* 
 
-difference between perceived ability and maturity when placing children in ability specific groupings. Both may help attenuate the negative effects related to being 
+*difference between perceived ability and maturity when placing children in ability specific groupings. Both may help attenuate the negative effects related to being* 
 
-relatively young.’ The word ‘reversal’ is not used in the paper.
+*relatively young.’ The word ‘reversal’ is not used in the paper.*
 
-The 2016 paper references RAE research in the business domain, Du, Q., Gao, H., & Levi, M. D. (2008). Born leaders: The relative age effect and managerial success (AFA 2011 Denver Meetings Paper). It finds that of 321 CEOs of S&P 500 companies the ROI between 1992 and 2006 is around double for those born in ‘Summer’ (Jul-Sep) than those born in the rest of the year. The educational year in the USA begins at the start of September, so this is confusing. One third of the ‘Summer’ cohort are early born. What perhaps it does show is that under-selected groups within a cohort are likely to have a higher average quality. The Summer cohort is 21% (Jan-Mar/Winter 29%, Apr-Jun/Spring 25%, Oct-Dec/Autumn 25%).
+*The 2016 paper references RAE research in the business domain, Du, Q., Gao, H., & Levi, M. D. (2008). Born leaders: The relative age effect and managerial success (AFA 2011 Denver Meetings Paper). It finds that of 321 CEOs of S&P 500 companies the ROI between 1992 and 2006 is around double for those born in ‘Summer’ (Jul-Sep) than those born in the rest of the year. The educational year in the USA begins at the start of September, so this is confusing. One third of the ‘Summer’ cohort are early born. What perhaps it does show is that under-selected groups within a cohort are likely to have a higher average quality. The Summer cohort is 21% (Jan-Mar/Winter 29%, Apr-Jun/Spring 25%, Oct-Dec/Autumn 25%).*
 
-Roberts & Stott (2015) studied the outcomes from two courses at a single English university. Apart from the combined female cohort, all (sig) differences discussed in the results are Q1 v Q4 comparisons only. No discernable difference is found between Q4 and Q2 or Q3. Like many studies that only compare Q4 with Q1 perhaps the difference is with Q1 rather than just Q4, or both? Also a significant difference between females (n=173) and males (n=287) is found but there is no RAE profile breakdown by gender to further investigate this factor. Based on the papers this paper is cited in, I couldn’t find any subsequent body of evidence that suggests a RAE Reversal in post secondary education. In fact around half of the papers were sports related.
+*Roberts & Stott (2015) studied the outcomes from two courses at a single English university. Apart from the combined female cohort, all (sig) differences discussed in the results are Q1 v Q4 comparisons only. No discernable difference is found between Q4 and Q2 or Q3. Like many studies that only compare Q4 with Q1 perhaps the difference is with Q1 rather than just Q4, or both? Also a significant difference between females (n=173) and males (n=287) is found but there is no RAE profile breakdown by gender to further investigate this factor. Based on the papers this paper is cited in, I couldn’t find any subsequent body of evidence that suggests a RAE Reversal in post secondary education. In fact around half of the papers were sports related.*
