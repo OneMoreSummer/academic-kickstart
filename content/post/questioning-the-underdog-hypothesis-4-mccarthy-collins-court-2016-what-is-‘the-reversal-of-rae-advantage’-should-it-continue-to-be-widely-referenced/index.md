@@ -22,8 +22,6 @@ For RAE, on entry into the academy system, early and late born athletes are gene
 
 In support of the RTM argument, this article calls into question some of the evidence that has been presented in support of one of the other explanations, ‘The Reversal of RAE Advantage’, a version of the Underdog Hypothesis with a single ‘psychological’ mechanism attached. Consequently a re-appraisal of this paper and subsequent research that it supports is suggested.
 
-
-
 **Background**
 
 The term ‘Reversal of RAE Advantage’ comes from a 2014 paper by McCarthy & Collins that looked at RAE levels for initial selection and subsequent transition out of a single male English Rugby Union (RU) Academy. A follow up paper in 2016 compared initial selection RAE with selection to senior international level in both male English RU and Cricket. Compared to high initial levels of RAE at initial selection, the authors found lower levels of RAE (no significant RAE) both at the junior to senior transition point in RU (2014 study) and later in senior international careers in RU & Cricket (2016 study).
@@ -44,21 +42,15 @@ The answer is that thousands of kids are unfairly discriminated against each and
 
 This article looks at the data of the 2016 paper, explains ‘conversion rates’, questions the conclusions and offers an alternative hypothesis.
 
-
-
 **The Data**
 
 1. *Does this paper identify true ‘Underdogs’?*
 
 Using the single factor of RAE, it’s true that late born are almost always in the minority in RU & Cricket development environments. But we know many other factors can provide selection advantages such as maturation, experience & genetics. Within the literature there is evidence that late born have a relatively higher % of early maturers, for example. Therefore, players from under-selected birth quarters may have more success due to ‘other’ contextual, ‘balancing’ factors, or a combination of them. These factors are unknown in the 2016 paper. Not all late born are necessarily true ‘Underdogs’.
 
-
-
 2. *The two data points used*
 
 Using one data point at initial selection at around age 16 and a second at international selection, on average around age 24 in cricket, the paper arguably compares the highest point of RAE with one of the lowest, i.e. it is not a single data point of a junior (Academy) to senior (Professional) transition as in the 2014 paper. It is two data points around, on average, 8 years apart for cricket. Importantly, RAE can naturally decline significantly over this extended period.
-
-  
 
 3. *Unusual subset of international cricketers*
 
@@ -78,13 +70,9 @@ So the particular subset of 24 used in the paper have a far more late born bias,
 
 *\* Some differences may be due to country specifics. 5 of the 24 identified were born and grew up elsewhere (e.g. South Africa or Australia that have a 31st Dec junior sport cut off date as opposed to 31st August in England).*
 
-
-
 4. *Conversion Rate Error*
 
 The paper states the conversion rates for both Q1 & Q2 cricketers as 2%. But this should be rounded to 3% in both instances. Q1 is 2.5% and Q2 is 2.55%. (The Q2 Cricket Academy cohort is correctly rounded from 23.5.% to 24% earlier in the paper.). Again this is important considering the scale used in the graphs presented.
-
-
 
 **Conversion Rates**
 
@@ -102,8 +90,6 @@ Much research simply compares the CRs of Q4 with the CR for Q1. Often a differen
 
 Perhaps ‘% of Max CR’ is a more valid way of comparing CRs, i.e. how far along the scale that rates reach, appropriate for each group (BQ). For the n=80 dataset these figures are Q1 25%, Q2 29%, Q3 25%, Q4 21%. 
 
-
-
 **The Conclusions**
 
 Firstly, the regression to the mean (no mechanism) is not discussed or discounted. There is also no consideration of how over-selecting a particular birth quarter can affect the average quality of that group compared to other under-selected groups and the longer term retention effects of this.
@@ -116,7 +102,7 @@ Two mechanisms from the literature to explain the Underdog Hypothesis are discus
 
 The paper suggests that there are no RAE differences based on role/position within rugby union and cricket and so discounts the possibility of skill and/or physicality as mechanisms. No actual positional data is given within the 2016 paper with regard to cricket but the 2014 paper contains the following rugby union data:
 
-* Src: McCarthy & Collins (2014)
+![](ru-rae.png)
 
 RAE is stronger in Forwards than Backs. RAE persists after Academy graduation for forwards but doesn’t for backs where no RAE is found. However, both forwards and backs experience around a 14% reduction in RAE by Half Year%. Could this same rate of (natural) decline be due to something else? A non mechanistic change, i.e. a natural regression to the mean?
 
@@ -132,7 +118,7 @@ The concept of the ‘average quality’ of uneven birth quarters having a long 
 
 If we assume that potential high quality players are evenly distributed across the entire population by birthdate, then when overselections of early born are made, it is likely that more players towards the lower potential/ability tail are selected in early born groups than later born. See Figure below from Bryson, Gomez & Zhang (2017). This example comes from Canadian ice hockey where the cut off date is 31st December. Therefore January born are over selected far more than December born who are under selected. Using a normal distribution curve the diagram shows how those selected for January (early born) have a large number from the left of the curve (ie. of low potential/ability). For December (late born) those who are lucky enough to be selected are likely from the right of the curve (i.e. of high potential/ability).
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcN8H4TCwT-CE_eJNrQ1egZQlrEaCPMi0KkFpfwpzU0BiRx0ctwUdHZNABv-f4S6MvX4mau9Bl0Cm9e0XF5rIdAXkHA7aXsKEGWkyKRFTo8RJW8y5Skm3E7OqiooKS1WHXM2ObZk_r2ZugbYnghYLEfxUw?key=3QCbgi81-nhNjZIdY4BDAQ) 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcN8H4TCwT-CE_eJNrQ1egZQlrEaCPMi0KkFpfwpzU0BiRx0ctwUdHZNABv-f4S6MvX4mau9Bl0Cm9e0XF5rIdAXkHA7aXsKEGWkyKRFTo8RJW8y5Skm3E7OqiooKS1WHXM2ObZk_r2ZugbYnghYLEfxUw?key=3QCbgi81-nhNjZIdY4BDAQ)
 
 Therefore the average quality/potential/ability of later born players is greater than early born. Hence later born are more likely to be retained as further selections and reductions in cohort numbers occur.
 
@@ -163,15 +149,9 @@ For context, the 2016 paper is 8 years old and its precursor 2014 paper 10 years
 
 However this paper is continuing to be referenced in new research, including the authors promoting that the concept is robust: ‘This finding \[RAE Reversal of Advantage] appears robust across a wide range of sporting contexts’ (McCarthy, Taylor, Cruickshank, Collins, 2022). One of these contexts quoted is cricket. The paper referenced says almost the exact opposite. Perhaps it’s time for a re-appraisal?
 
-
-
 - - -
 
-
-
 \* Addendum covering the 3 papers referenced from RAE studies in business and education that are used to support the 2016 paper hypothesis:
-
-
 
 This is the final paragraph in the conclusion of ‘Dhuey, E., & Lipscomb, S. (2008). What makes a leader? Relative age and high school leadership. Economics of Education Review, 27, 173–183… ‘Based on the current state of the research, we believe the most appropriate policy 
 
@@ -183,10 +163,6 @@ difference between perceived ability and maturity when placing children in abili
 
 relatively young.’ The word ‘reversal’ is not used in the paper.
 
- 
-
 The 2016 paper references RAE research in the business domain, Du, Q., Gao, H., & Levi, M. D. (2008). Born leaders: The relative age effect and managerial success (AFA 2011 Denver Meetings Paper). It finds that of 321 CEOs of S&P 500 companies the ROI between 1992 and 2006 is around double for those born in ‘Summer’ (Jul-Sep) than those born in the rest of the year. The educational year in the USA begins at the start of September, so this is confusing. One third of the ‘Summer’ cohort are early born. What perhaps it does show is that under-selected groups within a cohort are likely to have a higher average quality. The Summer cohort is 21% (Jan-Mar/Winter 29%, Apr-Jun/Spring 25%, Oct-Dec/Autumn 25%).
-
-
 
 Roberts & Stott (2015) studied the outcomes from two courses at a single English university. Apart from the combined female cohort, all (sig) differences discussed in the results are Q1 v Q4 comparisons only. No discernable difference is found between Q4 and Q2 or Q3. Like many studies that only compare Q4 with Q1 perhaps the difference is with Q1 rather than just Q4, or both? Also a significant difference between females (n=173) and males (n=287) is found but there is no RAE profile breakdown by gender to further investigate this factor. Based on the papers this paper is cited in, I couldn’t find any subsequent body of evidence that suggests a RAE Reversal in post secondary education. In fact around half of the papers were sports related.
