@@ -149,19 +149,15 @@ For context, the 2016 paper is 8 years old and its precursor 2014 paper 10 years
 
 However this paper is continuing to be referenced in new research, including the authors promoting that the concept is robust: ‘This finding \[RAE Reversal of Advantage] appears robust across a wide range of sporting contexts’ (McCarthy, Taylor, Cruickshank, Collins, 2022). One of these contexts quoted is cricket. The paper referenced says almost the exact opposite. Perhaps it’s time for a re-appraisal?
 
+
+
 - - -
+
+
 
 *\* Addendum covering the 3 papers referenced from RAE studies in business and education that are used to support the 2016 paper hypothesis:*
 
-*This is the final paragraph in the conclusion of ‘Dhuey, E., & Lipscomb, S. (2008). What makes a leader? Relative age and high school leadership. Economics of Education Review, 27, 173–183… ‘Based on the current state of the research, we believe the most appropriate policy* 
-
-*recommendation is to better inform parents of the effects associated with being relatively* 
-
-*young. In addition, to the extent possible, educators should pay closer attention to the* 
-
-*difference between perceived ability and maturity when placing children in ability specific groupings. Both may help attenuate the negative effects related to being* 
-
-*relatively young.’ The word ‘reversal’ is not used in the paper.*
+*This is the final paragraph in the conclusion of ‘Dhuey, E., & Lipscomb, S. (2008). What makes a leader? Relative age and high school leadership. Economics of Education Review, 27, 173–183… ‘Based on the current state of the research, we believe the most appropriate policy recommendation is to better inform parents of the effects associated with being relatively young. In addition, to the extent possible, educators should pay closer attention to the difference between perceived ability and maturity when placing children in ability specific groupings. Both may help attenuate the negative effects related to being relatively young.’ The word ‘reversal’ is not used in the paper.*
 
 *The 2016 paper references RAE research in the business domain, Du, Q., Gao, H., & Levi, M. D. (2008). Born leaders: The relative age effect and managerial success (AFA 2011 Denver Meetings Paper). It finds that of 321 CEOs of S&P 500 companies the ROI between 1992 and 2006 is around double for those born in ‘Summer’ (Jul-Sep) than those born in the rest of the year. The educational year in the USA begins at the start of September, so this is confusing. One third of the ‘Summer’ cohort are early born. What perhaps it does show is that under-selected groups within a cohort are likely to have a higher average quality. The Summer cohort is 21% (Jan-Mar/Winter 29%, Apr-Jun/Spring 25%, Oct-Dec/Autumn 25%).*
 
