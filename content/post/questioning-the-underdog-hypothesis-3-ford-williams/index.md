@@ -58,3 +58,5 @@ Series:
 [](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)[\#2 Fumarco, Gibbs, Jarvis, & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
 
 [](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)[\#3 Ford & Williams (2011)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/)
+
+[\#﻿4 McCarthy, Collins & Court (2016)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-4-mccarthy-collins-court-2016-what-is-the-reversal-of-rae-advantage-should-it-continue-to-be-widely-referenced/)
