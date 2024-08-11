@@ -149,11 +149,21 @@ For context, the 2016 paper is 8 years old and its precursor 2014 paper 10 years
 
 However this paper is continuing to be referenced in new research, including the authors promoting that the concept is robust: ‘This finding \[RAE Reversal of Advantage] appears robust across a wide range of sporting contexts’ (McCarthy, Taylor, Cruickshank, Collins, 2022). One of these contexts quoted is cricket. The paper referenced says almost the exact opposite. Perhaps it’s time for a re-appraisal?
 
+[P﻿aper (2016)](https://www.researchgate.net/publication/286968503_Start_hard_finish_better_further_evidence_for_the_reversal_of_the_RAE_advantage)
 
+[P﻿aper (2014)](https://www.researchgate.net/publication/262682269_Initial_identification_selection_bias_versus_the_eventual_confirmation_of_talent_evidence_for_the_benefits_of_a_rocky_road)
+
+Series:
+
+[\#1 Gibbs, Jarvis & Dufur (2012)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)
+
+[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-1/)[\#2 Fumarco, Gibbs, Jarvis, & Rossi (2017)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)
+
+[](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-2-fumarco-gibbs-jarvis-rossi/)[\#3 Ford & Williams (2011)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-3-ford-williams/)
+
+[\#﻿4 McCarthy, Collins & Court (2016)](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-4-mccarthy-collins-court-2016-what-is-the-reversal-of-rae-advantage-should-it-continue-to-be-widely-referenced/)
 
 - - -
-
-
 
 *\* Addendum covering the 3 papers referenced from RAE studies in business and education that are used to support the 2016 paper hypothesis:*
 
