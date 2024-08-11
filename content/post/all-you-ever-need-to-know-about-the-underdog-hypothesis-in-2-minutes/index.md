@@ -71,6 +71,6 @@ Gibbs et al (2012) ‘The rise of the underdog? The relative age effect reversal
 
 McCarthy, Collins, Court (2016) ‘Start hard, finish better: further evidence for the reversal of RAE advantage cited in 161 papers (as at 23/6/2024). This paper introduces the term ‘The Reversal of RAE Advantage’, which as far as I understand, is basically the Underdog Hypothesis with a psychological only mechanism attached.
 
-I have a [critique of the Gibbs paper](https://onemoresummer.co.uk/post/rise-of-the-underdog-or-fall-of-the-top-dog-a-study-of-canadian-ice-hockey-stats-from-gibbs-et-al-2012/) & I am writing one for the McCarthy paper to follow shortly.
+I have a [critique of the Gibbs paper](https://onemoresummer.co.uk/post/rise-of-the-underdog-or-fall-of-the-top-dog-a-study-of-canadian-ice-hockey-stats-from-gibbs-et-al-2012/) & I am writing one for the [McCarthy paper](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-4-mccarthy-collins-court-2016-what-is-the-reversal-of-rae-advantage-should-it-continue-to-be-widely-referenced/) to follow shortly.
 
 PLEASE think twice about the Underdog Hypothesis and the Reversal of RAE Advantage. Too many studies are trotting out these references. I would argue that the UH is a bit of a myth. At the very least it needs a serious re-appraisal.
