@@ -104,11 +104,11 @@ The paper suggests that there are no RAE differences based on role/position with
 
 ![](ru-rae.png)
 
-RAE is stronger in Forwards than Backs. RAE persists after Academy graduation for forwards but doesn’t for backs where no RAE is found. However, both forwards and backs experience around a 14% reduction in RAE by Half Year%. Could this same rate of (natural) decline be due to something else? A non mechanistic change, i.e. a natural regression to the mean?
+RAE is stronger in Forwards than Backs. RAE persists after Academy graduation for forwards but doesn’t for backs where no RAE is found. However, both forwards and backs experience around a 14% reduction in RAE by Half Year%. Could this same rate of (natural) decline be due to something else? A non mechanistic change, i.e. a natural regression towards the mean?
 
 A number of studies in positional/role differences in RAE in sport have been done. Although there are some mixed findings, [especially in RU](https://onemoresummer.co.uk/post/how-does-the-rae-profile-of-english-rugby-union-internationals-compare-with-the-source-cohort-in-the-english-premiership/), a general conclusion would be that RAE is mediated by position/role. Differences in the RAE profiles and timelines of batters and bowlers in cricket have also been identified.
 
-Is the evidence from the 2014 & 2016 papers enough to totally discount skill and/or physicality mechanisms? Does it discount regression to the mean? Does it account for initial selection effects on quality?
+Is the evidence from the 2014 & 2016 papers enough to totally discount skill and/or physicality mechanisms? Does it discount regression towards the mean? Does it account for initial selection effects on quality?
 
 References from business and education are also used to support the hypothesis. There is an addendum that covers this for further reading if required.
 
