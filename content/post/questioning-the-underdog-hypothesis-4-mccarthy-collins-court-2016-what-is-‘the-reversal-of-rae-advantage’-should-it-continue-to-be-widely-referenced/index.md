@@ -16,7 +16,7 @@ In most sports, the RAE declines from around mid adolescence as its causes becom
 
 In the literature, researchers have suggested several mechanisms to explain RAE’s decline, such as peer effects on skill acquisition and the development of psychological factors through greater challenges experienced by later born. There is, however, an additional explanation.
 
-Regression to the mean (RTM) is a statistical phenomenon that describes how variables with values that are higher or lower than the mean (due to a combination of contributing factors or random chance) tend to move closer to the mean when measured a second time (due to changes in those factors and/or randomness evening out).
+Regression to the mean is a statistical phenomenon that describes how variables with values that are higher or lower than the mean (due to a combination of contributing factors or random chance) tend to move closer to the mean when measured a second time (due to changes in those factors and/or randomness evening out).
 
 For RAE, on entry into the academy system, early and late born athletes are generally over and underrepresented in comparison to the mean, with consequential effects on the ‘average quality’ of each group. Over time however, the proportions of early and late born athletes tend to move to the mean, as contributing factors dissipate and inherent differences in ‘average quality’ play out, resulting in higher conversion and lower conversion rates for late and early born athletes respectively.
 
