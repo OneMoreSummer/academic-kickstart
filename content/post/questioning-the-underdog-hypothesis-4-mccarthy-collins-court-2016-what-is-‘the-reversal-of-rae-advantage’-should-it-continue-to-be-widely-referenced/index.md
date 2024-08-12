@@ -114,7 +114,7 @@ References from business and education are also used to support the hypothesis. 
 
 **An Additional Hypothesis**
 
-The concept of the ‘average quality’ of uneven birth quarters having a long term effect was discussed by Bryson, Gomez & Zhang (2017). Its long term implications result in a regression to the mean from when the temporal advantage begins to fade. It could be argued that this ‘no mechanism’ effect is more likely at play than any other mechanistic factor.
+The concept of the ‘average quality’ of uneven birth quarters having a long term effect was discussed by Bryson, Gomez & Zhang (2017). Its long term implications result in a regression towards the mean from when the temporal advantage begins to fade. It could be argued that this ‘no mechanism’ effect is more likely at play than any other mechanistic factor.
 
 If we assume that potential high quality players are evenly distributed across the entire population by birthdate, then when over selections of early born are made, it is likely that more players towards the lower potential/ability tail are selected in early born groups than later born. See Figure below from Bryson, Gomez & Zhang (2017). This example comes from Canadian ice hockey where the cut off date is 31st December. Therefore January born are over selected far more than December born who are under selected. Using a normal distribution curve the diagram shows how those selected for January (early born) have a large number from the left of the curve (ie. of low potential/ability). For December (late born) those who are lucky enough to be selected are likely from the right of the curve (i.e. of high potential/ability).
 
