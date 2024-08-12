@@ -20,7 +20,7 @@ Regression to the mean (RTM) is a statistical phenomenon that describes how vari
 
 For RAE, on entry into the academy system, early and late born athletes are generally over and underrepresented in comparison to the mean, with consequential effects on the ‘average quality’ of each group. Over time however, the proportions of early and late born athletes tend to move to the mean, as contributing factors dissipate and inherent differences in ‘average quality’ play out, resulting in higher conversion and lower conversion rates for late and early born athletes respectively.
 
-In support of the RTM argument, this article calls into question some of the evidence that has been presented in support of one of the other explanations, ‘The Reversal of RAE Advantage’, a version of the Underdog Hypothesis with a single ‘psychological’ mechanism attached. Consequently a re-appraisal of this paper and subsequent research that it supports is suggested.
+In support of the regression towards the mean argument, this article calls into question some of the evidence that has been presented in support of one of the other explanations, ‘The Reversal of RAE Advantage’, a version of the Underdog Hypothesis with a single ‘psychological’ mechanism attached. Consequently a re-appraisal of this paper and subsequent research that it supports is suggested.
 
 **Background**
 
@@ -40,7 +40,7 @@ But what if these papers and this construct are wrong? What if the magnitude of 
 
 The answer is that thousands of kids are unfairly discriminated against each and every year that this continues. It results in a restricted potential player pool and genuinely world class potential may be being missed.
 
-This article looks at the data of the 2016 paper, explains ‘conversion rates’, questions the conclusions and offers an alternative hypothesis.
+This article looks at the data of the 2016 paper, explains ‘conversion rates’, questions the conclusions and offers an additional hypothesis.
 
 **The Data**
 
@@ -112,7 +112,7 @@ Is the evidence from the 2014 & 2016 papers enough to totally discount skill and
 
 References from business and education are also used to support the hypothesis. There is an addendum that covers this for further reading if required.
 
-**An Alternative Hypothesis**
+**An Additional Hypothesis**
 
 The concept of the ‘average quality’ of uneven birth quarters having a long term effect was discussed by Bryson, Gomez & Zhang (2017). Its long term implications result in a regression to the mean from when the temporal advantage begins to fade. It could be argued that this ‘no mechanism’ effect is more likely at play than any other mechanistic factor.
 
@@ -141,7 +141,7 @@ We are all influenced by our desired narratives, such as to see appropriate inte
 
 *‘Whilst the physiological impact on RAE has been extensively reviewed over a significant period of time, much less reported in the sporting literature is the effect of psychological disruptions and the impact not only on the identification process but more importantly the negotiation of the development journey.’* McCarthy, Collins, Court (2016).
 
-This article advocates for the regression to the mean explanation of RAE decline as a result of uneven Birth Quarters containing inherent differences in ‘average quality’. Other possible mechanisms being in play to various (currently unknown) degrees is still entirely possible and even likely, but to what degree and are they minor compared to a natural regression to the mean?
+This article advocates for the regression towards the mean explanation of RAE decline as a result of uneven Birth Quarters containing inherent differences in ‘average quality’. Other possible mechanisms being in play to various (currently unknown) degrees is still entirely possible and even likely, but to what degree and are they minor compared to a natural regression towards the mean?
 
 The 2016 paper argues that the Reversal of RAE Advantage is the same as the Underdog Hypothesis within the RAE domain but with an ‘only’ psychological mechanism attached. Subsequent research based on the Reversal of RAE Advantage often advocates the avoidance of ‘blanket approaches’ to addressing RAE bias. However, interventions such as Age Ordered Shirt Numbering (Mann & Ginneken, 2017) can provide additional context, allowing evidence informed selections.
 
