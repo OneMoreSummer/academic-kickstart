@@ -92,7 +92,7 @@ Perhaps ‘% of Max CR’ is a more valid way of comparing CRs, i.e. how far alo
 
 **The Conclusions**
 
-Firstly, the regression to the mean (no mechanism) is not discussed or discounted. There is also no consideration of how over-selecting a particular birth quarter can affect the average quality of that group compared to other under-selected groups and the longer term retention effects of this.
+Firstly, the regression towards the mean (no mechanism) is not discussed or discounted. There is also no consideration of how over-selecting a particular birth quarter can affect the average quality of that group compared to other under-selected groups and the longer term retention effects of this.
 
 Instead, a single mechanism of improved psychological skills in later born, is proposed. How do the authors get to this point? …
 
