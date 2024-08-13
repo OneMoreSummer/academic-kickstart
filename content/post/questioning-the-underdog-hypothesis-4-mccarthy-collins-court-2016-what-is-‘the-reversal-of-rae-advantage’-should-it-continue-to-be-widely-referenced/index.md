@@ -38,7 +38,7 @@ Some of this subsequent research has led to the recommendation that RAE should n
 
 But what if these papers and this concept are wrong? What if the magnitude of proposed mechanisms are wildly overestimated? What if higher junior to senior transition rates are NOT caused by one predominant mechanism? What if a number of mechanisms are present and they are outweighed by a natural population regression effect due to the slow decline in temporal advantage? What if National Governing Bodies are wrongly being advised to ‘do nothing’ on RAE bias?
 
-The answer is that thousands of kids are unfairly discriminated against each and every year that this continues. It results in a restricted potential player pool and genuinely world class potential may be being missed.
+The answer is that thousands of kids are unfairly discriminated against each and every year that this continues. It results in a restricted player pool and genuinely world class potential may be being missed.
 
 This article looks at the data of the 2016 paper, explains ‘conversion rates’, questions the conclusions and offers an additional hypothesis.
 
