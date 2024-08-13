@@ -12,7 +12,7 @@ Warning: Overly self-indulgent content.
 
 After posting an article critiquing the paper [McCarthy, Collins, Court (2016) ‘Start hard, finish better: further evidence for the reversal of RAE advantage’](https://onemoresummer.co.uk/post/questioning-the-underdog-hypothesis-4-mccarthy-collins-court-2016-what-is-the-reversal-of-rae-advantage-should-it-continue-to-be-widely-referenced/) I was called a ‘Mad Dad’ by one of the authors. Boo hoo. The tweet, now deleted because it was extremely disrespectful to an eminent academic, for me is neither here nor there, but it made me think I should explain why I do this? What my motivation is.
 
-I have an August birthday and was a late maturer who struggled socially during adolescence. Cue violins. I went to three different cricket clubs but didn’t stick at any and gave up playing cricket, a game I absolutely love, from the age of 15 until 27. This isn’t an unusual story however, especially for later born and/or later maturing individuals. 
+I have an August birthday and was a late maturer who struggled socially during adolescence. Cue violins. I went to three different cricket clubs but didn’t stick at any and gave up playing cricket, a game I absolutely love, from the age of 15 until 27. This probablyisn’t an unusual story however, especially for later born and/or later maturing individuals. 
 
 Perhaps, as Nassim Nicholas Taleb says, ‘I have skin in the game’. Maybe I have someempathy, even a strong bias, for those that the system often doesn’t treat as well as it should?
 
