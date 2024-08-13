@@ -14,7 +14,7 @@ After posting an article critiquing the paper [McCarthy, Collins, Court (2016) �
 
 I have an August birthday and was a late maturer who struggled socially during adolescence. Cue violins. I went to three different cricket clubs but didn’t stick at any and gave up playing cricket, a game I absolutely love, from the age of 15 until 27. This probablyisn’t an unusual story however, especially for later born and/or later maturing individuals. 
 
-Perhaps, as Nassim Nicholas Taleb says, ‘I have skin in the game’. Maybe I have someempathy, even a strong bias, for those that the system often doesn’t treat as well as it should?
+Perhaps, as Nassim Nicholas Taleb says, ‘I have skin in the game’. Maybe I have some empathy, even a strong bias, for those that the system often doesn’t treat as well as it should?
 
 As a dad of sporty kids I’ve also seen all of the cricket pathway and how many promising players are lost within the system, at various stages, due to being born late, late maturing, gone to the wrong school, or a combination of these or other factors.
 
