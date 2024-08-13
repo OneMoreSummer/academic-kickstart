@@ -16,7 +16,7 @@ I have an August birthday and was a late maturer who struggled socially during a
 
 Perhaps, as Nassim Nicholas Taleb says, ‘I have skin in the game’. Maybe I have some empathy, even a strong bias, for those that the system often doesn’t treat as well as it should?
 
-As a dad of sporty kids I’ve also seen all of the juniorcricket pathway and how many promising players are lost within the system, at various stages, due to being born late, late maturing, gone to the wrong school, or a combination of these or other factors.
+As a dad of sporty kids I’ve also seen all of the junior cricket pathway and how many promising players are lost within the system, at various stages, due to being born late, late maturing, gone to the wrong school, or a combination of these or other factors.
 
 I’m retired and lucky to have time to read academic papers, blogs, books, listen to podcasts and to think about these subjects. I also kind of feel a responsibility to do this as maybe no one else is doing this within the cricket community?
 
