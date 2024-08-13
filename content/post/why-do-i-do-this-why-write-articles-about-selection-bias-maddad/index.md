@@ -18,6 +18,6 @@ Perhaps, as Nassim Nicholas Taleb says, ‘I have skin in the game’. Maybe I h
 
 As a dad of sporty kids I’ve also seen all of the cricket pathway and how many promising players are lost within the system, at various stages, due to being born late, late maturing, gone to the wrong school, or a combination of these or other factors.
 
-I’m retired and lucky to have time to read academic papers, blogs, books, listen to podcasts and  think about these subjects. Is anyone else doing this within the cricket community?
+I’m retired and lucky to have time to read academic papers, blogs, books, listen to podcasts and to think about these subjects. I also kind of feel a responsibility to do this as maybe no one else is doing this within the cricket community?
 
 So from a MAD DAD, over generaliser, peer review avoider, publisher of pseudoscience & purveyor of bullshit, here’s to the next set of blog articles. Keep on keeping on.
