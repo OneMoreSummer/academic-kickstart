@@ -56,7 +56,7 @@ Using one data point at initial selection at around age 16 and a second at inter
 
 Only 24 international cricketers, born between 1982 & 1999, are identified. So far 80 players have played for England who were born in this period, debuting before 2020. The paper was published in 2016 so data was probably collected much before that date which would explain the difference.
 
-Between James Anderson making his Test (5 day format) debut on 15th Dec 2002 and Scott Borthwick debuting in a One Day International (50 over format) on 25th Aug 2011, 24 players born between 1982 & 1999 were selected for England.
+Between James Anderson making his One Day International (ODI, 50 over format) debut on 15th Dec 2002 and Scott Borthwick debuting in an ODI on 25th Aug 2011, 24 players born between 1982 & 1999 were selected for England.
 
 The RAE profile of these cohorts:
 
