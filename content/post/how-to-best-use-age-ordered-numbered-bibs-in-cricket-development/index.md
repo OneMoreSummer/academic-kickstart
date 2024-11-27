@@ -34,7 +34,7 @@ Is there utility in using biological age for numbering and four colours for birt
 
 There may be options for how biological age ordering is done with AONBs. This needs further exploration.
 
-Should AONB biological age ordering for boys from the earliest age groups as maturation selection bias can start from U9?
+Should AONB biological age ordering for boys start from the earliest age groups as maturation selection bias can start from U9?
 
 Can the ECB urgently measure how maturation selection bias works in the girls pathway?
 
