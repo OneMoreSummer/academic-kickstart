@@ -18,6 +18,8 @@ Hard times fell on the farmer and he couldn’t afford to feed all the hens. He 
 
 ![](hens.png)
 
+Photo by [Jan Baborák](https://unsplash.com/@janbaborak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/two-brown-chickens-dujegruFSRY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
 Time passed and not much happened with the hens. The farmer kept feeding them and the hens kept laying eggs. However sometimes, if a hen started only laying an egg or two a week,  he let them go to join the others in the surrounding countryside.
 
 It was during this time that the mountain began to crumble. It was made of weak rock. It quickly weathered until one day the mountain finally cast no shadow at all over the farm.
