@@ -21,3 +21,5 @@ Rookies had significant RAE (X2=10.4 p=0.02). Prime had non-significant RAE Reve
 Large variability for Q1, Q3 & Q4 between Rookie & Prime stages. High levels of RAE introduced at the professional stage then decline over time as found in [male professional sport in England](https://onemoresummer.co.uk/post/an-investigation-of-the-senior-raes-timeline-of-four-male-professional-english-sports/).
 
 These results are a reflection of how development environments in [England women & girls cricket over select early born](https://onemoresummer.co.uk/post/competition-level-effects-in-english-women-girls-national-cricket-pathways/).
+
+\*﻿ 1 unknown date of birth.
