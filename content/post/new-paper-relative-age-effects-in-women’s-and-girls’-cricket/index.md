@@ -46,7 +46,7 @@ Important contextual factors such as maturation, training age/experience and gen
 
 This data doesn’t include the last U19 World Cup squad of 2024 which had a more balanced Birth Quarter selection. However across a total of 12 World Cup games no BQ3 batter has EVER batted in the top 6 and ONLY 4 of 72 possible top 6 batting opportunities have been for a BQ4.
 
-Although not shown in this paper, analysis of playing opportunities at the Regional Festivals & School Games level, show that later born play fewer matches and bat less than early born (especially Q1).
+Although not shown in this paper, analysis of playing opportunities at the Regional Festivals & School Games level, show that later born play relatively fewer matches and bat less than early born (especially Q1).
 
 **C﻿onclusion**
 
