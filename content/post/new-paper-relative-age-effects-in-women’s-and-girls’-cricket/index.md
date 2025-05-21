@@ -20,8 +20,6 @@ RAE Reversal at senior level across all formats
 
 Effects significant for batters & bowlers but higher in batters
 
-
-
 Those born in the first half of the year are favoured at Regional Festivals (62%), School Games (80%) & at the U19 World Cup (93%), across skill-sets (i.e., batters, bowlers). However, in senior cohorts (i.e., England T20, England ODI, England Test) this selection asymmetry was reversed, as more relatively younger batters and bowlers were selected.
 
 These junior levels of RAE are in excess of the boys national pathway which itself is significant at U15, U17 & U19. Stakeholders should implement strategies to create a more equitable pathway and support all players in realising their potential.
@@ -44,7 +42,7 @@ Current RAE in junior female cricket may ‘knock-on’ onto senior professional
 
 **Limitations**
 
-Important contextual factors such as maturation, training age/experience and genetic factors (e.g. height) were not accounted for. Limited data access & the cross-sectional study nature of the study.
+Important contextual factors such as maturation, training age/experience and genetic factors (e.g. height) were not accounted for. Limited data access & the cross-sectional nature of the study.
 
 This data doesn’t include the last U19 World Cup squad of 2024 which had a more balanced Birth Quarter selection. However across a total of 12 World Cup games no BQ3 batter has EVER batted in the top 6 and ONLY 4 of 72 possible top 6 batting opportunities have been for a BQ4.
 
