@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Six years ago, in January 2020, I provided the followingconstructive feedback to a Professional County, Somerset CCC, on how their development environment could improve, after I had experienced it for seven years. Some of these subject areas I barely knew much about but have now developed a firm interest & reasonable knowledge. I received a curt thank you and nothing more. This wasn’t feedback that was sought out. It was something I felt I needed to say, if only to help make the next person’s journey a little better. From my understanding of current coaching topics & coach education, I would say most, if not all, of the subject areas remain unaddressed. What do you think?
+Six years ago, in January 2020, I provided the following constructive feedback to a Professional County, Somerset CCC, on how their development environment could improve, after I had experienced it for seven years. Some of these subject areas I barely knew much about but have now developed a firm interest & reasonable knowledge. I received a curt thank you and nothing more. This wasn’t feedback that was sought out. It was something I felt I needed to say, if only to help make the next person’s journey a little better. From my understanding of current coaching topics & coach education, I would say most, if not all, of the subject areas remain unaddressed. What do you think?
 
 1. **Consider updating your processes**
 
