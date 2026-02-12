@@ -1,8 +1,8 @@
 ---
-title: ECB to fund a PHd to investigate ‘Addressing Selection Bias and Injury
+title: ECB to fund a Phd to investigate ‘Addressing Selection Bias and Injury
   Risk in English Youth Cricket’ FINALLY!!!
 date: 2026-02-12T15:19:55.572Z
-summary: <https://onemoresummer.co.uk/post/unnatural-selection-the-myths-and-misconceptions-of-relative-age-effects-and-maturation-biases/>
+summary: ""
 draft: false
 featured: false
 image:
