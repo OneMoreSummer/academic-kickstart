@@ -1,5 +1,5 @@
 ---
-title: "ECB to fund a Phd to investigate ‘Addressing Selection Bias and Injury
+title: "ECB to fund a PhD to investigate ‘Addressing Selection Bias and Injury
   Risk in English Youth Cricket: A Growth and Maturation Research Programme’
   FINALLY!!!"
 date: 2026-02-12T15:19:55.572Z
