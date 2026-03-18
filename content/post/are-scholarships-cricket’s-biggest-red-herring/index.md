@@ -56,7 +56,7 @@ But should a kid have to leave their friends and possibly move from home to give
 
 
 
-And for the future? What is currently baked into the system, i.e. the professionals of the next 5 years are already within the system? State school percentages at Academy level are lower than the current professional cohort and U19 teams are packed with independently educated players. So perhaps the trend will continue.
+And for the future? What is currently baked into the system, i.e. the professionals of the next 5 years are already within the system? State school percentages at Academy level are lower than the current professional cohort and England U19 teams are packed with independently educated players. So perhaps the trend will continue.
 
 
 
