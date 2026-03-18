@@ -24,6 +24,8 @@ Independent schools don’t charge their full fees for a small number of ‘tale
 
 The ECB ICEC Progress Update (Sept 2024) states that only 16% of men & 9% of women independently educated professional English cricketers received scholarships.
 
+![](percentage-of-90-scholarships-within-independently-educated-professional-english-cricketers-ecb-2024-.png)
+
 So around 80-90% of independently educated professional players come from relatively wealthy families who don’t necessarily have any extra ‘talent’ above the rest of the population.
 
 
@@ -40,7 +42,7 @@ Is the percentage of scholarship players who go on to play for England higher th
 
 How should we count selective Grammar Schools? Should they be highlighted? They are by the Sutton Trust & interestingly are now providing fewer male England players than in 2014 and fewer female players since 2019.
 
-
+![](red-herring.jpg)
 
 Photo by [Andrés Gómez](https://unsplash.com/@andresloquesea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-pile-of-fish-sitting-on-top-of-each-other-WpQdzwp1hLE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
