@@ -22,7 +22,7 @@ Independent schools don’t charge their full fees for a small number of ‘tale
 
 **The Facts**
 
-The ECB ICEC Progress Update (Sept 2024) states that only 16% of men & 9% of women independently educated professional English cricketers received scholarships.
+The ECB ICEC Progress Update (Sept 2024) states that only **16% of men & 9% of women** independently educated professional English cricketers received scholarships.
 
 ![](percentage-of-90-scholarships-within-independently-educated-professional-english-cricketers-ecb-2024-.png)
 
