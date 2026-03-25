@@ -51,6 +51,6 @@ Some changes have already been done: more experienced coaches are working in hub
 
 **Appendix**
 
-1. Within the UK, our mission is to open up access to the talent pathways so that every young cricketer has the opportunity to reach their full potential in the game, regardless of race, gender, or economic circumstance.
+1. *'Within the UK, our mission is to open up access to the talent pathways so that every young cricketer has the opportunity to reach their full potential in the game, regardless of race, gender, or economic circumstance.'*
 
 <https://www.lords.org/mcc/mcc-foundation/mcc-foundation-in-the-uk>
