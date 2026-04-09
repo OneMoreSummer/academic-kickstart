@@ -15,6 +15,10 @@ image:
 
 Using a list of all players on county websites on the 1st Jan 2026 and removing all overseas players, players developed overseas and two subsequent retirees the figure is **62.2%** of UK developed male players had fee paying independent/grammar schooling (n=320). 
 
+![](vitalii-chaika-7ndefbfew6a-unsplash.jpg)
+
+Photo by [Vitalii Chaika](https://unsplash.com/@vitaliy21?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-silver-car-parked-on-the-side-of-a-road-7NdEFbfeW6A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 **Is there a trend?**
 
 According to the Sutton Trust the number of male England players independently schooled in 2025 was 59%. This was compared to 43% in 2019 and just 33% in 2014. This trend is also replicated in the women’s game too with 35% in 2019 & 50% in 2025. Is this reflected in the county ranks?
