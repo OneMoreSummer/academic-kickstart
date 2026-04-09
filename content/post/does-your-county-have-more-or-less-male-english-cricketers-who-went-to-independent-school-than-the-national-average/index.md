@@ -15,8 +15,6 @@ image:
 
 Using a list of all players on county websites on the 1st Jan 2026 and removing all overseas players, players developed overseas and two subsequent retirees the figure is **62.2%** of UK developed male players had fee paying independent/grammar schooling (n=320). 
 
-
-
 **Is there a trend?**
 
 According to the Sutton Trust the number of male England players independently schooled in 2025 was 59%. This was compared to 43% in 2019 and just 33% in 2014. This trend is also replicated in the women’s game too with 35% in 2019 & 50% in 2025. Is this reflected in the county ranks?
@@ -50,7 +48,7 @@ Scholarships are the number one argument from defenders of the status quo but we
 
 Around 45% of all male professional players have had a cricketing education paid for by mum and dad which is just 0.5% of the general population*. Where will we be in 2030?
 
-This is not the fault of the independent schools. They do an amazing job. The pathway ecosystem seems to have changed over the last 15 years and these schools have become more aligned with counties. This has saved counties money and they have a regular stream of ‘oven ready’ cricketers at age 18. But at what cost? Radically reducing the potential ‘tlent pool’? Changing the culture of cricket? Disconnecting from fans?
+This is not the fault of the independent schools. They do an amazing job. The pathway ecosystem seems to have changed over the last 15 years and these schools have become more aligned with counties. This has saved counties money and they have a regular stream of ‘oven ready’ cricketers at age 18. But at what cost? Radically reducing the potential ‘talent pool’? Changing the culture of cricket? Disconnecting from fans?
 
 The ECB could fund a number of state school hubs, possibly linked to multi-school Academies/Trusts, to a level that could genuinely compete with the top independent cricketing schools. Exemplars exist such as the Canterbury Academy. We can do better! 
 
@@ -69,7 +67,5 @@ Overseas players & those English qualified players who developed overseas not in
 Fee paying Grammar schools included as independent schools.
 
 n=320
-
-
 
 \*The 45% from 0.5% figure is based on 52% independently educated male professionals (ECB, State of Equity report 2025), 16% of those had a 90+% scholarship (ECB, 2024), most professionals come from the top 100 cricketing independent schools (to be verified), 1500 independent senior schools, between 6-7% of pupils attend an independent school.
