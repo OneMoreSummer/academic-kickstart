@@ -37,15 +37,13 @@ However the RAE profile by age for state school professionals is very different 
 
 ![](state-schooled-male-professionals-by-half-year-rae-split-into-thirds-by-age-rookie-prime-veteran-.png)
 
-Some RAE for independent school professionals. 57:43 but not significant (X2=4.93, p=0.18).
+Some RAE for independent school professionals. 57:43 but this is not significant (X2=4.93, p=0.18).
 
 Again, this hides a RAE journey for independent schooled professionals with early born at 49% for Rookies and 64% for Veterans, i.e. an opposite effect to the state schooled journey with RAE increasing over a career.
 
 ![](independently-schooled-male-professionals-by-half-year-rae-split-into-thirds-by-age-rookie-prime-veteran-.png)
 
 1 in 3 state schooled male professional cricketers, developed in the UK, who were born between March & August will play for England. For everyone else (state schooled born Sep-Feb, or independently schooled) this drops to around at least 1 in 6. So this would suggest a player with a double development disadvantage (Training Age & Relative Age) is more likely to have a higher ceiling of ability than a player with either a double or single advantage. This doesn’t appear to be a simple ‘sample effect’ where there are just fewer double disadvantage players as there are around the same number for both single advantage cohorts (59 State/Late as well as 59 State/Early & 84 Indy/Late).
-
-
 
 **Are there performance effects too?**
 
@@ -67,28 +65,16 @@ Are batters largely from independent schools & bowlers largely from state school
 
 So yes, independent batters (19) offer more career value at England level than state bowlers (16) with independent bowlers (12) & state schooled batters (7) recording relatively low values. State all rounders (7) outperform all others. 
 
-
-
 **Conclusion**
 
 All this data could be confounded by other factors such as maturation bias or heritable/genetic factors such as height. These factors need to be studied further.
 
-
-
 But based on this snapshot data then county players that succeed best at the highest level are independent school batters born early and state school bowlers & all rounders born late.
-
-
 
 This is important in relation to the ‘Underdog Hypothesis’ for RAE. This states that a player born late that survives the development system will achieve more, on average, than a player born early. It is hypothesised that later born, through having had higher development challenges, have developed better skills (technical, tactical, psychological).
 
-
-
 Clearly though this data shows that for independently schooled later born, outputs are low. Equally for independently schooled early born players, outputs are high. This casts doubt on the hypothesis, in a RAE context. It perhaps also suggests that in identifying ‘underdogs’ many attributes are at play, relative, biological & training age, genetic, as well as other factors. Perhaps a factor can act as a disadvantage with other factors being counter-balancing advantages.
 
-
-
 In the 2005 Ashes only 3 of the 10 UK developed England players went to independent school. Fast forward to the 2025 Ashes and Ben Stokes was the only state school player to line up in Brisbane. The ecosystem has changed and is continuing to change with the women’s game equally going the way of the men’s.
-
-
 
 Equally we know relative age bias exists in the English development system both in the men’s & women’s game.
