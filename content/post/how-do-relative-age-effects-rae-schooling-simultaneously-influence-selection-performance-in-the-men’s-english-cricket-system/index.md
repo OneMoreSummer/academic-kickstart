@@ -9,15 +9,17 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**1 in 3 state schooled male professional cricketers, developed in the UK, who were born between March & August have played for England. For everyone else (state schooled born Sep-Feb, or independently schooled) this drops to around at least 1 in 6.**
+**1 in 3 state schooled male professional cricketers, developed in the UK, who were born between March & August have played for England. For everyone else (state schooled born Sep-Feb, or independently schooled) this drops to arou**nd at least 1 in 6.
 
-This study attempts to look at the simultaneous influence of training age and relative age on the selection of both professional and international English male cricketers. Schooling, be it state or independent, is used as a proxy for training age. The aim is to establish the influence of more than one (dis)advantage, i.e. how is selection and performance affected by a double (dis)advantage as well as either single (dis)advantage. Research has shown that advanced training and relative age are recognised as factors offering a selection advantage in junior development. Relative age groupings are split into early (born September-February) and late (born March-August).
+Research has shown that advanced training and relative age are recognised as factors offering a selection advantage in junior development. This study attempts to look at the simultaneous influence of training age and relative age on the selection of both professional and international English male cricketers. Schooling, be it state or independent, is used as a proxy for training age. The aim is to establish the influence of more than one (dis)advantage, i.e. how is selection and performance affected by a double (dis)advantage as well as either single (dis)advantage.
 
 ![](disadvantagematrix.png)
 
 **Method**
 
 A list of players was gathered from county websites on 1/1/2026 and dates of birth and schooling were extracted from [cricketarchive.com](http://cricketarchive.com). Overseas players and English players who mostly grew up overseas were not included. 12 players had unknown schooling and were not included leaving 314 players within the study.
+
+Relative age groupings are split into early (born September-February) and late (born March-August).
 
 \*Please note that some charts show early born as HY1 (1st half of year, born Sept-Feb) and late born as HY2 (2nd half of year, born Mar-Aug).
 
