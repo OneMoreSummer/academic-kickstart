@@ -23,8 +23,9 @@ Relative age groupings are split into early (born September-February) and late (
 
 \*Please note that some charts show early born as HY1 (1st half of year, born Sept-Feb) and late born as HY2 (2nd half of year, born Mar-Aug).
 
-**Results**
 
+
+**Effects of RAE & schooling on selection**\
 There are more independently schooled (62%) professionals than state schooled (38%).
 
 Equal numbers of England players come from state (30) and independent (31) schools so  relatively more state educated (25%) go on to play for England than independently educated (15.7%).
