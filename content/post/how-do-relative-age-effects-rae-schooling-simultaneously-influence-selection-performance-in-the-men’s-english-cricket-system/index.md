@@ -66,14 +66,12 @@ So yes, independent batters (19) offer more career value at England level than s
 
 **Conclusion**
 
-All this data could be confounded by other factors such as maturation bias or heritable/genetic factors such as height. These factors need to be studied further.
+This data could be confounded by other factors such as maturation bias or heritable/genetic factors such as height. These factors need to be studied further multifactorially rather than single factor studies (e.g. just relative age) which don’t reveal as much.
 
 But based on this snapshot data then county players that succeed best at the highest level are independent school batters born early and state school bowlers & all rounders born late.
 
-This is important in relation to the ‘Underdog Hypothesis’ for RAE. This states that a player born late that survives the development system will achieve more, on average, than a player born early. It is hypothesised that later born, through having had higher development challenges, have developed better skills (technical, tactical, psychological).
+This is important in relation to the ‘[Underdog Hypothesis](https://onemoresummer.co.uk/post/all-you-ever-need-to-know-about-the-underdog-hypothesis-in-2-minutes/)’ for RAE. This states that a player born late that survives the development system will achieve more, on average, than a player born early. It is hypothesised that later born, through having had higher development challenges, have developed better skills (technical, tactical, psychological).
 
 Clearly though this data shows that for independently schooled later born, outputs are low. Equally for independently schooled early born players, outputs are high. This casts doubt on the underdog hypothesis, in a RAE context. It perhaps also suggests that in identifying ‘underdogs’ many attributes are at play, relative, biological & training age, genetic, as well as other factors. Perhaps a factor can act as a disadvantage with other factors being counter-balancing advantages.
 
-In the 2005 Ashes only 3 of the 10 UK developed England players went to independent school. Fast forward to the 2025 Ashes and Ben Stokes was the only state school player to line up in Brisbane. The ecosystem has changed and is continuing to change with the women’s game equally going the way of the men’s.
-
-Equally we know relative age bias exists in the English development system both in the men’s & women’s game.
+In the 2005 Ashes only 3 of the 10 UK developed England players went to independent school. Fast forward to the 2025 Ashes and Ben Stokes was the only state school player to line up in Brisbane. The ecosystem has changed and is continuing to change with the women’s game equally going the way of the men’s. We know relative age bias exists in the English development system both in the men’s & women’s game.
