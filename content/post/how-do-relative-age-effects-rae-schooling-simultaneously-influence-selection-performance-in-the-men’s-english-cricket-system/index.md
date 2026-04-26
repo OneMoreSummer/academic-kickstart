@@ -11,7 +11,7 @@ image:
 ---
 **1 in 3 state schooled male professional cricketers, developed in the UK, who were born between March & August have played for England. For everyone else (state schooled born Sep-Feb, or independently schooled) this drops to around at least 1 in 6.**
 
-Research has shown that advanced training and relative age are recognised as factors offering a selection advantage in junior development. This study attempts to look at the simultaneous influence of training age and relative age on the selection of both professional and international English male cricketers. Schooling, be it state or independent, is used as a proxy for training age. The aim is to establish the influence of more than one (dis)advantage, i.e. how is selection and performance affected by a double (dis)advantage as well as either single (dis)advantage.
+Research has shown that advanced training and relative age are recognised as factors offering a selection advantage in junior development. This study attempts to look at the simultaneous influence of training age and relative age on the selection of both professional and international English male cricketers. Schooling, be it state or independent, is used as a proxy for training age/experience. The aim is to establish the influence of more than one (dis)advantage, i.e. how is selection and performance affected by a double (dis)advantage as well as either single (dis)advantage.
 
 ![](disadvantagematrix.png)
 
