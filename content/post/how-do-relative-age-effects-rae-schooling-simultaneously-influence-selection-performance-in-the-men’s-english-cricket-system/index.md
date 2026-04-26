@@ -30,6 +30,10 @@ There are more independently schooled (62%) professionals than state schooled (3
 
 Equal numbers of England players come from state (30) and independent (31) schools so relatively more state educated (25%) go on to play for England than independently educated (15.7%).
 
+So **1 in 3** state schooled male professional cricketers, developed in the UK, who were born between March & August will play for England. For everyone else (state schooled born Sep-Feb, or independently schooled) this drops to around at least **1 in 6**. So this would suggest a player with a double development disadvantage (Training Age & Relative Age) is more likely to have a higher ceiling of ability than a player with either a double or single advantage.
+
+This doesn’t appear to be a simple ‘sample effect’ where there are just fewer double disadvantage players as there are around the same number for both single advantage cohorts (59 State/Late as well as 59 State/Early & 84 Indy/Late).
+
 ![](how-many-uk-developed-players-represent-england-by-schooling-state_independent-half-year-relative-age-n-319-_.png)
 
 Equal numbers of early born & late born exist for all state school professionals. However the RAE profile by age for state school professionals is very different with early born at 66% for Rookies (<22.9yrs) but only 40% for Veterans (>28.0yrs), i.e. RAE decreases into a RAE Reversal as players age. This suggests it is harder to be signed at age 18 for State & Late than State & Early but that they are more likely to be retained in their 20s & beyond.
