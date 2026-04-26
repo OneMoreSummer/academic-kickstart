@@ -72,7 +72,7 @@ But based on this snapshot data then county players that succeed best at the hig
 
 This is important in relation to the ‘Underdog Hypothesis’ for RAE. This states that a player born late that survives the development system will achieve more, on average, than a player born early. It is hypothesised that later born, through having had higher development challenges, have developed better skills (technical, tactical, psychological).
 
-Clearly though this data shows that for independently schooled later born, outputs are low. Equally for independently schooled early born players, outputs are high. This casts doubt on the hypothesis, in a RAE context. It perhaps also suggests that in identifying ‘underdogs’ many attributes are at play, relative, biological & training age, genetic, as well as other factors. Perhaps a factor can act as a disadvantage with other factors being counter-balancing advantages.
+Clearly though this data shows that for independently schooled later born, outputs are low. Equally for independently schooled early born players, outputs are high. This casts doubt on the underdog hypothesis, in a RAE context. It perhaps also suggests that in identifying ‘underdogs’ many attributes are at play, relative, biological & training age, genetic, as well as other factors. Perhaps a factor can act as a disadvantage with other factors being counter-balancing advantages.
 
 In the 2005 Ashes only 3 of the 10 UK developed England players went to independent school. Fast forward to the 2025 Ashes and Ben Stokes was the only state school player to line up in Brisbane. The ecosystem has changed and is continuing to change with the women’s game equally going the way of the men’s.
 
