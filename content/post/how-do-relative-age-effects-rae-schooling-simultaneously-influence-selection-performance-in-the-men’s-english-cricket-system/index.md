@@ -36,9 +36,7 @@ Equal numbers of early born & late born exist for all state school professionals
 
 ![](state-schooled-male-professionals-by-half-year-rae-split-into-thirds-by-age-rookie-prime-veteran-.png)
 
-Some RAE for independent school professionals. 57:43 but this is not significant (X2=4.93, p=0.18).
-
-Again, this hides a RAE journey for independent schooled professionals with early born at 49% for Rookies and 64% for Veterans, i.e. an opposite effect to the state schooled journey with RAE increasing over a career.
+In contrast, for independent school professionals it is equally likely to be signed at 18 regardless of relative age with early born at 49% for Rookies. Subsequently however, instead of later born increasing over a career as for state schooled, for independently schooled players the opposite effect occurs with RAE increasing over a career.
 
 ![](independently-schooled-male-professionals-by-half-year-rae-split-into-thirds-by-age-rookie-prime-veteran-.png)
 
