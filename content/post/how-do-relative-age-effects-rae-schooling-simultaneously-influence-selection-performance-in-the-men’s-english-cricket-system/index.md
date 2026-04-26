@@ -28,7 +28,7 @@ Relative age groupings are split into early (born September-February) and late (
 **Effects of RAE & schooling on selection**\
 There are more independently schooled (62%) professionals than state schooled (38%).
 
-Equal numbers of England players come from state (30) and independent (31) schools so  relatively more state educated (25%) go on to play for England than independently educated (15.7%).
+Equal numbers of England players come from state (30) and independent (31) schools so relatively more state educated (25%) go on to play for England than independently educated (15.7%).
 
 ![](how-many-uk-developed-players-represent-england-by-schooling-state_independent-half-year-relative-age-n-319-_.png)
 
