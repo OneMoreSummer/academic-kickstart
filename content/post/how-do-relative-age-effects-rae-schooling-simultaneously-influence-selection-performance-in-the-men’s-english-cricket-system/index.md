@@ -32,7 +32,7 @@ Equal numbers of England players come from state (30) and independent (31) schoo
 
 ![](how-many-uk-developed-players-represent-england-by-schooling-state_independent-half-year-relative-age-n-319-_.png)
 
-Equal numbers of early born & late born exist for all state school professionals. However the RAE profile by age for state school professionals is very different with early born at 66% for Rookies (<22.9yrs) but only 40% for Veterans (>28.0yrs), i.e. RAE decreases into a RAE Reversal as players age. Suggesting it is harder to be signed for State & Late but that they are more likely to be retained later on.
+Equal numbers of early born & late born exist for all state school professionals. However the RAE profile by age for state school professionals is very different with early born at 66% for Rookies (<22.9yrs) but only 40% for Veterans (>28.0yrs), i.e. RAE decreases into a RAE Reversal as players age. Suggesting it is harder to be signed at age 18 for State & Late than State & Early but that they are more likely to be retained in their 20s & beyond.
 
 ![](state-schooled-male-professionals-by-half-year-rae-split-into-thirds-by-age-rookie-prime-veteran-.png)
 
