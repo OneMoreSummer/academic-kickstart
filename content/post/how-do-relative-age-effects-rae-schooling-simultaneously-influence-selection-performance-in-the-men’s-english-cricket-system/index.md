@@ -44,8 +44,6 @@ In contrast, for independent school professionals it is equally likely to be sig
 
 ![](independently-schooled-male-professionals-by-half-year-rae-split-into-thirds-by-age-rookie-prime-veteran-.png)
 
-1 in 3 state schooled male professional cricketers, developed in the UK, who were born between March & August will play for England. For everyone else (state schooled born Sep-Feb, or independently schooled) this drops to around at least 1 in 6. So this would suggest a player with a double development disadvantage (Training Age & Relative Age) is more likely to have a higher ceiling of ability than a player with either a double or single advantage. This doesn’t appear to be a simple ‘sample effect’ where there are just fewer double disadvantage players as there are around the same number for both single advantage cohorts (59 State/Late as well as 59 State/Early & 84 Indy/Late).
-
 **Are there performance effects too?**
 
 Perhaps selection effects can be misleading as a player who wins one T20 cap is counted the same as someone who plays 100 Tests. Clearly the latter player offers more return on investment to English cricket.
