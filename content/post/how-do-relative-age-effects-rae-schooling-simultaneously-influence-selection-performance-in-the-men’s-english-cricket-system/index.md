@@ -1,5 +1,5 @@
 ---
-title: How do Relative Age Effects (RAE) & schooling simultaneously influence
+title: How Relative Age Effects (RAE) & schooling simultaneously influence
   selection & performance in the men’s English cricket system.
 date: 2026-04-21T16:57:54.547Z
 draft: false
