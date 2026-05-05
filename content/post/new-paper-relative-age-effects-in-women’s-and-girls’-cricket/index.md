@@ -34,7 +34,7 @@ Two Year Age Grouping
 
 As girls start puberty earlier than boys, by 2 years on average, this may impact the effects of RAE. Early maturation selection bias may not exist or possibly be reversed at specific ages in girls. We don’t know! Maturation selection bias, in women & girls cricket is unpublished.
 
-**D﻿iscusion**
+**D﻿iscussion**
 
 Any conclusions about transition/conversion rates, in a RAE context, from junior to senior levels, that can be derived from this study, should perhaps be carefully considered. The current junior population is developing in a far more competitive professional environment than the majority of current senior players had in their developmental phase.
 
