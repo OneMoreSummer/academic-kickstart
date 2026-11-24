@@ -30,3 +30,5 @@ Fee paying schools include independent schools as well as a few grammar schools 
 Players developed overseas are included eg. KP (indy), Jofra (state)
 
 **[Are scholarships cricket’s biggest red herring?](https://onemoresummer.co.uk/post/are-scholarships-crickets-biggest-red-herring/)**
+
+[Does your county have more or less male English cricketers who went to Independent School than the national average?](https://onemoresummer.co.uk/post/does-your-county-have-more-or-less-male-english-cricketers-who-went-to-independent-school-than-the-national-average/)
