@@ -28,3 +28,5 @@ Only teams listed in cricketarchive are used (some cancelled matches are not lis
 Fee paying schools include independent schools as well as a few grammar schools that charge fees e.g. Manchester Grammar School & Loughborough Grammar School.
 
 Players developed overseas are included eg. KP (indy), Jofra (state)
+
+**[Are scholarships cricket’s biggest red herring?](https://onemoresummer.co.uk/post/are-scholarships-crickets-biggest-red-herring/)**
